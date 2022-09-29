@@ -275,6 +275,7 @@
     "invalid": "invalid",
     "internal": "internal",
     "manually": "manually",
+    "manual": "manual",
     "hour": "hour",
     "hours": "hours",
     "minute": "minute",
@@ -776,7 +777,6 @@
     "customerCardId": "Customer card ID",
     "anAlternative": "an alternative",
     "googleDriveFolder": "Google Drive folder",
-    "createCsvAndUploadToGoogleDrive": "Create CSV and upload to Google Drive",
     "jobConfig": "job config"
   },
   "highcharts": {
@@ -968,8 +968,9 @@
     "usernameIsAuthorizedAndInUse": "username not available, approved username is in use",
     "incompleteElrApiConfiguration": "deficient eLearnReception API configuration",
     "userDefinedUnitsNeedsParent": "user defined units can only be created under an existing unit",
-    "userDefinedUnitParentMustBeOfficial": "user defined units can only be created under official units",
-    "unitsOfTypeXCannotBeAddedToBrregTree": "units of type [X] cannot be added to a Brreg hierarchy",
+    "userDefinedUnitParentMustBeOfficialOrManual": "user defined units can only be created under official or manual units",
+    "unitsOfTypeManualCanOnlyBeAddedToManualTree": "manual units can only be added to a manual hierarchy",
+    "unitsOfTypeXCanOnlyBeAddedToXTree": "units of type [X] can only be added to [x] hierarchys",
     "failedWrongUserNameAndOrPassword": "failed (wrong username and/or password)",
     "requestIgnoredWrongApiVersion": "request ignored - wrong ApiVersion",
     "swedishMunicipalitiesNotUpdated": "Swedish municipalities/counties were not updated",
