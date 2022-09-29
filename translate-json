@@ -19,7 +19,7 @@ if (process.argv.length >= 4) {
 
     const apiUrl = _.template('https://www.googleapis.com/language/translate/v2?key=<%= apiKey %>&q=<%= value %>&source=en&target=<%= languageKey %>');
 
-    const transformResponse = (res) => {
+    const transformResponse = (res) => {		
         return _.lowerFirst(_.get(JSON.parse(res.text), ['data', 'translations', 0, 'translatedText'], ''));
     }
     const transformFree = (res) => {
@@ -29,7 +29,7 @@ if (process.argv.length >= 4) {
     const getCache = (languageKey) => {
         try {
             dicc[languageKey] = {};
-            let fileContent = fs.readFileSync(`./translateCache-${languageKey}.txt`, 'utf-8').split('\n');
+            let fileContent = fs.readFileSync(`./translateCache-${languageKey}.txt`, 'utf-8').split(/\r?\n/);
             fileContent.map((line)=> {
                 let cached = line.split('|');
                 if(cached[0]) dicc[languageKey][cached[0]] = cached[1];
@@ -87,7 +87,7 @@ if (process.argv.length >= 4) {
                     });
                 }
                 else {
-                    console.log(value + ' cached: ' + dicc[languageKey][path]);
+                    console.log(value + ' cached: ' + '(' + dicc[languageKey][path] + ')');
                     _.set(accumulator, keyChain, dicc[languageKey][path]);
                     return accumulator;
                 }
