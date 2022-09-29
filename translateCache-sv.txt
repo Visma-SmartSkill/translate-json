@@ -1,0 +1,1235 @@
+tab.start|start
+tab.customers|kunder
+tab.units|enheter
+tab.organizations|organisationer
+tab.personnel|personal
+tab.config|konfiguration
+tab.admin|administration
+tab.elearn|eLearn
+tab.areYouAlive|lever du
+tab.authorizedUsernames|godkända användarnamn
+tab.importJob|importjobb
+tab.appSettings|appInställningar
+tab.tracingUsernames|spårningsanvändarnamn
+tab.importConfig|importera konfiguration
+tab.vismaLearn|visma Learning
+tab.blacklistAreas|svartlista områden
+word.siteProductName|kompetensguiden
+word.affiliation|anslutning
+word.address|adress
+word.application|ansökan
+word.applications|applikationer
+word.accumulated|ackumulerade
+word.postalNumber|postnummer
+word.postalPlace|postkontor
+word.businessAddress|företagsadress
+word.locationAddress|platsadress
+word.close|stänga
+word.read|läsa
+word.toRead|läsa
+word.write|skriva
+word.toWrite|skriva
+word.delete|radera
+word.toDelete|radera
+word.deleting|tar bort
+word.deleted|raderade
+word.save|spara
+word.ok|ok
+word.created|skapas
+word.by|av
+word.export|exportera
+word.doExport|exportera
+word.country|land
+word.county|region
+word.cancel|avbryt
+word.municipality|kommun
+word.yes|ja
+word.no|nej
+word.addition|tillägg
+word.all|alla
+word.administrator|administratör
+word.capability|förmåga
+word.capabilities|förmågor
+word.configuration|konfiguration
+word.configurations|konfigurationer
+word.category|kategori
+word.customer|kund
+word.customers|kunder
+word.customerNumber|kundnummer
+word.owner|ägare
+word.details|detaljer
+word.file|fil
+word.area|område
+word.change|förändra
+word.aChange|förändra
+word.changes|ändringar
+word.search|sök
+word.description|beskrivning
+word.warning|varning
+word.access|tillgång
+word.product|produkt
+word.products|produkter
+word.event|händelse
+word.events|evenemang
+word.result|resultat
+word.results|resultat
+word.found|hittades
+word.enabled|aktiverad
+word.guid|gUID
+word.group|grupp
+word.groups|grupper
+word.role|roll
+word.roles|roller
+word.course|kurs
+word.name|namn
+word.firstname|förnamn
+word.lastname|efternamn
+word.overview|översikt
+word.username|användarnamn
+word.usernames|användarnamn
+word.sector|sektor
+word.password|lösenord
+word.unknown|okänd
+word.company|företag
+word.organizationalNumber|organisationsnummer
+word.organizationalForm|organisationsform
+word.email|e-post
+word.phone|telefon
+word.code|koda
+word.marketingGroups|marknadsföringsgrupper
+word.right|höger
+word.error|fel
+word.url|url
+word.none|ingen
+word.registration|registrering
+word.business|företag
+word.department|avdelning
+word.user|användare
+word.users|användare
+word.unit|enhet
+word.units|enheter
+word.organization|organisation
+word.organizations|organisationer
+word.never|aldrig
+word.id|id
+word.importConfiguration|import konfiguration
+word.webhook|webhook
+word.webhooks|webhooks
+word.uri|uRI
+word.active|aktiv
+word.activated|aktiverad
+word.deactivated|inaktiverad
+word.thisRole|denna roll
+word.thisRight|denna rättighet
+word.additions|tillägg
+word.import|importera
+word.charset|teckenuppsättning
+word.perform|prestera
+word.performing|utför
+word.start|start
+word.job|jobb
+word.theJob|jobbet
+word.thaName|namnet
+word.various|olika
+word.test|testa
+word.pageviews|sidvisningar
+word.includes|inkluderar
+word.permanent|permanent
+word.permanently|permanent
+word.regular|regelbunden
+word.subscription|prenumeration
+word.refresh|uppdatera
+word.send|skicka
+word.belonging|som tillhör
+word.normal|vanligt
+word.from|från
+word.to|till
+word.dismissed|avskedats
+word.message|meddelande
+word.messages|meddelanden
+word.importing|importera
+word.ecourse|e-kurs
+word.quiz|frågesport
+word.browser|webbläsare
+word.remove|ta bort
+word.selection|urval
+word.nobody|ingen
+word.vertical|vertikal
+word.horizontal|horisontell
+word.layout|layout
+word.choice|val
+word.bankrupt|bankrutt
+word.brreg|brreg
+word.countryCode|landskod
+word.subject|ämne
+word.emailTemplate|e-postmall
+word.emailTemplates|e-postmallar
+word.edit|redigera
+word.date|datum
+word.key|nyckel
+word.value|värde
+word.time|tid
+word.title|titel
+word.period|period
+word.week|vecka
+word.weeks|veckor
+word.quarter-period|fjärdedel
+word.quarters-period|kvartal
+word.confirmed|bekräftad
+word.root|rot
+word.continue|fortsätta
+word.create|skapa
+word.toCreate|skapa
+word.new|ny
+word.was|var
+word.ignored|ignoreras
+word.ignoring|ignorerar
+word.important|viktig
+word.quarantine|karantän
+word.nothing|ingenting
+word.subunit|underenhet
+word.subunits|subenheter
+word.parent|förälder
+word.cause|orsak
+word.errorCode|felkod
+word.status|status
+word.info|info
+word.eba|eBA
+word.do-use|använder sig av
+word.expected|förväntas
+word.expecting|väntar
+word.year|år
+word.years|år
+word.month|månad
+word.months|månader
+word.day|dag
+word.days|dagar
+word.type|typ
+word.other|övrig
+word.invalid|ogiltig
+word.internal|inre
+word.manually|manuellt
+word.hour|timme
+word.hours|timmar
+word.minute|minut
+word.minutes|minuter
+word.second|andra
+word.seconds|sekunder
+word.total|total
+word.views|vyer
+word.percentage|procentsats
+word.page|sida
+phrase.appSettings|app inställningar
+phrase.areYouSure|är du säker?
+phrase.addUser|lägg till användare
+phrase.addNew|lägg till ny
+phrase.allIsFine|allt är okej
+phrase.brregUnit|brreg enhet
+phrase.officialUnit|officiella enhet
+phrase.userDefined|användardefinierad
+phrase.logIn|logga in
+phrase.loggedIn|inloggad
+phrase.lastLoggedIn|senast inloggad
+phrase.numberOfLogins|antal inloggningar
+phrase.noLogins|inga inloggningar
+phrase.personNotFoundInVismaConnect|personen finns inte i Visma Connect
+phrase.cannotAddToVismaConnect|kan inte lägga till i Visma Connect
+phrase.logOut|logga ut
+phrase.do-export|exportera
+phrase.do-import|importör
+phrase.sendDiplomaToLearner|skicka kursbevis till kursdeltagare
+phrase.sendQuizReceivedToLearner|skicka svar-mottaget till frågesportsdeltagare
+phrase.sendingEmailFailed|det gick inte att skicka e-post
+phrase.resourceName|resursnamn
+phrase.externalId|externt id
+phrase.thisId|detta ID
+phrase.thisOrganizationalNumber|detta organisationsnummer
+phrase.thisUnit|denna enhet
+phrase.thisExternalId|detta externa ID
+phrase.extenralId|externt ID
+phrase.thisUnitIsControlledByBrreg|denna enhet finns redan och är under kontroll av Brreg
+phrase.thisAuthorizedUsername|detta godkända användarnamn
+phrase.performedBy|utförs av
+phrase.theField|fältet
+phrase.theUsername|användarnamnet
+phrase.theOrganization|organisationen
+phrase.theUnit|enheten
+phrase.theRegistration|registreringen
+phrase.ebaUser|eBA använder
+phrase.ebaUsers|eBA-användare
+phrase.beApproved|godkänd
+phrase.beChanged|förändra
+phrase.anApproval|ett godkännande
+phrase.anAction|en handling
+phrase.aUnit|en enhet
+phrase.inUse|i användning
+phrase.variousErrors|olika fel
+phrase.noSuchUser|ingen sådan användare
+phrase.noSuchUserOrWrongPassword|ingen sådan användare eller fel lösenord
+phrase.orgnoXAlreadyUpdated|ogno [X] har redan uppdaterats
+phrase.orgXHasNoVLUser|organisationen '[X]' har ingen associerad KG-användare
+phrase.ignoringDeletedUnitWithOrgnoX|ignorerar raderad enhet med orgno '[X]'
+phrase.processingXY|bearbetar [X] '[Y]'
+phrase.registered|registrerad
+phrase.registeredXByY|registrerad [X] av [Y]
+phrase.editedXByY|redigerad [X] av [Y]
+phrase.changedX|ändrade [X]
+phrase.removedX|tog bort [X]
+phrase.removingX|tar bort [X]
+phrase.XRemoved|[X] togs bort
+phrase.deleteX|radera [X]
+phrase.deleteXY|radera [X] '[Y]'
+phrase.deleteXPermanently|radera [X] permanent
+phrase.deletedXPermanently|raderade [X] permanent
+phrase.restoredX|återställd [X]
+phrase.deletedX|raderade [X]
+phrase.deletingX|raderar [X]
+phrase.addedX|lade till [X]
+phrase.notFound|hittades inte
+phrase.XNotFound|[X] hittades inte
+phrase.XNotMarkedDeleted|[X] ej markerad som raderad
+phrase.isRegistered|är registrerad
+phrase.tryUnlinkUserIdX|försök att ta bort länken till användar-ID '[X]'
+phrase.userWasUnlinked|användaren togs bort
+phrase.couldNotFindVismaConnectLoginInfo|kunde inte hitta Visma Connect logininfo
+phrase.keepCurrentSetting|behålla den nuvarande inställningen
+phrase.userFoundInVismaConnectTryUnlink|användare hittas i Visma Connect - försök ta bort länken
+phrase.userDoesNotExistInVismaConnect|användare finns inte i Visma Connect
+phrase.approvedUsernames|godkända användarnamn
+phrase.addToVismaConnect|lägg till i Visma Connect
+phrase.attachedUsers|affiliate användare
+phrase.currentConfiguration|nuvarande konfiguration
+phrase.roleProduct|roll/produkt
+phrase.rolesProducts|roller/produkter
+phrase.canAssign|kan tilldela
+phrase.shortDescription|kort beskrivning
+phrase.logFile|loggfil
+phrase.userCategory|användarkategori
+phrase.selfRegistered|självregistrerad
+phrase.primarySector|primärsektorn
+phrase.expiresDate|utgångsdatum
+phrase.quarantineUntil|i karantän tills
+phrase.quarantineExpiresDate|karantänens utgångsdatum
+phrase.fromDate|från datum
+phrase.toDate|till datum
+phrase.dismissedDate|uppsagt datum
+phrase.ipAddresses|iP-adresser
+phrase.emailDomain|e-postdomän
+phrase.emailAddress|e-postadress
+phrase.emailCourseTaker|kursdeltagares e-post
+phrase.exernalId|externt ID
+phrase.productAccess|produktåtkomst
+phrase.productCode|produktkod
+phrase.pleaseWait|vänta
+phrase.customerDetails|kunddetaljer
+phrase.customerImport|kundimport
+phrase.importPlusPortDepartments|import PlusPort departments
+phrase.importUnitsAndUsers|import av enheter och användare
+phrase.googleAnalytics|google Analytics
+phrase.vismaConnect|visma Connect
+phrase.userNotCreated|användaren inte skapad
+phrase.newCustomer|ny kund
+phrase.newProduct|ny produkt
+phrase.newProductRole|ny produkt/roll
+phrase.rootUnit|rotenhet
+phrase.userAccess|användaråtkomst
+phrase.vlUser|KG-användare
+phrase.unitType|enhetstyp
+phrase.webhookId|webhook-ID
+phrase.webhookCall|webhook-samtal
+phrase.verifyToken|verifiera token
+phrase.secretKey|hemlig nyckel
+phrase.fromAllApplications|från alla applikationer
+phrase.receivedElearnResults|fått kursresultat
+phrase.courseMapping|kurstillhörighet
+phrase.courseMappings|kurstillhörighet
+phrase.setUseVLOnNewUsers|ställ in 'Använd Visma Learning' på nya användare
+phrase.setUseVlOnExistingUsers|ställ in 'Använd Visma Learning' på befintliga användare
+phrase.courseIdMappingExists|en kurstillhörighet till detta kurs-ID finns redan.
+phrase.courseUrlMappingExists|en kurslänk med denna URL finns redan
+phrase.startJob|börja jobbet
+phrase.startTheJob|börja jobbet
+phrase.startingJob|börjar jobbet
+phrase.startingUnitImport|starta enhetsimport
+phrase.couldNotStartJobBecauseX|kunde inte börja jobba. Jobstarter sa: [X]
+phrase.doYouWantToStartJobNow|vill du börja jobbet nu?
+phrase.startTheXJob|starta [X]-jobbet
+phrase.XJobStarted|startade [X]-jobbet
+phrase.chosenCustomerIsDeleted|den valda kunden verkar ha tagits bort av en annan användare
+phrase.savingDataFromBrreg|sparar data från Brreg
+phrase.XExists|[X] finns
+phrase.XUpdatedSuccessfully|[X] har uppdaterats
+phrase.registrationExists|registrering finns
+phrase.rightExists|rätt finns
+phrase.roleExists|roll finns
+phrase.capabilityExists|kapacitet finns
+phrase.productExists|produkt finns
+phrase.productRoleIsAlreadyAdded|produkten/rollen har redan lagts till
+phrase.groupIsAlreadyAdded|den här gruppen har redan lagts till
+phrase.capabilityIsAlreadyAdded|denna funktion har redan lagts till
+phrase.thisProductIsAlreadyAdded|denna produkt har redan lagts till.
+phrase.importJobWasStarted|importjobbet påbörjades
+phrase.pleaseChoose|vänligen välj
+phrase.pleaseChooseAFile|välj en fil
+phrase.chooseExportType|välj exporttyp
+phrase.exportType|exporttyp
+phrase.searchForX|sök efter [X]
+phrase.searchOnX|sök på [X]
+phrase.exportX|exportera [X]
+phrase.createX|skapa [X]
+phrase.createXY|skapa [X] '[Y]'
+phrase.addX|lägg till [X]
+phrase.editX|ändra [X]
+phrase.editXY|ändra [X] '[Y]'
+phrase.chooseX|välj [X]
+phrase.createNewX|skapa nytt [X]
+phrase.chosenX|valt [X]
+phrase.dropXHere|släpp [X] här
+phrase.noXIsRegistered|inget [X] är registrerat
+phrase.registeredBy|registrerad av
+phrase.noXFound|inget [X] hittades
+phrase.validFrom|giltig från
+phrase.validTo|giltig till
+phrase.XIgnored|[X] ignoreras
+phrase.noXWithIdYFound|inget [X] med id [Y] hittades
+phrase.noXWithYFound|inget [X] med [Y] hittades
+phrase.noXChosen|"X" öppningsstrid
+phrase.forX|för [X]
+phrase.orgLevel|org-nivå
+phrase.noXForYFound|inget [X] för [Y] hittades
+phrase.lookingFor|letar efter
+phrase.lookingForOrgLevel|letar efter organisationsnivå
+phrase.lookingForParentOrgLevelForX|letar efter överordnad organisationsnivå för '[X]'
+phrase.lookingForParentUnitForX|letar efter föräldraenhet för '[X]'
+phrase.unitXHasNewParentUnitY|enheten '[X]' har den nya föräldraenheten '[Y]'
+phrase.parentForX|förälder för "[X]"
+phrase.parentForXIsY|förälder för '[X]' är '[Y]'
+phrase.couldNotDeleteX|kunde inte ta bort [X]
+phrase.pleaseChooseX|vänligen välj [X]
+phrase.XMandatory|[X] måste fyllas i
+phrase.XMustBeGreaterY|[X] måste vara större än [Y]
+phrase.XMustBeGreaterOrEqualY|[X] måste vara större än eller lika med [Y]
+phrase.XMustBeLessY|[X] måste vara mindre än [Y]
+phrase.XMustBeLessOrEqualY|[X] måste vara mindre än eller lika med [Y]
+phrase.AXWasAttachedtoBY|[A] '[X]' kopplades till [B] '[Y]'
+phrase.newX|ny [X]
+phrase.XMissing|[X] saknas
+phrase.noXIsSelected|inget [X] är valt
+phrase.parentX|förälder [X]
+phrase.childrenX|barn [X]
+phrase.anXCannotGetY|ett [X] kan inte få [Y]
+phrase.aGroup|en grupp
+phrase.aBusiness|ett företag
+phrase.aDepartment|en avdelning
+phrase.aRootUnit|en rotenhet
+phrase.aFile|en fil
+phrase.theFileIsEmpty|filen är tom
+phrase.anOrganization|en organisation
+phrase.XWithYAlreadyExists|[X] med [Y] finns redan
+phrase.withThisName|med detta namn
+phrase.byNameX|heter '[X]'
+phrase.XForYAlreadyExists|[X] för [Y] finns redan
+phrase.XAlreadyExists|[X] finns redan
+phrase.XAlreadyExistsInY|[X] finns redan i [Y]
+phrase.XIsAlreadyY|[X] är redan [Y]
+phrase.XIsNotAvailable|[X] är inte tillgängligt
+phrase.XIsAlreadyInUse|[X] används redan
+phrase.removingExistingUserXPermanently|tar bort befintlig användare '[X]' permanent
+phrase.thisUsername|detta användarnamn
+phrase.thisName|detta namnet
+phrase.withXY|med [X] [Y]
+phrase.XY|[X] '[Y]'
+phrase.XForY|[X] för [Y]
+phrase.noXProvided|inget [X] tillhandahålls
+phrase.noXForYIsProvided|inget [X] för [Y] anges
+phrase.thisXCannotYBecauseZ|detta [X] kan inte [Y] eftersom [Z]
+phrase.XCannotYBecauseZ|[X] kan inte [Y] eftersom [Z]
+phrase.XForUserY|[X] för användare [Y]
+phrase.itAlreadyXByY|det redan [X] av [Y]
+phrase.ownerOfXHasY|ägare till [X] har [Y]
+phrase.XIsLocatedY|[X] finns [Y]
+phrase.inADifferentX|i ett annat [X]
+phrase.invalidXY|ogiltig [X] '[Y]'
+phrase.lineX|rad [X]
+phrase.movedToUnitXFromY|flyttade till enhet '[X]', var '[Y]'
+phrase.updateSwedishMunicipalities|uppdatera svenska kommuner
+phrase.updateMunicipalities|uppdatera kommuner
+phrase.startBrregUnitUpdate|starta brreg-uppdatering
+phrase.removeUnusedTrialAccounts|ta bort oanvända testkonton
+phrase.removeExpiredTrialAccounts|ta bort utgångna provkonton
+phrase.updateFeideDomains|uppdatera Feide-domäner
+phrase.turnsTheJobOnOrOff|slår på eller av jobbet
+phrase.numberOfUsersPerTransaction|antal användare per transaktion
+phrase.numberOfTransactionsPerJob|antal transaktioner per jobb
+phrase.typeEmailAddress|skriv in epostadress
+phrase.runTest|kör test
+phrase.newUsername|nytt användarnamn
+phrase.onlyOwnRegistrations|endast egna registreringar
+phrase.userReloadedDueToImport|på grund av import har den valda användaren laddats om. <br> Om du har gjort ändringar måste du göra dem igen!
+phrase.personalData|personal
+phrase.pleaseWaitCreatingCsvFile|vänta, skapar CSV-fil...
+phrase.pleaseWaitDeletingUsers|vänligen vänta, tar bort användare...
+phrase.currentSelection|nuvarande urval
+phrase.pleaseWaitDeleting|snälla vänta, raderar...
+phrase.onlyDeletedUsers|endast borttagna användare
+phrase.onlyShowsDeletedUsers|visar endast användare markerade som borttagna
+phrase.onlyShowsSelfregisteredUsers|visar bara användare som skapat sitt eget konto
+phrase.thisCustomerIsMarkedAsDeleted|denna kund är markerad som raderad
+phrase.onlyIpUsers|endast IP-användare
+phrase.ipUsersAndLogins|iP-användare och inloggningar
+phrase.onlyLogins|endast inloggningar
+phrase.onlyShowsIpUsers|visar endast användare där en IP-adress är registrerad
+phrase.currentWithIpSharing|aktuell med IP-delning
+phrase.onlyShowsCurrentWithIpSharing|visar endast användare registrerade med IP som överlappar andra användare
+phrase.allWithIpSharing|alla med IP-delning
+phrase.onlyShowsAllWithIpSharing|visar endast användare som är registrerade med, eller har haft, IP som överlappar andra användare.
+phrase.onlyUsersWithSamePrimarySector|endast användare med samma primära sektor
+phrase.onlySelfregistered|endast självregistrerad
+phrase.onlyShowSelfregistered|visar endast självregistrerade användare
+phrase.onlyShowProducts|visa endast produkter
+phrase.onlyShowRoles|visa bara roller
+phrase.createdBySys|skapad av (sys)
+phrase.accountStatus|konto Status
+phrase.accountConfirmed|konto bekräftat
+phrase.accountConfirmedStatus|konto bekräftad status
+phrase.accountActive|konto aktivt
+phrase.lastUse|senaste användning
+phrase.afterDate|efter datum
+phrase.beforeDate|före datum
+phrase.lastChanged|senast ändrad
+phrase.ipAddress|iP-adress
+phrase.resetSearch|återställ sökningen
+phrase.deleteCurrentSelection|radera aktuellt val
+phrase.areYouAlive|lever du?
+phrase.workRelation|arbetsrelation
+phrase.statusMyPage|status Min Side
+phrase.availableBasedOnProducts|tillgängligt baserat på produktåtkomst
+phrase.shouldReceiveNewsFor|bör få nyheter för
+phrase.gettingData|hämta data
+phrase.selfregisteredTrialUser|självregistrerad provanvändare
+phrase.selfregisteredUser|självregistrerad användare
+phrase.infoEmail|info e-post
+phrase.restoreCustomer|återställa kund
+phrase.deleteCustomer|radera kund
+phrase.deleteCustomerPermanently|radera kund permanent
+phrase.editCustomer|redigera kund
+phrase.foundXCustomersToDeletePermanently|hittade [X] kunder att radera permanent
+phrase.chooseTheExportTypeYouWant|välj den typ av export du vill göra
+phrase.chooseAndImportFile|välj och importera fil
+phrase.importCustomers|importera kunder
+phrase.changeXmlContent|redigera XML-innehåll
+phrase.logLevel|loggnivå
+phrase.logClass|log klass
+phrase.courseTable|kurstabell
+phrase.eventLog|händelselogg
+phrase.ecourseChart|e-kursdiagram
+phrase.elrReturned|eLearnReception återvände
+phrase.dataFromResult|data från resultatet
+phrase.dataFromPrimeRequest|data från prime-request
+phrase.fromIp|från IP
+phrase.forwardedFor|vidarebefordras för
+phrase.sectorId|sektor-ID
+phrase.originalContent|originalinnehåll
+phrase.copyToModified|kopiera till modifierad
+phrase.modifiedContent|ändrat innehåll
+phrase.csvExport|cSV-export
+phrase.courseTaker|kursdeltagare
+phrase.startGAUpdateJobFromFile|starta uppdateringsjobb (från fil)
+phrase.startGAUpdateJobFromGA|starta uppdateringsjobb (från GA)
+phrase.reportArea|rapportområde
+phrase.reportAreas|rapportera områden
+phrase.welcomeX|välkommen [X]
+phrase.jsonExport|jSON-export
+phrase.XHasThisProduct|[X] har den här produkten
+phrase.selectAtLeastOneSector|välj minst en sektor
+phrase.yearToDate|så här långt i år
+phrase.chooseYear|välj år
+phrase.chooseSector-s|välj sektor(er)
+phrase.unaffiliatedRootUnits|oanslutna rotenheter
+phrase.includeSubunits|inkluderar underenheter
+phrase.includeIpCoop|inkluderar IP-samarbete
+phrase.postalAddress|postadress
+phrase.numberOfEmployees|antal anställda
+phrase.foundedDate|grundat datum
+phrase.listMode|listläge
+phrase.annualOverview|årlig översikt
+phrase.creatingAnnualOverview|skapa årlig översikt
+phrase.noPropertiesSelected|inga egenskaper är valda
+phrase.vismaConnectId|visma Connect ID
+phrase.createdDate|skapat Datum
+phrase.emailVerified|e-post verifierad
+phrase.emailVerifiedDate|e-post verifierat datum
+phrase.preferredLanguage|önskat språk
+phrase.plainText|oformatterad text
+phrase.editEmailTemplate|redigera e-postmall
+phrase.sendToUser|skicka till användare
+phrase.noEmailTemplatesRegisteredInVismaConnect|inga e-postmallar registrerade i Visma Connect
+phrase.noEmailTemplateNamedXFoundInVismaConnect|det finns ingen e-postmall med namnet '[X]' i Visma Connect
+phrase.vismaConnectReturned|visma Connect återvände
+phrase.emailToUserXWithTemplateYSuccessfullySent|e-post till användare '[X]' med mall '[Y]' skickat utan fel
+phrase.usernameXDoesNotExistInVismaConnect|användarnamn '[X]' finns inte i Visma Connect
+phrase.foundMultipleUsersWithEmailX|hittade flera användare med e-postadressen "[X]"
+phrase.findUser|hitta användare
+phrase.lookupUsernameInVismaConnect|sök upp användarnamn i Visma Connect
+phrase.lookupUserByExternalLogin|sök användare baserat på externa inloggningsdata från EBA
+phrase.updatedDate|uppdaterat datum
+phrase.lastEventDate|senaste händelsedatum
+phrase.lastErrorDate|senaste feldatum
+phrase.attemptsLastError|försök senaste felet
+phrase.lastErrorCause|senaste felorsak
+phrase.numberOfEventsInQueue|antal händelser i kön
+phrase.vismaLearnDataOnlyAvailableToVLUsers|visma Learn-data är endast tillgänglig för KG-användare
+phrase.vismaLearnInfo|visma Learn info
+phrase.vismaLearnCustomerInfo|visma Learn customer info
+phrase.vismaLearnCourse|visma Learn course
+phrase.courseAffiliation|kurstillhörighet
+phrase.courseAffiliations|kurstillhörighet
+phrase.courseAffiliationIngress|kurstillhörigheter används av Veilederen för att skicka användare till rätt kurs i Visma Learning med hjälp av direktlänkar till kurser i Veilederen. Länken är baserad på kurs-ID och kräver att CourseId-egenskapen för alla kursmålsidor i Veilederen är korrekt inställd
+phrase.viewName|visningsnamn
+phrase.nothingToShow|inget att visa
+phrase.blacklistReportAreas|svartlista rapportområden
+phrase.notSelected|ej valt
+phrase.courseId|kurs-ID
+phrase.courseName|kursnamn
+phrase.notAffiliated|inte ansluten
+phrase.municipality/organization|kommun/organisation
+phrase.thisCustomerSharesEmailDomainWithTheFollowing|den här kunden delar e-postdomänen med följande kunder
+phrase.oneOrMoreCustomersWithDomainXFound|en eller flera kunder med e-postdomän [X] hittades
+phrase.doesNotExist|existerar inte
+phrase.noChanges|inga förändringar
+phrase.isNotAffiliatedWithAnyUnit|är inte associerad med någon enhet
+phrase.foundNewParentUserX|hittade ny förälderanvändare [X]
+phrase.deactivatedOrMarkedDeleted|inaktiverad eller markerad som raderad
+phrase.usingAuthorizedUsernameForX|använder godkänd användarnamnspost för '[X]'
+phrase.theUser|användaren
+phrase.authorizedUsername|godkänt användarnamn
+phrase.deltedAuthorizedUsernameX|tog bort godkänd användarnamnsinlägg '[X]'
+phrase.successfullyChangedUsernameFromXToY|framgångsrikt ändrat användarnamn '[X]' -> '[Y]'
+phrase.becauseEmailDomainIsSharedByXVLUsers|eftersom e-postdomänen delas av [X] KG-användare
+phrase.deletingAuthorizedUsernameXBecauseItsAuthorizedByOrgEmailDomain|tar bort godkänt användarnamn "[X]" eftersom det nu autentiseras av organisationens e-postdomän
+phrase.notSet|inte inställd
+phrase.registrationDate|registrerings datum
+phrase.changedByUser|modifierad av användaren
+phrase.modifiedDate|ändrat datum
+phrase.canChangePassword|kan byta lösenord
+phrase.userAccount|användarkonto
+phrase.userRegistrations|användarregistreringar
+phrase.validFromToDate|giltig från/till datum
+phrase.isSetToX|är inställd på '[X]'
+phrase.invalidX|ogiltig [X]
+phrase.detectedChanges|ändringar upptäckts
+phrase.numberOfChanges|antal ändringar
+phrase.XDoesNotExist|[X] finns inte
+phrase.automaticallyAddedX|automatiskt lagt till [X]
+phrase.notSendt|inte skickat
+phrase.noResultXmlFound|inget resultat XML hittades
+phrase.elrReturnedX|eLearnReception returnerade [X]
+phrase.elrApiCallFailed|eLearnReception API-anrop misslyckades
+phrase.courseResult|kursresultat
+phrase.quizResult|frågesportresultat
+phrase.pleaseEnterAValue|var god ange ett värde
+phrase.XMustBeAnInteger|[X] måste vara ett heltal
+phrase.userNotAuthorized|användaren inte auktoriserad
+phrase.cannotDelete|kan inte radera
+phrase.insufficientData|otillräcklig data
+phrase.doConfirmUnit|bekräfta enheten
+phrase.XSaved|[X] har sparats
+phrase.jobQueued|jobb i kö
+phrase.theJobIsAlreadyRunning|jobbet är redan igång
+phrase.theJobIsNotActivated|jobbet är inte aktiverat
+phrase.theJobStarted|jobbet började
+phrase.startXExport|starta [X] export
+phrase.couldNotParseDate|kunde inte tolka datum
+phrase.couldNotParseValueForX|kunde inte tolka värdet för [X]
+phrase.XCannotBeNull|[X] kan inte vara NULL
+phrase.XHasNoPropertyY|[X] har ingen egenskap '[Y]'
+phrase.downloadX|ladda ner [X]
+phrase.unknownValue|okänt värde
+phrase.affiliatedWithChosenUnit|ansluten till vald enhet
+phrase.affiliatedWithChosenOrASubunit|ansluten till vald enhet/underenhet
+phrase.othersInChosenUnitsOrganization|andra i den valda enhetens organisation
+phrase.notAffiliatedWithChosenUnit|inte ansluten till vald enhet
+phrase.notAffiliatedWithAnyUnit|inte ansluten till någon enhet
+phrase.manager/middleManager|chef/mellanchef
+phrase.employedWithoutPersonnelResponsibilities|anställd utan personalansvar
+phrase.allowAndRemoveProduct|tillåta och ta bort produkten
+phrase.allowAndKeepProduct|tillåta och behålla produkten
+phrase.notAllowed|inte tillåtet
+phrase.reloadLocaleFile|ladda om språkfilen
+phrase.dragProduct/RoleToAdd|DRA ROLL/PRODUKT TILL LISTA OVAN FÖR ATT LÄGA TILL
+phrase.completedEcourses|genomförda ekurser
+phrase.showInfo|visa info
+phrase.numberOf|antal
+phrase.pageviewPerArea|sidvisningar per område
+phrase.inTotalAll|totalt alla
+phrase.inTotalSectors|i totala sektorer
+phrase.hideInfo|dölj info
+phrase.usersCreated|skapade användare
+userCategory.id1|normalanvändare
+userCategory.id2|allmänanvändare
+userCategory.id3|KG-användare
+userCategory.normalUser|normalanvändare
+userCategory.commonUser|allmänanvändare
+userCategory.vlUser|KG-användare
+userCategory.other|övrig
+email.bestRegards|med vänlig hälsning EBA
+quarter.1.name|första kvarten
+quarter.1.abbr|q1
+quarter.2.name|andra kvarten
+quarter.2.abbr|kräkas
+quarter.3.name|tredje kvartalet
+quarter.3.abbr|kz
+quarter.4.name|fjärde kvarten
+quarter.4.abbr|cZK
+tertial.1.name|första trimestern
+tertial.2.name|andra trimestern
+tertial.3.name|tredje trimestern
+csv.delimiter|cSV-avgränsare
+csv.separator|cSV-avgränsare
+csv.delimiterMustBeOneChar|cSV-avgränsare kan bara innehålla ett tecken.
+csv.separatorMustBeOneChar|cSV-avgränsare kan bara innehålla ett tecken.
+csv.file|cSV-fil
+csv.error.0000|inkonsekvent data, användarnamn '[X]' visas flera gånger i filen med olika data
+csv.error.0001|affär med orgno '[X]' hittades inte
+csv.error.0002|avdelnings-ID tillhandahålls, men inget organisationsnummer för företag
+product.addCapabilitiesIngress|lägga till förmågor för den aktuella produkten/rollen
+product.addDelegatableIngress|lägga till produkter/roller som innehavaren av den aktuella produkten/rollen kan tilldela andra
+product.addGroupsIngress|lägg till EPiServer-grupper. Grupper styr åtkomsten till innehåll i EPiServer
+product.dragCapability|DRA FÖRMÅGA TILL LISTA FÖR ATT LÄGA TILL
+product.dragGroup|DRA GRUPP TILL LISTA FÖR ATT LÄGA TILL
+product.additionalProducts|ytterligare produkter/roller
+product.addProductsIngress|lägga till produkter/roller som ska ingå i den aktuella produkten/rollen
+product.cannotContainSelf|produkt/roll kan inte innehålla sig själv
+product.codeAlreadyExists|det finns redan en produkt med denna kod
+warn.permanentlyDeleteCustomer|innan du tar bort denna kund, VAR MEDVETEN OM FÖLJANDE!
+warn.permanentlyDeleteCustomer1|är du helt, absolut, positivt, helt säker på att kunden behöver raderas?
+warn.customerHasHistory|denna kund har e-lärande historia, och radering kommer att resultera i förlust av rapporteringsdata!!
+warn.XCustomersAffiliatedWithThisCustomer|det finns [X] kunder kopplade till denna kund!
+warn.usersAffiliatedWithThisOrAChildUnit|användare är anslutna till denna och/eller en av underenheterna
+warn.authorizedUsernamesAffiliatedWithThisOrAChildUnit|godkända användarnamn är kopplade till denna och/eller en av underenheterna
+warn.theseMustBeDeletedOrMovedBeforeDeletingTheUnit|dessa måste flyttas eller raderas innan du kan radera enheten
+warn.onlyOneVLUserPerOrg|endast en (1) KG-användare per organisation är tillåten
+warn.onlyOneVLUserPerOrg1|följande KG-användare kan därför inte flyttas förrän den befintliga KG-användaren för denna organisation har tagits bort.
+error.unknown|okänt fel
+error.happened|ett fel uppstod
+error.coundNotStartJob|kunde inte påbörja jobbet. Jobbstartare sa: [X]
+error.usernameExists|användarnamnet används redan
+error.orgXAlreadyHasVLUserY|KG-användare [Y] är redan ansluten till organisation [X]
+error.emailDomainMissing|e-postdomän saknas. Kan det vara ett felplacerat kommatecken?
+error.emailDomainContainsAt|e-postdomän bör endast innehålla den del av en e-postadress som kommer efter alfacurl (@)
+error.emailDomainMustHaveDot|e-postdomän måste innehålla minst en prick
+error.emailDomainStartsOrEndsWithDot|e-postdomän kan inte börja eller sluta med en prick
+error.duplicateEmailDomainsInString|innehåller dubbletter av domäner
+error.invalidEmailAddress|ogiltig e-postadress
+error.passwordMissing|lösenord måste anges
+error.thisUserHasNoPassword|denna användare har inte fått något lösenord. Var snäll och fyll i lösenordet
+error.invalidIpAddress|iP-adresser måste innehålla 4 siffror mellan 0 och 255 som är dividerade med en punkt (.). Till exempel: 192.168.0.1
+error.officialUnitCanOnlyBeAddedToOfficialUnits|en officiell enhet kan endast läggas till andra officiella enheter.
+error.systemErrorX|ett systemfel uppstod och åtgärden kunde inte utföras. Systemfel: [X]
+error.reportFailed|ett fel uppstod och rapporten kunde inte skapas. Kontakta din systemadministratör om problemet kvarstår
+error.couldNotSaveChanges|kunde inte spara ändringarna. Rätta fel och försök igen
+error.couldNotDeleteItem|kunde inte radera posten
+error.oneOrMoreErrorsHappened|ett eller flera fel uppstod
+error.cannotSaveDueToProductRowErrors|kan inte spara på grund av fel i en eller flera produktrader
+error.genericFormError|kunde inte utföra åtgärden. Granska formuläret och försök igen
+error.commonUsersCannotAuthorizeUsernames|vanliga användare kan inte registrera auktoriserade användarnamn
+error.cannotEditDueToErrorInAnotherRow|kan inte redigera rad på grund av fel i en annan rad
+error.cannotAddRowDueToErrorInAother|kan inte lägga till rad eftersom det finns ett fel i en annan
+error.importNotDoneDueToFollowingErrors|importen utfördes inte på grund av följande fel
+error.serverErrorWithoutMessage|ett serverfel uppstod men inget meddelande gavs
+error.noPrimeFoundForThisResult|ingen primär begäran hittades för detta resultat
+error.authUsernameOwnerMustBeAttachedToVLUser|användare som registrerar godkända användarnamn måste vara associerad med en KG-användare
+error.cannotChangeBecauseResultsExists|kan inte ändras eftersom det finns resultat för denna kurs
+error.cannotDeleteBecauseResultsExists|kan inte ta bort eftersom det finns resultat för denna kurs
+error.emailDomainCanOnlyBeRegisteredOnVLUsers|e-postdomän kan endast registreras på användare i KG-användarkategorin
+error.onlyNormalUsersCanHaveThisProduct|endast användare i användarkategorin normaluser kan inneha denna roll/produkt
+error.multipleParentUsersNotSupported|flera överordnade användare stöds inte
+error.usernameIsAuthorizedAndInUse|användarnamn inte tillgängligt, godkänt användarnamn används
+error.incompleteElrApiConfiguration|bristfällig eLearnReception API-konfiguration
+error.userDefinedUnitsNeedsParent|användardefinierade enheter kan endast skapas under en befintlig enhet
+error.userDefinedUnitParentMustBeOfficial|användardefinierade enheter kan endast skapas under officiella enheter
+error.unitsOfTypeXCannotBeAddedToBrregTree|enheter av typen [X] kan inte läggas till i en Brreg-hierarki
+error.failedWrongUserNameAndOrPassword|misslyckades (fel användarnamn och/eller lösenord)
+error.requestIgnoredWrongApiVersion|begäran ignorerad - fel ApiVersion
+error.swedishMunicipalitiesNotUpdated|svenska kommuner/län uppdaterades inte
+error.norwegianMunicipalitiesNotUpdated|norska kommuner och län uppdaterades inte
+error.cannotStartJobBecauseAnotherIsRunning|kan inte starta import - ett annat importjobb körs redan
+error.errorDuringExport|ett fel uppstod under exporten
+error.receivedWebhookWithoutId|fått webhook-samtal utan ID!?
+error.invalidWebhookId|ogiltigt webhook-ID
+error.secretKeyNotFound|hittade ingen hemlig nyckel
+error.messageCouldNotBeValidated|meddelandet kunde inte valideras
+error.ipFormatError|iP måste innehålla fyra heltal separerade med '.'. Till exempel: 192.168.0.1
+error.ipMaskMustBeNumeric|masken kan bara innehålla siffror
+error.ipMaskInvalid|ogiltig mask
+error.couldNotConvertIpMask|kunde inte konvertera nätmasken
+error.invalidSubnet/netmask|ogiltig subnät/nätmask
+error.invalidIpRange|iP-intervallet måste innehålla två adresser delade med "-"-tecken. Till exempel 192.168.0.10-192.168.0.20
+error.fromIpMustBeGreaterOrEqualToToIp|från IP måste vara större än eller lika med IP
+error.ipAddressCannotBeZero|iP-adressen kan inte vara 0
+error.hostIpCannotBeASubnetAddress|iP-adressen för en enskild värd kan inte vara en subnätadress
+userMessages.msg0000|ett okänt fel uppstod. Om problemet kvarstår, kontakta oss för en snabb lösning.
+userMessages.msg0001|fel. Försök att registrera dig igen. Om problemet kvarstår, kontakta oss för en snabb lösning.
+userMessages.msg0002|fältet måste fyllas i
+userMessages.msg0003|ogiltig e-postadress
+userMessages.msg0004|fälten stämmer inte överens
+userMessages.msg0005|användarnamn är inte tillgängligt
+userMessages.msg0006|testanvändare är inte tillgänglig på grund av karantän.
+userMessages.msg0007|var god välj ett alternativ
+userMessages.msg0008|personligt skapande av användare är inte tillgängligt för den här e-postadressen.
+userMessages.msg0009|din användare skapades framgångsrikt. Du kommer omedelbart att få ett e-postmeddelande med instruktioner för att aktivera din användare.
+userMessages.msg0010|ingen aktivering väntar på denna användare, eller så är användaren redan aktiverad.
+userMessages.msg0011|tidsfristen för att aktivera din användare har löpt ut. Försök att registrera dig igen.
+confirm.misc.permanentlyDeleteCustomer|är du säker på att du vill ta bort den här kunden permanent?
+confirm.misc.permanentlyDeleteXCustomers|är du säker på att du vill ta bort dessa [X] kunder permanent?
+confirm.misc.permanentlyDeleteCustomer2|är du helt säker på att du vill ta bort den här kunden?<br/>Kunden kommer att raderas permanent! <br/>Det går inte att ångra!
+confirm.misc.permanentlyDeleteXCustomers2|är du helt säker på att du vill ta bort dessa [X] kunder?<br/>Kunder raderas permanent!<br/>Det går inte att ångra!
+confirm.deleteRight.title|radera rätt
+confirm.deleteRight.msg|är du säker på att du vill ta bort detta rätt?
+confirm.deleteRight.doing|raderar rätt...
+confirm.removeProduct.title|ta bort produkt/roll
+confirm.removeProduct.msg|är du säker på att du vill ta bort produkten/rollen?
+confirm.removeProduct.doing|tar bort produkt/roll...
+confirm.deleteProduct.title|ta bort produkt/roll
+confirm.deleteProduct.msg|är du säker på att du vill ta bort produkten/rollen?
+confirm.deleteProduct.doing|tar bort produkt/roll...
+confirm.deleteCapability.title|raderingsförmåga
+confirm.deleteCapability.msg|är du säker på att du vill ta bort denna förmåga?
+confirm.deleteCapability.doing|tar bort förmåga...
+confirm.removeProductCapability.title|ta bort kapacitet
+confirm.removeProductCapability.msg|är du säker på att du vill ta bort denna funktion från produkten?
+confirm.removeProductCapability.doing|tar bort kapacitet...
+confirm.removeProductRight.title|ta bort höger
+confirm.removeProductRight.msg|är du säker på att du vill ta bort detta direkt från produkten?
+confirm.removeProductRight.doing|tar bort höger...
+confirm.deleteConfig.title|radera konfiguration
+confirm.deleteConfig.msg|är du säker på att du vill ta bort konfigurationen?
+confirm.deleteConfig.doing|tar bort konfiguration...
+confirm.deleteUnit.title|radera enhet
+confirm.deleteUnit.msg|är du säker på att du vill ta bort den här enheten och dess underenheter?
+confirm.deleteUnit.doing|tar bort enhet...
+confirm.deleteItem.title|ta bort inlägg
+confirm.deleteItem.msg|är du säker på att du vill ta bort den här posten?
+confirm.deleteItem.doing|raderar post...
+confirm.saveChanges.title|spara ändringar
+confirm.saveChanges.msg|är du säker på att du vill spara ändringarna?
+confirm.saveChanges.doing|sparar ändringar...
+confirm.importUnits.title|importenheter
+confirm.importUnits.msg|är du säker på att du vill importera enheter?
+confirm.importUnits.doing|importerar enheter...
+confirm.importUsers.title|importera användare
+confirm.importUsers.msg|är du säker på att du vill importera användare?
+confirm.importUsers.doing|importerar användare...
+confirm.exportUnitsCsv.title|exportenheter
+confirm.exportUnitsCsv.msg|exportera vald enhet och dess underenheter till CSV?
+confirm.exportUnitsCsv.doing|exporterar...
+confirm.exportUnitsToVismaLearn.title|exportenheter
+confirm.exportUnitsToVismaLearn.msg|är du säker på att du vill exportera enheter till Visma Learning?
+confirm.exportUnitsToVismaLearn.doing|exporterar...
+confirm.exportUsersToVismaLearn.title|exportera användare
+confirm.exportUsersToVismaLearn.msg|är du säker på att du vill exportera användare till Visma Learning?
+confirm.exportUsersToVismaLearn.doing|exporterar användare...
+confirm.startPpImportJob.title|börja importera PlusPort-avdelningar/användare
+confirm.startPpImportJob.msg|är du säker på att du vill börja det här jobbet?
+confirm.startPpImportJob.doing|börjar jobba...
+confirm.deleteUsername.title|radera användarnamn
+confirm.deleteUsername.msg|är du säker på att du vill ta bort detta användarnamn?
+confirm.deleteUsername.doing|tar bort användarnamn...
+confirm.currentSelectionPageviews.title|sidvisningar
+confirm.currentSelectionPageviews.msg|det aktuella urvalet inkluderar [X] användare. <br/> Google Analytics kan lägga lite tid på att gräva fram data för detta antal användare.<br/>Kör du på?
+confirm.currentSelectionPageviews.doing|hämtar sidvisningar...
+confirm.emailCustomer.title|skicka epost
+confirm.emailCustomer.msg|är du säker på att du vill skicka [X] till den här kunden?
+confirm.emailCustomer.doing|skickar mejl...
+confirm.deleteCustomer.title|ta bort användare
+confirm.deleteCustomer.msg|är du säker på att du vill ta bort den här kunden?
+confirm.deleteCustomer.doing|tar bort kund...
+confirm.permanentlyDeleteCustomer.title|radera kund permanent
+confirm.permanentlyDeleteCustomer.msg|är du säker på att du vill ta bort den här kunden permanent?
+confirm.permanentlyDeleteCustomer.doing|tar bort kund permanent...
+confirm.permanentlyDeleteCustomer1.title|bekräfta permanent borttagning
+confirm.permanentlyDeleteCustomer1.msg|helt säker?
+confirm.permanentlyDeleteCustomer1.doing|tar bort kund permanent...
+confirm.restoreCustomer.title|återställa kund
+confirm.restoreCustomer.msg|är du säker på att du vill återställa den här kunden?
+confirm.restoreCustomer.doing|återställer kund...
+confirm.importCustomers.title|importera kunder
+confirm.importCustomers.msg|är du säker på att du vill importera kunder från den valda filen?
+confirm.importCustomers.doing|importerar kunder...
+confirm.deleteCourse.title|ta bort kurs
+confirm.deleteCourse.msg|är du säker på att du vill ta bort den här kursen?
+confirm.deleteCourse.doing|tar bort kurs...
+confirm.sendQuizReceived.title|skicka frågesport mottagen
+confirm.sendQuizReceived.msg|är du säker på att du vill skicka "svar-mottaget" e-postmeddelande till frågesportsdeltagaren?
+confirm.sendQuizReceived.doing|skickar "svar-mottaget" e-post...
+confirm.sendDiploma.title|skicka kursbevis
+confirm.sendDiploma.msg|är du säker på att du vill skicka kursbevis till [X]?
+confirm.sendDiploma.doing|skickar kursbevis...
+confirm.deleteGroup.title|ta bort grupp
+confirm.deleteGroup.msg|är du säker på att du vill ta bort den här gruppen?
+confirm.deleteGroup.doing|tar bort grupp...
+confirm.deleteOrg.title|ta bort organisation
+confirm.deleteOrg.msg|är du säker på att du vill ta bort den här organisationen?
+confirm.deleteOrg.doing|tar bort organisation...
+confirm.deleteUser.title|ta bort användare
+confirm.deleteUser.msg|är du säker på att du vill ta bort den här användaren?
+confirm.deleteUser.doing|tar bort användare...
+confirm.addUserToVismaConnect.title|lägg till användare
+confirm.addUserToVismaConnect.msg|är du säker på att du vill lägga till denna användare till Visma Connect?
+confirm.addUserToVismaConnect.doing|lägger till användare...
+confirm.sendEmailToUserX.title|skicka e-post till användaren
+confirm.sendEmailToUserX.msg|skicka e-post till användare [X]?
+confirm.sendEmailToUserX.doing|skickar mejl...
+confirm.deleteEmailTemplate.title|ta bort e-postmall
+confirm.deleteEmailTemplate.msg|är du säker på att du vill ta bort den här e-postmallen?
+confirm.deleteEmailTemplate.doing|tar bort e-postmall...
+lbl.forceRootUnit.value|tvinga rotenhet
+lbl.forceRootUnit.placeholder|
+lbl.forceRootUnit.tooltip|genom att avmarkera här visas data för hela organisationen.
+label.learnerName|elevens namn
+label.learnerEmail|elevens e-post
+label.courseId|kurs-ID
+label.courseVersion|kursversion
+label.courseName|kursnamn
+label.courseDuration|kursens längd
+label.courseTakenDate|kursdatum
+label.diplomaSent|diplom sent
+label.diplomaNo|certifikat nr.
+label.allowWebService|tillåt WebService
+label.diplomaMetadata|diplommetadata
+label.showAttach|visa affiliate
+label.showAttached|visa ansluten
+label.showDeleted|visa raderad
+label.onlyActive|endast aktiv
+label.onlySingleChoise|endast singlechoise
+label.sftpServerUrl|sFTP-serverns webbadress
+label.sftpPort|sFTP-port
+label.sftpUsername|sFTP användarnamn
+label.sftpPassword|sFTP-lösenord
+label.usersFilename|filnamnsanvändare
+label.departmentsFilename|filnamnsavdelningar
+label.downloadFolder|nedladdningsmapp
+label.jobActive|jobb aktiv
+label.activateTheJob|aktivera jobbet
+label.jobCronString|cronString for job
+label.eloquaFormName|eloqua form namn
+label.instanceUrl|instans url
+label.companyId|företags ID
+label.companyGuid|företagets GUID
+label.usersApiUrl|användarens API URL
+label.rootDepartment|rotavdelning
+label.catalogUrl|katalog url
+label.healthCareUrl|sjukvårdens URL
+label.schoolUrl|skolans URL
+label.kindergartenUrl|dagis URL
+label.childWelfareUrl|webbadress för barnskydd
+label.courseUrl|kursens URL
+label.rootExternalId|rotavdelningens ID
+label.forceAllUsers|fungerar på ALLA användare
+label.forceRootUnit|kraft rotenhet
+label.attachedCustomers|anslutna användare
+label.notAttachedCustomers|inte anslutna kunder
+label.notAttachedAnyOrganization|inte ansluten till någon organisation
+label.authorizationType|behörighetstyp
+label.deleteDate|raderingsdatum
+label.orgAttachment|org-tillhörighet
+label.forceUnitSelection|framtvinga val av enhet
+label.username|användarnamn (e-post)
+label.usernameIsEmail|användarnamn är e-post
+label.useVismaLearn|använd Visma Learning
+label.canChangePassword|kan byta lösenord
+label.newsOptional|valfria pressmeddelanden
+label.accountEnabled|konto aktiverat
+label.trialSubscription|provprenumeration
+label.inheritable|kan ärvas
+label.invalidOrgno|ogiltigt organisationsnummer
+label.reportAreaMaxPath|max väg
+label.onlyWithXmlParseError|endast med XML-tolkningsfel
+label.onlyDiplomaNotSent|endast diplom som inte skickas
+label.onlyTraceableUsers|endast spårbara användare
+label.onlyAnsverReceivedNotSent|endast 'svar-mottaget' har inte skickats
+label.onlyAttachedUsers|endast anslutna användare
+label.csvDelimiter|cSV-avgränsare
+label.csvSeparator|cSV-avgränsare
+label.csvFile|cSV-fil
+label.changeOrg|byt org
+label.changeOrganization|förändra organisationen
+label.allowSectorNotRelevant|tillåt sektor "inte relevant"
+label.givesSuperuserRight|ger superanvändarrättigheter
+label.onlyExportOwnProducts|exportera endast egna produkter
+label.onlyPersonalia|endast personuppgifter
+label.createNewCustomers|skapa nya kunder
+label.sendEmailOnSuccess|skicka e-post om OK
+label.sendEmailOnFail|skicka e-post om fel
+label.sendEmailToNewCustomers|skicka e-post till nya kunder
+label.primeDate|prime-datum
+label.timeBetweenPrimeAndResult|tid mellan prime och resultat
+label.flashVersion|flash-version
+label.sectorRootPageId|sektorns rotsida-ID
+label.useragent|användaragent
+label.brregRegisteredDate|brreg registreringsdatum
+label.underForcedLiquidation|under tvångslikvidation
+label.underLiquidation|under likvidation
+label.isInFoundationRegister|registrerad i stiftelseregistret
+label.isInVatRegister|registrerat i mervärdesskatteregistret
+label.isInVoluntarinessRegister|registrerad i frivilligregistret
+label.isInBusinessRegister|registrerad i Företagsregistret
+label.businessCode|näringskod
+label.institutionalSectorCode|institutionell sektorkod
+label.ownerId|ägare ID
+label.maxPath|max väg
+abbr.customerNumber|kundnr
+abbr.shortCustomerNumber|K.no
+abbr.info|info
+abbr.organizationalNumber|orgno
+abbr.notAvailable|nA
+abbr.trialSubscription|provprenumeration
+abbr.organization|org
+abbr.business|vrk
+abbr.department|avd
+abbr.diplomaNo|d.no
+abbr.courseId|K.id
+abbr.automatic|auto
+abbr.sinceBeginningOfTime|s.t.b
+option.ignore|ignorera
+option.allNotified|alla som är underrättade
+option.notUsedAfterNotification|ej använd efter avisering
+option.hasUsedAfterNotification|har använt efter avisering
+option.attached|ansluten
+option.onlyAttached|endast ansluten
+option.onlyNotAttached|endast inte ansluten
+option.notAttached|inte ansluten
+option.onlyWith|bara med
+option.onlyWithout|bara utan
+option.active|aktiv
+option.notActive|inte aktiv
+option.confirmed|bekräftad
+option.notConfirmed|inte bekräftat
+option.hasActiveProducts|har aktiva produkter
+option.hasDeactivatedProducts|har avaktiverat produkter
+option.noOwnProducts|inga egna produkter
+jobTitle.customerImport|kundimport
+jobTitle.ppUnitImport|import PlusPort departments
+jobTitle.analyticsUpdate|analysuppdatering
+jobTitle.updateBrregUnits|uppdatera Brreg-enheter
+jobTitle.addingFeideDomains|lägg till Feide-domäner
+jobTitle.areYouAlive|lever du?
+jobTitle.connectProvisioning|ansluta provisjonering
+jobTitle.exportUsersToVismaLearn|exportera användare till Visma Learn
+jobTitle.exportUnitsToVismaLearn|exportera enheter till Visma Learn
+phrase.loginSuccessful|inloggningen lyckades
+word.next|nästa
+word.previous|föregående
+phrase.socialSecurityNumber|personnummer
+dateTime.year|år
+dateTime.years|år
+dateTime.month|månad
+dateTime.months|månader
+dateTime.week|vecka
+dateTime.weeks|veckor
+dateTime.fortnight|två veckor
+dateTime.quarter|fjärdedel
+dateTime.quarters|kvartal
+dateTime.trimester|trimestern
+dateTime.hour|timme
+dateTime.hours|timmar
+dateTime.minute|minut
+dateTime.minutes|minuter
+dateTime.second|andra
+dateTime.seconds|sekunder
+dateTime.current|nuvarande
+dateTime.fixedDate|fixad dejt
+dateTime.abbr.time|kl:
+dateTime.error.parseError|det gick inte att analysera datum
+dateTime.error.XMustBeNumeric|[X] måste vara ett tal
+dateTime.error.inputHasWrongLength|datumet har fel längd
+dateTime.error.yearMustHave4Digits|årtalet måste vara antingen 2 eller 4 siffror
+dateTime.error.monthMustBeBetween1And12|månad måste vara ett tal mellan 1 och 12
+dateTime.error.dayCannotBeZero|dag kan inte vara 0
+dateTime.error.dateCanNotBeLessThanX|datum får inte vara mindre än [X]
+dateTime.error.dateCanNotBeGreaterThanX|datum får inte vara större än [X]
+dateTime.error.XMonthHasOnlyYDays|[X] månad har bara [Y] dagar
+dateTime.error.pleaseEnterDate|ange ett datum.
+dateTime.error.pleaseEnterTime|vänligen ange en tid
+dateTime.error.invalidTime|ogiltig tid
+dateTime.error.timeMustBeNumeric|tid kan bara innehålla siffror
+dateTime.abbr.week|i
+dateTime.dayNames.0|söndag
+dateTime.dayNames.1|måndag
+dateTime.dayNames.2|tisdag
+dateTime.dayNames.3|onsdag
+dateTime.dayNames.4|torsdag
+dateTime.dayNames.5|fredag
+dateTime.dayNames.6|lördag
+dateTime.dayNames.7|söndag
+dateTime.dayNamesShort.0|sön
+dateTime.dayNamesShort.1|mån
+dateTime.dayNamesShort.2|tis
+dateTime.dayNamesShort.3|ons
+dateTime.dayNamesShort.4|tor
+dateTime.dayNamesShort.5|fre
+dateTime.dayNamesShort.6|satt
+dateTime.dayNamesShort.7|sön
+dateTime.dayNamesMin.0|sö
+dateTime.dayNamesMin.1|må
+dateTime.dayNamesMin.2|ti
+dateTime.dayNamesMin.3|on
+dateTime.dayNamesMin.4|to
+dateTime.dayNamesMin.5|fr
+dateTime.dayNamesMin.6|lö
+dateTime.dayNamesMin.7|sö
+dateTime.monthNames.0|januari
+dateTime.monthNames.1|februari
+dateTime.monthNames.2|mars
+dateTime.monthNames.3|april
+dateTime.monthNames.4|maj
+dateTime.monthNames.5|juni
+dateTime.monthNames.6|juli
+dateTime.monthNames.7|augusti
+dateTime.monthNames.8|september
+dateTime.monthNames.9|oktober
+dateTime.monthNames.10|november
+dateTime.monthNames.11|december
+dateTime.monthNamesShort.0|jan
+dateTime.monthNamesShort.1|feb
+dateTime.monthNamesShort.2|mar
+dateTime.monthNamesShort.3|apr
+dateTime.monthNamesShort.4|maj
+dateTime.monthNamesShort.5|jun
+dateTime.monthNamesShort.6|jul
+dateTime.monthNamesShort.7|aug
+dateTime.monthNamesShort.8|sep
+dateTime.monthNamesShort.9|okt
+dateTime.monthNamesShort.10|nov
+dateTime.monthNamesShort.11|dec
+dateTime.error.parseErrors.dmy|använd dd mmm yyyy, dd.mm.yyyy eller dd/mm/yyyy
+dateTime.error.parseErrors.mdy|använd mmddyyyy, mm.dd.yyyy eller mm/dd/yyyy
+dateTime.error.parseErrors.ymd|använd yyyyddmm, yyyy.dd.mm eller yyyy/dd/mm
+dateTime.error.yearIsMissing|år saknas
+dateTime.error.monthIsMissing|månad saknas
+dateTime.error.dayIsMissing|dag saknas
+dateTime.error.dayMustBeANumber|dag måste vara en siffra
+dateTime.error.monthMustBeANumber|månad måste vara en siffra
+dateTime.error.yearMustBeANumber|år måste vara en siffra
+dateTime.day|dag
+dateTime.days|dagar
+phrase.numberOfX|antal [X]
+dateTime.decimalPoint|,
+dateTime.thousandsSep|.
+phrase.gettingContent|hämtar innehåll
+phrase.dataTable|datatabell
+phrase.showX|visa [X]
+phrase.backToX|tillbaka till [X]
+phrase.print|skriva ut
+phrase.resetZoom|återställ zoom
+phrase.resetZoomToX|återställ zoomen till [X]
+highcharts.accessibility.axis.xAxisDescriptionPlural|diagrammet har {numAxes} X-axlar som visar {#each(names, -1) }och {names[-1]}.
+highcharts.accessibility.axis.xAxisDescriptionSingular|diagrammet har 1 X-axel som visar {namn[0]}..
+highcharts.accessibility.axis.yAxisDescriptionPlural|diagrammet har {numAxes} Y-axlar som visar {#each(names, -1) }och {names[-1]}.
+highcharts.accessibility.axis.yAxisDescriptionSingular|diagrammet har 1 Y-axel som visar {namn[0]}..
+highcharts.accessibility.exporting.chartMenuLabel|diagramexport
+highcharts.accessibility.exporting.exportRegionLabel|diagramexport meny
+highcharts.accessibility.exporting.menuButtonLabel|visa exportmeny
+highcharts.contextButtonTitle|diagrammeny
+highcharts.downloadCSV|ladda ner CSV
+highcharts.downloadXLS|ladda ner XLS
+highcharts.downloadJPEG|ladda ner som JPEG-bild
+highcharts.downloadPDF|ladda ner som PDF-dokument
+highcharts.downloadPNG|ladda ner som PNG-bild
+highcharts.downloadSVG|ladda ner som SVG-bild
+error.ifProblemPersistsContactSysAdmin|om problemet kvarstår, kontakta din systemadministratör
+label.smtpServer|sMTP-server
+label.smtpPort|sMTP-port
+label.smtpTlsSsl|sMTP TLS/SSL
+label.smtpUsername|sMTP användarnamn
+label.smtpPassword|sMTP lösenord
+label.emailFromAddress|e-post från adressen
+label.emailFromName|e-post från namn
+label.emailReplyToAddress|e-post svarsadress
+label.emailReplyToName|e-post svarsnamn
+label.initialProductsNewUser|initiala produkter för nya användare
+label.initialProductsSelfregTrialUser|initiala produkter för självregistrerade provanvändare
+label.initialProductsSelfregUser|initiala produkter för självregistrerade användare
+label.trialUserPeriodInDays|provanvändarperiod i dagar
+label.trialUserQuarantineInDays|provanvändare karantän i dagar
+label.trialUserDeletedAfterDays|provanvändare raderades efter dagar
+label.failMailsTo|fel/avisering skickas till
+label.googleAnalyticsViewId|google Analytics viewID
+label.googleAnalyticsReportPeriodInDays|google Analytics rapportperiod i dagar
+label.inactiveMonthsBeforeAreYouAlive|användare inaktiv månader före AreYouAlive
+label.monthsBetweenAreYouAlive|månader mellan efterföljande AreYouAlive
+productSector.healthCare.name|vård och omsorg
+productSector.healthCare.code|VO
+productSector.school.name|skola
+productSector.school.code|SK
+productSector.kindergarten.name|dagis
+productSector.kindergarten.code|DA
+productSector.childWelfare.name|barnomsorg
+productSector.childWelfare.code|BO
+productSector.contentAuthor.name|författare
+productSector.contentAuthor.code|AT
+productSector.contentAdmin.name|administration
+productSector.contentAdmin.code|AD
+productSector.notRelevant.name|inte relevant
+productSector.notRelevant.code|IR
+productSector.unknown.name|okänd
+productSector.unknown.code|UK
+productSector.invalid.name|ogiltig
+productSector.invalid.code|OG
+phrase.lockedByUserX|låst av användare [X]
+error.invalidSocialSecurityNumber|ogiltigt personnummer
+phrase.allowAndRemoveX|tillåt och ta bort [X]
+phrase.allowAndKeepX|tillåt och behåll [X]
+phrase.allowAndRemove|tillåt och ta bort
+phrase.allowAndKeep|tillåt och behåll
+label.changeUnit|byt enhet
+phrase.webhookJob|webhook jobb
+phrase.unsupportedWebhookFunction|ostödd webhook-funktion
+phrase.XYDoesNotExist|[X] '[Y]' finns inte
+phrase.ignoringNewVismaConnectUser|ny användare i Visma Connect - ignorerar
+phrase.phoneNumber|telefonnummer
+phrase.noChangesInEBAData|inga ändringar i EBA-data
+phrase.ourAppNotIncluded|vår app ingår ej
+phrase.deletingNotPerformed|radering ej utförd
+phrase.noPayload|ingen nyttolast
+email.m0001.subject|EBA - fatalt fel vid byte av användarnamn på Visma-konto
+email.m0001.body|användare [X] ändrade användarnamnet på sitt Visma-konto till [Y]. Men användarnamnet [Y] används redan! MÅSTE HANTERAS MANUELLT!!
+email.m0002.subject|EBA - roll/produkt borttagen på grund av byte av användarnamn på Visma-kontot
+email.m0002.body1|användaren ändrade sitt Visma-kontos användarnamn från [X] till [Y]
+email.m0002.body2|ingen ny organisation hittades för det nya användarnamnet, och följande togs bort från användaren
+email.m0002.body3|detta ledde till en organisationsbyte och följande togs bort från användaren
+error.userXDoesNotExistInEBA|användaren '[X]' finns inte i EBA
+email.m0003.subject|eBA - roll/produkt borttagen pga byte av verksamhet
+email.m0003.body|användare [X] förlorade följande roll/produkt vid byte av verksamhet [Y] till [Z]
+word.sending|skickar
+phrase.sendXMail|skicka '[X]' e-post
+phrase.XSuccessfullySendt|[X] har skickats
+phrase.sendingXFailed|sändning av [X] misslyckades
+phrase.systemMessage|systemmeddelande
+abbr.emailRegarding|re
+phrase.XYDoesNotExistInZ|[X] '[Y]' finns inte i [Z]
+phrase.trackCustomerX|spåra kund '[X]'
+phrase.productString|produktsträng
+product.productStringAlreadyExists|en produkt med denna produktsträng finns redan
+tab.crmLinks|CRM-länkar
+tab.soExport|superOffice export
+word.jobs|jobb
+word.filename|filnamn
+phrase.productGroup|produktgrupp
+phrase.shortName|kort namn
+phrase.thisSector|denna sektor
+phrase.crmLink|CRM koppling
+phrase.crmLinks|CRM kopplingar
+phrase.aCrmLink|en CRM koppling
+phrase.customerCardId|kundkorts-ID
+phrase.anAlternative|ett alternativ
+phrase.googleDriveFolder|google Drive mapp
+phrase.jobConfig|jobbkonfiguration
+product.shortNameAlreadyExists|en produkt med detta korta namn finns redan
+error.onlyVlUsersCanHaveCrmLinks|CRM kopplingar kan endast registreras för KG-användare
+confirm.startSoExportJob.title|starta SuperOffice-export
+confirm.startSoExportJob.msg|är du säker på att du vill aktivera det här jobbet nu?
+confirm.startSoExportJob.doing|aktiverar jobbet...
+label.crmRelevant|relevant för CRM
+jobTitle.soExport|skapa CSV för SuperOffice
+phrase.createCsvAndUploadToGoogleDrive|skapa CSV och ladda upp till Google Drive
