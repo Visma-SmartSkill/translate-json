@@ -970,7 +970,7 @@
     "userDefinedUnitsNeedsParent": "user defined units can only be created under an existing unit",
     "userDefinedUnitParentMustBeOfficialOrManual": "user defined units can only be created under official or manual units",
     "unitsOfTypeManualCanOnlyBeAddedToManualTree": "manual units can only be added to a manual hierarchy",
-    "unitsOfTypeXCanOnlyBeAddedToXTree": "units of type [X] can only be added to [x] hierarchys",
+  "unitsOfTypeXCanOnlyBeAddedToXTree": "units of type [X] can only be added to [X] hierarchys",
     "failedWrongUserNameAndOrPassword": "failed (wrong username and/or password)",
     "requestIgnoredWrongApiVersion": "request ignored - wrong ApiVersion",
     "swedishMunicipalitiesNotUpdated": "Swedish municipalities/counties were not updated",

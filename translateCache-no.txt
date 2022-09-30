@@ -1233,7 +1233,7 @@ confirm.startSoExportJob.doing|starter jobben...
 label.crmRelevant|relevant for CRM
 jobTitle.soExport|lager CSV for SuperOffice
 phrase.createCsvAndUploadToGoogleDrive|opprett CSV og last opp til Google Disk
-word.manual|håndbok
+word.manual|manuell
 error.userDefinedUnitParentMustBeOfficialOrManual|brukerdefinerte enheter kan kun opprettes under offisielle eller manuelle enheter
 error.unitsOfTypeManualCanOnlyBeAddedToManualTree|manuelle enheter kan bare legges til et manuelt hierarki
-error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bare legges til [x] hierarkier
+error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bare legges til [X] hierarkier
