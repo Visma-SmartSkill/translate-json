@@ -13,13 +13,15 @@ let dicc = {};
 if (process.argv.length >= 4) {
 
     //Args
-    const inputFile = process.argv[2];
-    const destinationCodes = process.argv[3].split(',');
+    const inputFile = path.basename(process.argv[2]);
+    const fileName = path.parse(inputFile).name;
+    const destinationCodes = _.filter(process.argv[3].split(','), (c) => c !== fileName);
     const apiKey = process.argv.length > 4 && process.argv[4];
+    const basePath = path.dirname(path.relative('./', process.argv[2]));
 
     const apiUrl = _.template('https://www.googleapis.com/language/translate/v2?key=<%= apiKey %>&q=<%= value %>&source=en&target=<%= languageKey %>');
 
-    const transformResponse = (res) => {		
+    const transformResponse = (res) => {
         return _.lowerFirst(_.get(JSON.parse(res.text), ['data', 'translations', 0, 'translatedText'], ''));
     }
     const transformFree = (res) => {
@@ -29,7 +31,7 @@ if (process.argv.length >= 4) {
     const getCache = (languageKey) => {
         try {
             dicc[languageKey] = {};
-            let fileContent = fs.readFileSync(`./translateCache-${languageKey}.txt`, 'utf-8').split(/\r?\n/);
+            let fileContent = fs.readFileSync(path.join(basePath, `translateCache-${languageKey}.txt`), 'utf-8').split(/\r?\n/);
             fileContent.map((line)=> {
                 let cached = line.split('|');
                 if(cached[0]) dicc[languageKey][cached[0]] = cached[1];
@@ -41,7 +43,7 @@ if (process.argv.length >= 4) {
     const cachedIndex = (key, value, languageKey) => {
         const line = key + '|' + value + '\n';
         dicc[languageKey][key] = value;
-        fs.appendFileSync(`./translateCache-${languageKey}.txt`, line);
+        fs.appendFileSync(path.join(basePath, `translateCache-${languageKey}.txt`), line);
         return value;
     }
 
@@ -96,7 +98,7 @@ if (process.argv.length >= 4) {
     }
 
     Promise.all(_.reduce(destinationCodes, (sum, languageKey) => {
-        const fileName = _.template('./<%= languageKey %>-<%= timeStamp %>.json')({
+        const fileName = _.template(path.join(basePath, './<%= languageKey %>.json'))({
             languageKey,
             timeStamp: moment().unix()
         });
@@ -105,7 +107,7 @@ if (process.argv.length >= 4) {
         getCache(languageKey);
 
         //Starts with the top level strings
-        return sum.concat(_.reduce(iterLeaves(JSON.parse(fs.readFileSync(path.resolve(inputFile), 'utf-8')), undefined, undefined, languageKey), (promiseChain, fn) => {
+        return sum.concat(_.reduce(iterLeaves(JSON.parse(fs.readFileSync(path.join(basePath, inputFile), 'utf-8')), undefined, undefined, languageKey), (promiseChain, fn) => {
             return promiseChain.then(fn);
         }, Promise.resolve()).then((payload) => {
             fs.writeFileSync(fileName, JSON.stringify(payload, null, 4));
