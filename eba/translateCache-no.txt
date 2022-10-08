@@ -1,0 +1,1239 @@
+tab.start|start
+tab.customers|kunder
+tab.units|enheter
+tab.organizations|organisasjoner
+tab.personnel|personale
+tab.config|konfigurasjon
+tab.admin|admin
+tab.elearn|eLearn
+tab.areYouAlive|er du i live
+tab.authorizedUsernames|godkjente brukernavn
+tab.importJob|import jobb
+tab.appSettings|appInnstillinger
+tab.tracingUsernames|sporing brukernavn
+tab.importConfig|import konfig
+tab.vismaLearn|visma Learning
+tab.blacklistAreas|svarteliste områder
+word.siteProductName|veilederen
+word.affiliation|tilhørighet
+word.address|adresse
+word.application|applikasjon
+word.applications|applikasjoner
+word.accumulated|akkumulert
+word.postalNumber|postnummer
+word.postalPlace|poststed
+word.businessAddress|forretningsadresse
+word.locationAddress|beliggenhetsadresse
+word.close|lukk
+word.read|les
+word.toRead|lese
+word.write|skriv
+word.toWrite|skrive
+word.delete|slett
+word.toDelete|slette
+word.deleting|sletter
+word.deleted|slettet
+word.save|lagre
+word.ok|ok
+word.created|opprettet
+word.by|av
+word.export|eksport
+word.doExport|eksport
+word.country|land
+word.county|fylke
+word.cancel|avbryt
+word.municipality|kommune
+word.yes|ja
+word.no|nei
+word.addition|tillegg
+word.all|alle
+word.administrator|administrator
+word.capability|evne
+word.capabilities|evner
+word.configuration|konfigurasjon
+word.configurations|konfigurasjoner
+word.category|kategori
+word.customer|kunde
+word.customers|kunder
+word.customerNumber|kundenummer
+word.owner|eieren
+word.details|detaljer
+word.file|fil
+word.area|område
+word.change|endre
+word.aChange|endring
+word.changes|endringer
+word.search|søk
+word.description|beskrivelse
+word.warning|advarsel
+word.access|adgang
+word.product|produkt
+word.products|produkter
+word.event|hendelse
+word.events|hendelers
+word.result|resultat
+word.results|resultater
+word.found|funnet
+word.enabled|aktivert
+word.guid|gUID
+word.group|gruppe
+word.groups|grupper
+word.role|rolle
+word.roles|roller
+word.course|kurs
+word.name|navn
+word.firstname|fornavn
+word.lastname|etternavn
+word.overview|oversikt
+word.username|brukernavn
+word.usernames|brukernavn
+word.sector|sektor
+word.password|passord
+word.unknown|ukjent
+word.company|selskap
+word.organizationalNumber|organisasjonsnummer
+word.organizationalForm|organisasjonsform
+word.email|e-post
+word.phone|telefon
+word.code|kode
+word.marketingGroups|markedsføringsgrupper
+word.right|rettighet
+word.error|feil
+word.url|url
+word.none|ingen
+word.registration|registrering
+word.business|virksomhet
+word.department|avdeling
+word.user|bruker
+word.users|brukere
+word.unit|enhet
+word.units|enheter
+word.organization|organisasjon
+word.organizations|organisasjoner
+word.never|aldri
+word.id|id
+word.importConfiguration|import konfigurasjon
+word.webhook|webhook
+word.webhooks|webhooks
+word.uri|uRI
+word.active|aktiv
+word.activated|aktivert
+word.deactivated|deaktivert
+word.thisRole|denne rollen
+word.thisRight|denne rettigheten
+word.additions|tillegg
+word.import|import
+word.charset|tegnsett
+word.perform|utføre
+word.performing|utfører
+word.start|start
+word.job|jobb
+word.theJob|jobben
+word.thaName|navnet
+word.various|diverse
+word.test|test
+word.pageviews|sidevisninger
+word.includes|inkluderer
+word.permanent|permanent
+word.permanently|permanent
+word.regular|fast
+word.subscription|abonnement
+word.refresh|oppfrisk
+word.send|send
+word.belonging|tilhører
+word.normal|normal
+word.from|fra
+word.to|til
+word.dismissed|oppsagt
+word.message|melding
+word.messages|meldinger
+word.importing|importerer
+word.ecourse|e-kurs
+word.quiz|quiz
+word.browser|nettleser
+word.remove|fjern
+word.selection|utvalg
+word.nobody|ingen
+word.vertical|vertikal
+word.horizontal|horisontal
+word.layout|oppsett
+word.choice|valg
+word.bankrupt|konkurs
+word.brreg|brreg
+word.countryCode|landskode
+word.subject|emne
+word.emailTemplate|e-postmal
+word.emailTemplates|e-postmaler
+word.edit|endre
+word.date|dato
+word.key|nøkkel
+word.value|verdi
+word.time|tid
+word.title|tittel
+word.period|periode
+word.week|uke
+word.quarter-period|kvartal
+word.quarters-period|kvartaler
+word.confirmed|bekreftet
+word.root|rot
+word.continue|fortsette
+word.create|opprett
+word.toCreate|oppretter
+word.new|ny
+word.was|var
+word.ignored|ignorert
+word.ignoring|ignorerer
+word.important|viktig
+word.quarantine|karantene
+word.nothing|ingenting
+word.subunit|underenhet
+word.subunits|underenheter
+word.parent|overordnet
+word.cause|årsak
+word.errorCode|feilkode
+word.status|status
+word.info|info
+word.eba|eBA
+word.do-use|bruke
+word.expected|forventet
+word.expecting|forventer
+word.year|år
+word.type|type
+word.other|annen
+word.invalid|ugyldig
+word.internal|interne
+word.manually|manuelt
+phrase.appSettings|appinnstillinger
+phrase.areYouSure|er du sikker?
+phrase.addUser|legg til bruker
+phrase.addNew|legg til ny
+phrase.allIsFine|alt er ok
+phrase.brregUnit|brreg enhet
+phrase.officialUnit|offisiell enhet
+phrase.userDefined|brukerdefinert
+phrase.logIn|logg Inn
+phrase.loggedIn|logget inn
+phrase.lastLoggedIn|sist pålogget
+phrase.numberOfLogins|antall pålogginger
+phrase.noLogins|ingen pålogginger
+phrase.personNotFoundInVismaConnect|personen finnes ikke i Visma Connect
+phrase.cannotAddToVismaConnect|kan ikke legge til i Visma Connect
+phrase.logOut|logg ut
+phrase.do-export|eksporter
+phrase.do-import|importer
+phrase.sendDiplomaToLearner|send kursbevis til kursdeltaker
+phrase.sendQuizReceivedToLearner|send svar mottatt til quizdeltaker
+phrase.sendingEmailFailed|sending av e-post mislyktes
+phrase.resourceName|ressursnavn
+phrase.externalId|ekstern id
+phrase.thisId|denne ID'en
+phrase.thisOrganizationalNumber|dette organisasjonsnummeret
+phrase.thisUnit|denne enheten
+phrase.thisExternalId|denne eksterne ID'en
+phrase.extenralId|ekstern ID
+phrase.thisUnitIsControlledByBrreg|denne enheten eksisterer allerede og er under kontroll av Brreg
+phrase.thisAuthorizedUsername|dette godkjente brukernavnet
+phrase.performedBy|utført av
+phrase.theField|feltet
+phrase.theUsername|brukernavnet
+phrase.theOrganization|organisasjonen
+phrase.theUnit|enheten
+phrase.theRegistration|registreringen
+phrase.ebaUser|eBA bruker
+phrase.ebaUsers|eBA-brukere
+phrase.beApproved|godkjennes
+phrase.beChanged|endres
+phrase.anApproval|en godkjenning
+phrase.anAction|et handling
+phrase.aUnit|en enhet
+phrase.inUse|i bruk
+phrase.variousErrors|diverse feil
+phrase.noSuchUser|ingen slik bruker
+phrase.noSuchUserOrWrongPassword|ingen slik bruker, eller feil passord
+phrase.orgnoXAlreadyUpdated|ogno [X] er allerede oppdatert
+phrase.orgXHasNoVLUser|organisasjonen '[X]' har ingen tilknyttet VL-bruker
+phrase.ignoringDeletedUnitWithOrgnoX|ignorerer slettet enhet med orgno '[X]'
+phrase.processingXY|behandler [X] '[Y]'
+phrase.registered|registrert
+phrase.registeredXByY|registrert [X] av [Y]
+phrase.editedXByY|redigert [X] av [Y]
+phrase.changedX|endret [X]
+phrase.removedX|fjernet [X]
+phrase.removingX|fjerner [X]
+phrase.XRemoved|[X] fjernet
+phrase.deleteX|slett [X]
+phrase.deleteXY|slett [X] '[Y]'
+phrase.deleteXPermanently|slett [X] permanent
+phrase.deletedXPermanently|slettet [X] permanent
+phrase.restoredX|gjenopprettet [X]
+phrase.deletedX|slettet [X]
+phrase.deletingX|sletter [X]
+phrase.addedX|la til [X]
+phrase.notFound|ikke funnet
+phrase.XNotFound|[X] ikke funnet
+phrase.XNotMarkedDeleted|[X] ikke merket som slettet
+phrase.isRegistered|er registrert
+phrase.tryUnlinkUserIdX|forsøk å koble fra bruker-ID '[X]'
+phrase.userWasUnlinked|brukeren ble frakoblet
+phrase.couldNotFindVismaConnectLoginInfo|kunne ikke finne Visma Connect logininfo
+phrase.keepCurrentSetting|behold gjeldende innstilling
+phrase.userFoundInVismaConnectTryUnlink|bruker funnet i Visma Connect - prøv å koble fra
+phrase.userDoesNotExistInVismaConnect|bruker finnes ikke i Visma Connect
+phrase.approvedUsernames|godkjente brukernavn
+phrase.addToVismaConnect|legge til i Visma Connect
+phrase.attachedUsers|tilknyttede brukere
+phrase.currentConfiguration|gjeldende konfigurasjon
+phrase.roleProduct|rolle/produkt
+phrase.rolesProducts|roller/produkter
+phrase.canAssign|kan tildele
+phrase.shortDescription|kort beskrivelse
+phrase.logFile|loggfil
+phrase.userCategory|brukerkategori
+phrase.selfRegistered|selvregistrert
+phrase.primarySector|primær sektor
+phrase.expiresDate|utgår dato
+phrase.quarantineUntil|karantene til
+phrase.quarantineExpiresDate|karantene utgår dato
+phrase.fromDate|fra dato
+phrase.toDate|til dato
+phrase.dismissedDate|oppsagt dato
+phrase.ipAddresses|iP-adresser
+phrase.emailDomain|e-postdomene
+phrase.emailAddress|epostadresse
+phrase.emailCourseTaker|kurstagers e-post
+phrase.exernalId|ekstern ID
+phrase.productAccess|produkttilgang
+phrase.productCode|produktkode
+phrase.pleaseWait|vennligst vent
+phrase.customerDetails|kundedetaljer
+phrase.customerImport|kundeimport
+phrase.importPlusPortDepartments|importere PlusPort-avdelinger
+phrase.importUnitsAndUsers|import av enheter og brukere
+phrase.googleAnalytics|google Analytics
+phrase.vismaConnect|visma Connect
+phrase.userNotCreated|bruker ikke opprettet
+phrase.newCustomer|ny kunde
+phrase.newProduct|nytt produkt
+phrase.newProductRole|nytt produkt/rolle
+phrase.rootUnit|rotenhet
+phrase.userAccess|brukertilgang
+phrase.vlUser|vL-bruker
+phrase.unitType|enhets type
+phrase.webhookId|webhook-ID
+phrase.webhookCall|webhook-anrop
+phrase.verifyToken|bekrefte token
+phrase.secretKey|hemmelig nøkkel
+phrase.fromAllApplications|fra alle applikasjoner
+phrase.receivedElearnResults|mottatte kursresultater
+phrase.courseMapping|kurstilknytning
+phrase.courseMappings|kurstilknytninger
+phrase.setUseVLOnNewUsers|sett 'Bruk Visma Learning' på nye brukere
+phrase.setUseVlOnExistingUsers|sett 'Bruk Visma Learning' på eksisterende brukere
+phrase.courseIdMappingExists|en kurstilknytning til denne kurs-ID-en eksisterer allerede.
+phrase.courseUrlMappingExists|en kurstilknytning med denne URL-en eksisterer allerede
+phrase.startJob|start jobben
+phrase.startTheJob|starte jobben
+phrase.startingJob|starter jobb
+phrase.startingUnitImport|starter import av enhet
+phrase.couldNotStartJobBecauseX|kunne ikke starte jobben. Jobbstarter sa: [X]
+phrase.doYouWantToStartJobNow|vil starte denne jobben nå?
+phrase.startTheXJob|start [X]jobben
+phrase.XJobStarted|startet [X]jobben
+phrase.chosenCustomerIsDeleted|den valgte kunden ser ut til å ha blitt slettet av en annen bruker
+phrase.savingDataFromBrreg|lagrer data fra Brreg
+phrase.XExists|[X] eksisterer
+phrase.XUpdatedSuccessfully|[X] ble oppdatert
+phrase.registrationExists|registrering eksisterer
+phrase.rightExists|rettighet eksisterer
+phrase.roleExists|rolle eksisterer
+phrase.capabilityExists|evne finnes
+phrase.productExists|produktet finnes
+phrase.productRoleIsAlreadyAdded|produktet/rollen er allerede lagt til
+phrase.groupIsAlreadyAdded|denne gruppen er allerede lagt til
+phrase.capabilityIsAlreadyAdded|denne evenen er allerede lagt til
+phrase.thisProductIsAlreadyAdded|dette produktet er allerede lagt til.
+phrase.importJobWasStarted|importjobben ble startet
+phrase.pleaseChoose|vennligst velg
+phrase.pleaseChooseAFile|vennligst velg en fil
+phrase.chooseExportType|velg eksporttype
+phrase.exportType|eksporttype
+phrase.searchForX|søk etter [X]
+phrase.searchOnX|søk på [X]
+phrase.exportX|eksporter [X]
+phrase.createX|opprett [X]
+phrase.createXY|opprett [X] '[Y]'
+phrase.addX|legg til [X]
+phrase.editX|endre [X]
+phrase.editXY|endre [X] '[Y]'
+phrase.chooseX|velg [X]
+phrase.createNewX|opprett ny [X]
+phrase.chosenX|valgt [X]
+phrase.dropXHere|slipp [X] her
+phrase.noXIsRegistered|ingen [X] er registrert
+phrase.registeredBy|registrert av
+phrase.noXFound|ingen [X] funnet
+phrase.validFrom|gyldig fra
+phrase.validTo|gyldig til
+phrase.XIgnored|[X] ignorert
+phrase.noXWithIdYFound|ingen [X] med id [Y] funnet
+phrase.noXWithYFound|ingen [X] med [Y] funnet
+phrase.noXChosen|ingen [X] valgt
+phrase.forX|for [X]
+phrase.orgLevel|org-nivå
+phrase.noXForYFound|ingen [X] for [Y] funnet
+phrase.lookingFor|ser etter
+phrase.lookingForOrgLevel|ser etter organisasjonsnivå
+phrase.lookingForParentOrgLevelForX|ser etter overordnet organisasjonsnivå for [X]
+phrase.lookingForParentUnitForX|ser etter overordnet enhet for [X]
+phrase.unitXHasNewParentUnitY|enheten [X] har ny overordnet enhet [Y]
+phrase.parentForX|overordnet for [X]
+phrase.parentForXIsY|overordnet for [X] er [Y]
+phrase.couldNotDeleteX|kunne ikke slette [X]
+phrase.pleaseChooseX|vennligst velg [X]
+phrase.XMandatory|[X] må fylles ut
+phrase.XMustBeGreaterY|[X] må være større enn [Y]
+phrase.XMustBeGreaterOrEqualY|[X] må være større enn eller lik [Y]
+phrase.XMustBeLessY|[X] må være mindre enn [Y]
+phrase.XMustBeLessOrEqualY|[X] må være mindre enn eller lik [Y]
+phrase.AXWasAttachedtoBY|[A] '[X]' ble koblet til [B] '[Y]'
+phrase.newX|ny [X]
+phrase.XMissing|[X] mangler
+phrase.noXIsSelected|ingen [X] er valgt
+phrase.parentX|overordnet [X]
+phrase.childrenX|underordnede [X]
+phrase.anXCannotGetY|en [X] kan ikke få [Y]
+phrase.aGroup|en gruppe
+phrase.aBusiness|en virksomhet
+phrase.aDepartment|en avdeling
+phrase.aRootUnit|en rotenhet
+phrase.aFile|en fil
+phrase.theFileIsEmpty|filen er tom
+phrase.anOrganization|en organisasjon
+phrase.XWithYAlreadyExists|[X] med [Y] eksisterer allerede
+phrase.withThisName|med dette navnet
+phrase.byNameX|ved navn [X]
+phrase.XForYAlreadyExists|[X] for [Y] eksisterer allerede
+phrase.XAlreadyExists|[X] eksisterer allerede
+phrase.XAlreadyExistsInY|[X] finnes allerede i [Y]
+phrase.XIsAlreadyY|[X] er allerede [Y]
+phrase.XIsNotAvailable|[X] er ikke tilgjengelig
+phrase.XIsAlreadyInUse|[X] er allerede i bruk
+phrase.removingExistingUserXPermanently|sletter eksisterende bruker '[X]' permanent
+phrase.thisUsername|dette brukernavnet
+phrase.thisName|dette navnet
+phrase.withXY|med [X] [Y]
+phrase.XY|[X] '[Y]'
+phrase.XForY|[X] for [Y]
+phrase.noXProvided|ingen [X] oppgitt
+phrase.noXForYIsProvided|ingen [X] for [Y] er oppgitt
+phrase.thisXCannotYBecauseZ|denne [X] kan ikke [Y] fordi [Z]
+phrase.XCannotYBecauseZ|[X] kan ikke [Y] fordi [Z]
+phrase.XForUserY|[X] for bruker [Y]
+phrase.itAlreadyXByY|det allerede [X] av [Y]
+phrase.ownerOfXHasY|eier av [X] har [Y]
+phrase.XIsLocatedY|[X] er plassert [Y]
+phrase.inADifferentX|i en annen [X]
+phrase.invalidXY|ugyldig [X] '[Y]'
+phrase.lineX|linje [X]
+phrase.movedToUnitXFromY|flyttet til enhet '[X]', var '[Y]'
+phrase.updateSwedishMunicipalities|oppdater svenske kommuner
+phrase.updateMunicipalities|oppdatere kommuner
+phrase.startBrregUnitUpdate|start brreg-oppdatering
+phrase.removeUnusedTrialAccounts|fjerne ubrukte prøvekontoer
+phrase.removeExpiredTrialAccounts|fjerne utløpte prøvekontoer
+phrase.updateFeideDomains|oppdater Feide domener
+phrase.turnsTheJobOnOrOff|slår jobben på eller av
+phrase.numberOfUsersPerTransaction|antall brukere per transaksjon
+phrase.numberOfTransactionsPerJob|antall transaksjoner per jobb
+phrase.typeEmailAddress|skriv inn e-post adresse
+phrase.runTest|kjør test
+phrase.newUsername|nytt brukernavn
+phrase.onlyOwnRegistrations|kun egne registreringer
+phrase.userReloadedDueToImport|på grunn av import har den valgte brukeren blitt lastet inn på nytt. <br> Hvis du har gjort endringer, må du gjøre dem på nytt!
+phrase.personalData|personale
+phrase.pleaseWaitCreatingCsvFile|vennligst vent, lager CSV-fil...
+phrase.pleaseWaitDeletingUsers|vennligst vent, sletter brukere...
+phrase.currentSelection|gjeldende utvalg
+phrase.pleaseWaitDeleting|vennligst vent, sletter...
+phrase.onlyDeletedUsers|kun slettede brukere
+phrase.onlyShowsDeletedUsers|viser kun brukere merket som slettet
+phrase.onlyShowsSelfregisteredUsers|viser kun brukere som har opprettet sin egen konto
+phrase.thisCustomerIsMarkedAsDeleted|denne kunden er merket som slettet
+phrase.onlyIpUsers|kun IP-brukere
+phrase.onlyShowsIpUsers|viser kun brukere hvor en IP-adresse er registrert
+phrase.currentWithIpSharing|nåværende med IP-deling
+phrase.onlyShowsCurrentWithIpSharing|viser kun brukere registrert med IP som overlapper andre brukere
+phrase.allWithIpSharing|alle med IP-deling
+phrase.onlyShowsAllWithIpSharing|viser kun brukere som er registrert med, eller har hatt, IP som overlapper andre brukere.
+phrase.onlyUsersWithSamePrimarySector|kun brukere med samme primærsektor
+phrase.onlySelfregistered|kun selvregistrert
+phrase.onlyShowSelfregistered|viser kun selvregistrerte brukere
+phrase.onlyShowProducts|vis kun produkter
+phrase.onlyShowRoles|vis kun roller
+phrase.createdBySys|opprettet av (sys)
+phrase.accountStatus|konto status
+phrase.accountConfirmed|konto bekreftet
+phrase.accountConfirmedStatus|konto bekreftet status
+phrase.accountActive|konto aktiv
+phrase.lastUse|sist bruk
+phrase.afterDate|etter dato
+phrase.beforeDate|før dato
+phrase.lastChanged|sist endret
+phrase.ipAddress|iP adresse
+phrase.resetSearch|tilbakestill søk
+phrase.deleteCurrentSelection|slette gjeldende valg
+phrase.areYouAlive|er du i live?
+phrase.workRelation|arbeidsforhold
+phrase.statusMyPage|status Min Side
+phrase.availableBasedOnProducts|tilgjengelig basert på produkttilgang
+phrase.shouldReceiveNewsFor|bør motta nyheter for
+phrase.gettingData|henter data
+phrase.selfregisteredTrialUser|selvregistrert prøvebruker
+phrase.selfregisteredUser|selvregistrert bruker
+phrase.infoEmail|info e-post
+phrase.restoreCustomer|gjenopprett kunde
+phrase.deleteCustomer|slett kunde
+phrase.deleteCustomerPermanently|slett kunden permanent
+phrase.editCustomer|endre kunde
+phrase.foundXCustomersToDeletePermanently|fant [X] kunder å slette permanent
+phrase.chooseTheExportTypeYouWant|velg typen eksport du vil gjøre
+phrase.chooseAndImportFile|velg og importer fil
+phrase.importCustomers|importere kunder
+phrase.changeXmlContent|redigere XML-innhold
+phrase.logLevel|loggnivå
+phrase.logClass|logg klasse
+phrase.courseTable|kurstabell
+phrase.eventLog|hendelseslogg
+phrase.ecourseChart|e-kursdiagrammer
+phrase.elrReturned|eLearnReception returnert
+phrase.dataFromResult|data fra resultatet
+phrase.dataFromPrimeRequest|data fra prime-request
+phrase.fromIp|fra IP
+phrase.forwardedFor|videresendt for
+phrase.sectorId|sektor-ID
+phrase.originalContent|originalt innhold
+phrase.copyToModified|kopier til endret
+phrase.modifiedContent|endret innhold
+phrase.csvExport|cSV-eksport
+phrase.courseTaker|kurstaker
+phrase.startGAUpdateJobFromFile|start oppdateringsjobb (fra fil)
+phrase.startGAUpdateJobFromGA|start oppdateringsjobb (fra GA)
+phrase.reportArea|rapporteringsområdet
+phrase.reportAreas|rapporteringsområder
+phrase.welcomeX|velkommen [X]
+phrase.jsonExport|jSON eksport
+phrase.XHasThisProduct|[X] har dette produktet
+phrase.selectAtLeastOneSector|velg minst én sektor
+phrase.yearToDate|så langt dette året
+phrase.chooseYear|velg år
+phrase.chooseSector-s|velg sektor(er)
+phrase.unaffiliatedRootUnits|ikke-tilknyttede rotenheter
+phrase.includeSubunits|inkludere underenheter
+phrase.includeIpCoop|inkludere IP-samarbeid
+phrase.postalAddress|postadresse
+phrase.numberOfEmployees|antall ansatte
+phrase.foundedDate|stiftet dato
+phrase.listMode|listemodus
+phrase.annualOverview|årlig oversikt
+phrase.creatingAnnualOverview|lager årlig oversikt
+phrase.noPropertiesSelected|ingen egenskaper er valgt
+phrase.vismaConnectId|visma Connect ID
+phrase.createdDate|opprettet dato
+phrase.emailVerified|e-post bekreftet
+phrase.emailVerifiedDate|e-post bekreftet dato
+phrase.preferredLanguage|foretrukket Språk
+phrase.plainText|ren tekst
+phrase.editEmailTemplate|redigere e-postmal
+phrase.sendToUser|send til bruker
+phrase.noEmailTemplatesRegisteredInVismaConnect|ingen e-postmaler registrert i Visma Connect
+phrase.noEmailTemplateNamedXFoundInVismaConnect|det finnes ingen e-postmal ved navn '[X]' i Visma Connect
+phrase.vismaConnectReturned|visma Connect returnerte
+phrase.emailToUserXWithTemplateYSuccessfullySent|e-post til bruker '[X]' med mal '[Y]' sendt uten feil
+phrase.usernameXDoesNotExistInVismaConnect|brukernavn '[X]' finnes ikke i Visma Connect
+phrase.foundMultipleUsersWithEmailX|fant flere brukere med e-post '[X]'
+phrase.findUser|finn bruker
+phrase.lookupUsernameInVismaConnect|oppslag brukernavn i Visma Connect
+phrase.lookupUserByExternalLogin|oppslagsbruker basert på eksterne påloggingsdata fra EBA
+phrase.updatedDate|oppdatert dato
+phrase.lastEventDate|sist hendelse dato
+phrase.lastErrorDate|sist feil dato
+phrase.attemptsLastError|forsøk sist feil
+phrase.lastErrorCause|siste feilårsak
+phrase.numberOfEventsInQueue|antall hendelser i køen
+phrase.vismaLearnDataOnlyAvailableToVLUsers|visma Learn-data er kun tilgjengelig for VL-brukere
+phrase.vismaLearnInfo|visma Learn info
+phrase.vismaLearnCustomerInfo|visma Learn kundeinfo
+phrase.vismaLearnCourse|visma Learn kurs
+phrase.courseAffiliation|kurstilknytning
+phrase.courseAffiliations|kurstilknytninger
+phrase.courseAffiliationIngress|kurstilknytning brukes av Veilederen for å sende brukere til riktig kurs i Visma Learning ved bruk av direkte lenker til kurs i Veilederen. Linken er basert på kurs-ID, og ​​krever at CourseId-egenskapen for alle kurslandingssidene i Veilederen er riktig satt
+phrase.viewName|visningsnavn
+phrase.nothingToShow|ingenting å vise
+phrase.blacklistReportAreas|svarteliste rapportområder
+phrase.notSelected|ikke valgt
+phrase.courseId|kurs-ID
+phrase.courseName|kursnavn
+phrase.notAffiliated|ikke tilknyttet
+phrase.municipality/organization|kommune/organisasjon
+phrase.thisCustomerSharesEmailDomainWithTheFollowing|denne kunden deler e-postdomenet med følgende kunder
+phrase.oneOrMoreCustomersWithDomainXFound|en eller flere kunder med e-postdomene [X] funnet
+phrase.doesNotExist|eksisterer ikke
+phrase.noChanges|ingen endringer
+phrase.isNotAffiliatedWithAnyUnit|er ikke knyttet til noen enhet
+phrase.foundNewParentUserX|fant ny overordnet bruker [X]
+phrase.deactivatedOrMarkedDeleted|deaktivert eller merket som slettet
+phrase.usingAuthorizedUsernameForX|bruker godkjent-brukernavn oppføring for [X]
+phrase.theUser|brukeren
+phrase.authorizedUsername|godkjent brukernavn
+phrase.deltedAuthorizedUsernameX|slettet godkjent-brukernavn oppføring '[X]'
+phrase.successfullyChangedUsernameFromXToY|vellykket endring brukernavn '[X]' -> '[Y]'
+phrase.becauseEmailDomainIsSharedByXVLUsers|fordi e-postdomene deles av [X] VL-brukere
+phrase.deletingAuthorizedUsernameXBecauseItsAuthorizedByOrgEmailDomain|sletter godkjent brukernavn [X] fordi det nå godkjennes av organisasjonens e-postdomene
+phrase.notSet|ikke satt
+phrase.registrationDate|registreringsdato
+phrase.changedByUser|endret av bruker
+phrase.modifiedDate|endret dato
+phrase.canChangePassword|kan endre passord
+phrase.userAccount|brukerkonto
+phrase.userRegistrations|brukerregistreringer
+phrase.validFromToDate|gyldig fra/til dato
+phrase.isSetToX|er satt til '[X]'
+phrase.invalidX|ugyldig [X]
+phrase.detectedChanges|endringer oppdaget
+phrase.numberOfChanges|antall endringer
+phrase.XDoesNotExist|[X] eksisterer ikke
+phrase.automaticallyAddedX|[X] automatisk lagt til
+phrase.notSendt|ikke sendt
+phrase.noResultXmlFound|ingen resultat-XML funnet
+phrase.elrReturnedX|eLearnReception returnerte [X]
+phrase.elrApiCallFailed|eLearnReception API-kall mislyktes
+phrase.courseResult|kursresultat
+phrase.quizResult|quizresultat
+phrase.pleaseEnterAValue|vennligst angi en verdi
+phrase.XMustBeAnInteger|[X] må være et heltall
+phrase.userNotAuthorized|bruker ikke autorisert
+phrase.cannotDelete|kan ikke slette
+phrase.insufficientData|utilstrekkelige data
+phrase.doConfirmUnit|bekrefte enhet
+phrase.XSaved|[X] lagret
+phrase.jobQueued|jobb lagt i kø
+phrase.theJobIsAlreadyRunning|jobben kjører allerede
+phrase.theJobIsNotActivated|jobben er ikke aktivert
+phrase.theJobStarted|jobben startet
+phrase.startXExport|start [X]eksport
+phrase.couldNotParseDate|kunne ikke tolke dato
+phrase.couldNotParseValueForX|kunne ikke tolke verdien for [X]
+phrase.XCannotBeNull|[X] kan ikke være NULL
+phrase.XHasNoPropertyY|[X] har ingen egenskap '[Y]'
+phrase.downloadX|last ned [X]
+phrase.unknownValue|ukjent verdi
+phrase.affiliatedWithChosenUnit|tilknyttet valgt enhet
+phrase.affiliatedWithChosenOrASubunit|tilknyttet valgt enhet/underenhet
+phrase.othersInChosenUnitsOrganization|andre i den valgt enhetens organisasjon
+phrase.notAffiliatedWithChosenUnit|ikke tilknyttet valgt enhet
+phrase.notAffiliatedWithAnyUnit|ikke tilknyttet noen enhet
+phrase.manager/middleManager|leder/mellomleder
+phrase.employedWithoutPersonnelResponsibilities|ansatt uten personalansvar
+phrase.allowAndRemoveProduct|tillat og fjern produktet
+phrase.allowAndKeepProduct|tillat og beholde produktet
+phrase.notAllowed|ikke tillatt
+phrase.reloadLocaleFile|last språkfilen på nytt
+phrase.dragProduct/RoleToAdd|DRA ROLLE/PRODUKT TIL LISTE OVER FOR Å LEGG TIL
+phrase.completedEcourses|E-kurs bestått
+phrase.showInfo|vis info
+phrase.numberOf|antall
+userCategory.id1|normalbruker
+userCategory.id2|fellesbruker
+userCategory.id3|vL-bruker
+userCategory.normalUser|normalbruker
+userCategory.commonUser|fellesbruker
+userCategory.vlUser|vL-bruker
+userCategory.other|andre
+email.bestRegards|med vennlig hilsen EBA
+csv.delimiter|cSV-skilletegn
+csv.separator|cSV-separator
+csv.delimiterMustBeOneChar|cSV-skilletegn kan bare inneholde ett tegn.
+csv.separatorMustBeOneChar|cSV-skilletegn kan bare inneholde ett tegn.
+csv.file|cSV-fil
+csv.error.0000|inkonsistente data, brukernavn '[X]' opptrer flere ganger i filen med forskjellige data
+csv.error.0001|fant ikke virksomhet med orgno '[X]'
+csv.error.0002|avdelings-ID er oppgitt, men ikke organisasjonsnummer for virksomhet
+product.addCapabilitiesIngress|legge til evner for gjeldende produkt/rolle
+product.addDelegatableIngress|legge til produkter/roller som innehaveren av gjeldende produkt/rolle kan tildele andre
+product.addGroupsIngress|legge til EPiServer-grupper. Grupper kontrollerer tilgangen til innhold i EPiServer
+product.dragCapability|DRA KAPABILITET TIL LISTE FOR Å LEGGE TIL
+product.dragGroup|DRA GRUPPE TIL LISTE FOR Å LEGG TIL
+product.additionalProducts|tilleggsprodukter/roller
+product.addProductsIngress|legge til produkter/roller som skal inkluderes i gjeldende produkt/rolle
+product.cannotContainSelf|produkt/rolle kan ikke inneholde seg selv
+product.codeAlreadyExists|det finnes allerede et produkt med denne koden
+warn.permanentlyDeleteCustomer|før du sletter denne kunden, VÆR OPPMERKSOM PÅ FØLGENDE!
+warn.permanentlyDeleteCustomer1|er du helt, absolutt, positivt, komplett sikker på at kunden må slettes?
+warn.customerHasHistory|denne kunden har e-læringshistorikk, og sletting vil resultere i tap av rapporteringsdata!!
+warn.XCustomersAffiliatedWithThisCustomer|det er [X] kunder knyttet til denne kunden!
+warn.usersAffiliatedWithThisOrAChildUnit|brukere er knyttet til denne og/eller en av underenhetene
+warn.authorizedUsernamesAffiliatedWithThisOrAChildUnit|godkjente brukernavn er knyttet til denne og/eller en av underenhetene
+warn.theseMustBeDeletedOrMovedBeforeDeletingTheUnit|disse må flyttes eller slettes før du kan slette enheten
+warn.onlyOneVLUserPerOrg|kun én (1) VL-bruker per organisasjon er tillatt
+warn.onlyOneVLUserPerOrg1|følgende VL-bruker kan derfor ikke flyttes før den eksisterende VL-brukeren for denne organisasjonen er fjernet.
+error.unknown|ukjent feil
+error.happened|en feil oppstod
+error.coundNotStartJob|kunne ikke starte jobben. Jobbstarter sa: [X]
+error.usernameExists|brukernavnet er allerede i bruk
+error.orgXAlreadyHasVLUserY|vL-bruker [Y] er allerede tilknyttet organisasjonen [X]
+error.emailDomainMissing|e-postdomene mangler. Kan det være et feilplassert komma?
+error.emailDomainContainsAt|e-postdomene skal bare inneholde den delen av en e-postadresse som kommer etter alfakrøllen (@)
+error.emailDomainMustHaveDot|e-postdomene må inneholde minst ett punktum
+error.emailDomainStartsOrEndsWithDot|e-postdomene kan ikke begynne eller slutte med punktum
+error.duplicateEmailDomainsInString|inneholder dupliserte domener
+error.invalidEmailAddress|ugyldig epostadresse
+error.passwordMissing|passord må angis
+error.thisUserHasNoPassword|denne brukeren har ikke fått passord. Skriv inn passord
+error.invalidIpAddress|iP-adresser må inneholde 4 tall mellom 0 og 255 som er delt med et punktum (.). For eksempel: 192.168.0.1
+error.officialUnitCanOnlyBeAddedToOfficialUnits|en offisiell enhet kan bare legges til andre offisielle enheter.
+error.systemErrorX|det oppstod en systemfeil og handlingen kunne ikke utføres. Systemfeil: [X]
+error.reportFailed|det oppstod en feil og rapporten kunne ikke opprettes. Hvis problemet vedvarer, vennligst kontakt systemadministratoren
+error.couldNotSaveChanges|kunne ikke lagre endringer. Rett feil og prøv igjen
+error.couldNotDeleteItem|kunne ikke slette oppføringen
+error.oneOrMoreErrorsHappened|en eller flere feil oppstod
+error.cannotSaveDueToProductRowErrors|kan ikke lagre på grunn av feil i en eller flere produktrader
+error.genericFormError|kunne ikke utføre handlingen. Se gjennom skjemaet og prøv igjen
+error.commonUsersCannotAuthorizeUsernames|fellesbrukere kan ikke registrere godkjente brukernavn
+error.cannotEditDueToErrorInAnotherRow|kan ikke redigere rad på grunn av feil i en annen rad
+error.cannotAddRowDueToErrorInAother|kan ikke legge til rad på grunn av feil i en annen rad
+error.importNotDoneDueToFollowingErrors|import ikke utført på grunn av følgende feil
+error.serverErrorWithoutMessage|det oppstod en serverfeil, men ingen melding ble gitt
+error.noPrimeFoundForThisResult|ingen prime-request ble funnet for dette resultatet
+error.authUsernameOwnerMustBeAttachedToVLUser|bruker som registrerer godkjente brukernavn må være tilknyttet en VL-bruker
+error.cannotChangeBecauseResultsExists|kan ikke endres fordi det finnes mottatte resultater for dette kurset
+error.cannotDeleteBecauseResultsExists|kan ikke slette fordi det finnes mottatte resultater for dette kurset
+error.emailDomainCanOnlyBeRegisteredOnVLUsers|e-postdomene kan kun registreres på brukere i VL-brukerkategorien
+error.onlyNormalUsersCanHaveThisProduct|kun brukere i brukerkategorien normalbruker kan inneha denne rollen/produktet
+error.multipleParentUsersNotSupported|flere overordnede brukere støttes ikke
+error.usernameIsAuthorizedAndInUse|brukernavn ikke tilgjengelig, godkjent brukernavn er i bruk
+error.incompleteElrApiConfiguration|mangelfull eLearnReception API-konfigurasjon
+error.userDefinedUnitsNeedsParent|brukerdefinerte enheter kan kun opprettes under en eksisterende offisiell enhet
+error.userDefinedUnitParentMustBeOfficial|brukerdefinerte enheter kan kun opprettes under offisielle enheter
+error.unitsOfTypeXCannotBeAddedToBrregTree|enheter av typen [X] kan ikke legges til et Brreg-hierarki
+error.failedWrongUserNameAndOrPassword|mislyktes (feil brukernavn og/eller passord)
+error.requestIgnoredWrongApiVersion|forespørsel ignorert - feil ApiVersion
+error.swedishMunicipalitiesNotUpdated|svenske kommuner/fylker ble ikke oppdatert
+error.norwegianMunicipalitiesNotUpdated|norske kommuner og fylker ble ikke oppdatert
+error.cannotStartJobBecauseAnotherIsRunning|kan ikke starte import - en annen importjobb kjører allerede
+error.errorDuringExport|det oppstod en feil under eksport
+error.receivedWebhookWithoutId|mottok webhook-anrop uten ID!?
+error.invalidWebhookId|ugyldig webhook-ID
+error.secretKeyNotFound|fant ikke hemmelig nøkkel
+error.messageCouldNotBeValidated|meldingen kunne ikke valideres
+error.ipFormatError|iP må inneholde 4 heltall adskilt med '.'. For eksempel: 192.168.0.1
+error.ipMaskMustBeNumeric|maske kan bare inneholde tall
+error.ipMaskInvalid|ugyldig maske
+error.couldNotConvertIpMask|kunne ikke konvertere nettverksmaske
+error.invalidSubnet/netmask|ugyldig subnett/nettmaske
+error.invalidIpRange|iP-området må inneholde to adresser delt med '-'-tegn. For eksempel 192.168.0.10-192.168.0.20
+error.fromIpMustBeGreaterOrEqualToToIp|fra IP må være større enn eller lik IP
+error.ipAddressCannotBeZero|iP-adressen kan ikke være 0
+error.hostIpCannotBeASubnetAddress|iP-adressen til en enkelt vert kan ikke være en subnettadresse
+userMessages.msg0000|en ukjent feil oppstod. Hvis problemet vedvarer, kontakt oss for en rask løsning.
+userMessages.msg0001|feil. Vennligst prøv å registrere deg på nytt. Hvis problemet vedvarer, kontakt oss for en rask løsning.
+userMessages.msg0002|feltet må fylles ut
+userMessages.msg0003|ugyldig epostadresse
+userMessages.msg0004|feltene stemmer ikke overens
+userMessages.msg0005|brukernavn er ikke tilgjengelig
+userMessages.msg0006|prøvebruker er ikke tilgjengelig på grunn av karantene.
+userMessages.msg0007|vennligst velg et alternativ
+userMessages.msg0008|personlig brukeroppretting er ikke tilgjengelig for denne e-postadressen.
+userMessages.msg0009|brukeren din ble opprettet. Du vil umiddelbart motta en e-post med instruksjoner for aktivering av brukeren din.
+userMessages.msg0010|ingen aktivering venter på denne brukeren, eller brukeren er allerede aktivert.
+userMessages.msg0011|fristen for å aktivere brukeren din er utløpt. Vennligst prøv å registrere deg på nytt.
+confirm.misc.permanentlyDeleteCustomer|er du sikker på at du vil slette denne kunden permanent?
+confirm.misc.permanentlyDeleteXCustomers|er du sikker på at du vil slette disse [X] kundene permanent?
+confirm.misc.permanentlyDeleteCustomer2|er du helt sikker på at du vil slette denne kunden?<br/>Kunden vil bli slettet permanent! <br/>Ikke mulig å angre!
+confirm.misc.permanentlyDeleteXCustomers2|er du helt sikker på at du vil slette disse [X] kundene?<br/>Kunder slettes permanent!<br/>Ikke mulig å angre!
+confirm.deleteRight.title|slette rett
+confirm.deleteRight.msg|er du sikker på at du vil slette denne rettigheten?
+confirm.deleteRight.doing|sletter rettighet...
+confirm.removeProduct.title|fjerne produkt/rolle
+confirm.removeProduct.msg|er du sikker på at du vil fjerne produktet/rollen?
+confirm.removeProduct.doing|fjerner produkt/rolle...
+confirm.deleteProduct.title|slette produkt/rolle
+confirm.deleteProduct.msg|er du sikker på at du vil slette produktet/rollen?
+confirm.deleteProduct.doing|sletter produkt/rolle...
+confirm.deleteCapability.title|slette evne
+confirm.deleteCapability.msg|er du sikker på at du vil slette denne evnen?
+confirm.deleteCapability.doing|sletter evne...
+confirm.removeProductCapability.title|fjern evnen
+confirm.removeProductCapability.msg|er du sikker på at du vil fjerne denne evnen fra produktet?
+confirm.removeProductCapability.doing|fjerner evnen...
+confirm.removeProductRight.title|fjern rettighet
+confirm.removeProductRight.msg|er du sikker på at du vil fjerne denne rettigheten fra produktet?
+confirm.removeProductRight.doing|fjerner rettighet...
+confirm.deleteConfig.title|slette konfigurasjon
+confirm.deleteConfig.msg|er du sikker på at du vil slette konfigurasjonen?
+confirm.deleteConfig.doing|sletter konfigurasjon...
+confirm.deleteUnit.title|slette enhet
+confirm.deleteUnit.msg|er du sikker på at du vil slette denne enheten og dens underenheter?
+confirm.deleteUnit.doing|sletter enhet...
+confirm.deleteItem.title|slett oppføring
+confirm.deleteItem.msg|er du sikker på at du vil slette denne oppføringen?
+confirm.deleteItem.doing|sletter oppføring...
+confirm.saveChanges.title|lagre endringer
+confirm.saveChanges.msg|er du sikker på at du vil lagre endringene?
+confirm.saveChanges.doing|lagrer endringer...
+confirm.importUnits.title|importere enheter
+confirm.importUnits.msg|er du sikker på at du vil importere enheter?
+confirm.importUnits.doing|importere enheter...
+confirm.importUsers.title|importere brukere
+confirm.importUsers.msg|er du sikker på at du vil importere brukere?
+confirm.importUsers.doing|importerer brukere...
+confirm.exportUnitsCsv.title|eksport enheter
+confirm.exportUnitsCsv.msg|eksportere valgt enhet og dens underenheter til CSV?
+confirm.exportUnitsCsv.doing|eksporterer...
+confirm.exportUnitsToVismaLearn.title|eksportenheter
+confirm.exportUnitsToVismaLearn.msg|er du sikker på at du vil eksportere enheter til Visma Learning?
+confirm.exportUnitsToVismaLearn.doing|eksporterer...
+confirm.exportUsersToVismaLearn.title|eksportere brukere
+confirm.exportUsersToVismaLearn.msg|er du sikker på at du vil eksportere brukere til Visma Learning?
+confirm.exportUsersToVismaLearn.doing|eksporterer brukere...
+confirm.startPpImportJob.title|begynne å importere PlusPort-avdelinger/brukere
+confirm.startPpImportJob.msg|er du sikker på at du vil starte denne jobben?
+confirm.startPpImportJob.doing|starter jobben...
+confirm.deleteUsername.title|slett brukernavn
+confirm.deleteUsername.msg|er du sikker på at du vil slette dette brukernavnet?
+confirm.deleteUsername.doing|sletter brukernavn...
+confirm.currentSelectionPageviews.title|sidevisninger
+confirm.currentSelectionPageviews.msg|det gjeldende utvalget inkluderer [X] brukere. <br/> Google Analytics kan bruke litt tid på å grave opp data for dette antallet brukere.<br/>Kjøre på?
+confirm.currentSelectionPageviews.doing|henter sidevisninger...
+confirm.emailCustomer.title|send e-post
+confirm.emailCustomer.msg|er du sikker på at du vil sende [X] til denne kunden?
+confirm.emailCustomer.doing|sender e-post...
+confirm.deleteCustomer.title|slette bruker
+confirm.deleteCustomer.msg|er du sikker på at du vil slette denne kunden?
+confirm.deleteCustomer.doing|sletter kunde ...
+confirm.permanentlyDeleteCustomer.title|slette kunden permanent
+confirm.permanentlyDeleteCustomer.msg|er du sikker på at du vil slette denne kunden permanent?
+confirm.permanentlyDeleteCustomer.doing|sletter kunde permanent...
+confirm.permanentlyDeleteCustomer1.title|bekreft permanent sletting
+confirm.permanentlyDeleteCustomer1.msg|helt sikker?
+confirm.permanentlyDeleteCustomer1.doing|sletter kunde permanent...
+confirm.restoreCustomer.title|gjenopprette kunden
+confirm.restoreCustomer.msg|er du sikker på at du vil gjenopprette denne kunden?
+confirm.restoreCustomer.doing|gjenoppretter kunde...
+confirm.importCustomers.title|importere kunder
+confirm.importCustomers.msg|er du sikker på at du vil importere kunder fra valgt fil?
+confirm.importCustomers.doing|importere kunder...
+confirm.deleteCourse.title|slett kurs
+confirm.deleteCourse.msg|er du sikker på at du vil slette dette kurset?
+confirm.deleteCourse.doing|sletter kurs...
+confirm.sendQuizReceived.title|send 'svar mottatt'
+confirm.sendQuizReceived.msg|er du sikker på at du vil sende 'svar-mottatt' e-post til quiz-deltakeren?
+confirm.sendQuizReceived.doing|sender 'svar-mottatt' e-post ...
+confirm.sendDiploma.title|send kursbevis
+confirm.sendDiploma.msg|er du sikker på at du vil sende kursbevis til [X]?
+confirm.sendDiploma.doing|sender kursbevis...
+confirm.deleteGroup.title|slett gruppe
+confirm.deleteGroup.msg|er du sikker på at du vil slette denne gruppen?
+confirm.deleteGroup.doing|sletter gruppe...
+confirm.deleteOrg.title|slett organisasjon
+confirm.deleteOrg.msg|er du sikker på at du vil slette denne organisasjonen?
+confirm.deleteOrg.doing|sletter organisasjonen …
+confirm.deleteUser.title|slett bruker
+confirm.deleteUser.msg|er du sikker på at du vil slette denne brukeren?
+confirm.deleteUser.doing|sletter bruker...
+confirm.addUserToVismaConnect.title|legg til bruker
+confirm.addUserToVismaConnect.msg|er du sikker på at du vil legge denne brukeren til Visma Connect?
+confirm.addUserToVismaConnect.doing|legger til bruker ...
+confirm.sendEmailToUserX.title|send e-post til brukeren
+confirm.sendEmailToUserX.msg|sende e-post til bruker [X]?
+confirm.sendEmailToUserX.doing|sender e-post...
+confirm.deleteEmailTemplate.title|slett e-postmal
+confirm.deleteEmailTemplate.msg|er du sikker på at du vil slette denne e-postmalen?
+confirm.deleteEmailTemplate.doing|sletter e-postmal...
+lbl.forceRootUnit.value|tving rotenhet
+lbl.forceRootUnit.placeholder|
+lbl.forceRootUnit.tooltip|ved avhuking her, vises data for hele organisasjonen.
+label.learnerName|kurstagers navn
+label.learnerEmail|kurstagers e-post
+label.courseId|kurs-ID
+label.courseVersion|kursversjon
+label.courseName|kursnavn
+label.courseDuration|kursets varighet
+label.courseTakenDate|kursdato
+label.diplomaSent|diplom sent
+label.diplomaNo|diplom nr.
+label.allowWebService|tillate WebService
+label.diplomaMetadata|metadata for diplom
+label.showAttach|vis tilknytte
+label.showAttached|vis tilknyttede
+label.showDeleted|vis slettet
+label.onlyActive|kun aktive
+label.onlySingleChoise|kun enkeltvalg
+label.sftpServerUrl|sFTP server url
+label.sftpPort|sFTP port
+label.sftpUsername|sFTP brukernavn
+label.sftpPassword|sFTP passord
+label.usersFilename|filnavn brukere
+label.departmentsFilename|filnavn avdelinger
+label.downloadFolder|nedlastingsmappe
+label.jobActive|jobb aktiv
+label.activateTheJob|aktiver jobben
+label.jobCronString|cronString for jobb
+label.eloquaFormName|eloqua form navn
+label.instanceUrl|instans url
+label.companyId|firma ID
+label.companyGuid|firma GUID
+label.usersApiUrl|users API URL
+label.rootDepartment|rotavdeling
+label.catalogUrl|katalog url
+label.healthCareUrl|helse og omsorg URL
+label.schoolUrl|skole URL
+label.kindergartenUrl|barnehage URL
+label.childWelfareUrl|barnevern URL
+label.courseUrl|kurs URL
+label.rootExternalId|rotavdeling ID
+label.forceAllUsers|fungerer på ALLE brukere
+label.forceRootUnit|tving rotenhet
+label.attachedCustomers|tilknyttede brukere
+label.notAttachedCustomers|ikke tilknyttede kunder
+label.notAttachedAnyOrganization|ikke tilknyttet noen organisasjon
+label.authorizationType|autorisasjonstype
+label.deleteDate|slettedato
+label.orgAttachment|org-tilknytning
+label.forceUnitSelection|tving enhetsvalg
+label.username|brukernavn (e-post)
+label.usernameIsEmail|brukernavn er e-post
+label.useVismaLearn|bruke Visma Learning
+label.canChangePassword|kan endre passord
+label.newsOptional|valgfrie nyhetsmeldinger
+label.accountEnabled|konto aktivert
+label.trialSubscription|prøveabonnement
+label.inheritable|kan arves
+label.invalidOrgno|ugyldig organisasjonsnummer
+label.reportAreaMaxPath|maks bane
+label.onlyWithXmlParseError|kun med XML-parsefeil
+label.onlyDiplomaNotSent|kun diplom ikke sendt
+label.onlyTraceableUsers|kun sporbare brukere
+label.onlyAnsverReceivedNotSent|kun 'svar-mottatt' ikke sendt
+label.onlyAttachedUsers|kun tilknyttede brukere
+label.csvDelimiter|cSV-skilletegn
+label.csvSeparator|cSV-separator
+label.csvFile|cSV-fil
+label.changeOrg|bytte org
+label.changeOrganization|bytte organisasjon
+label.allowSectorNotRelevant|tillat sektor 'ikke relevant'
+label.givesSuperuserRight|gir superbrukerrettighet
+label.onlyExportOwnProducts|eksporter kun egne produkter
+label.onlyPersonalia|kun personopplysninger
+label.createNewCustomers|opprett nye kunder
+label.sendEmailOnSuccess|send e-post hvis OK
+label.sendEmailOnFail|send e-post ved feil
+label.sendEmailToNewCustomers|send e-post til nye kunder
+label.primeDate|prime dato
+label.timeBetweenPrimeAndResult|tid mellom prime og resultat
+label.flashVersion|flash-versjon
+label.sectorRootPageId|sektor rotside-ID
+label.useragent|useragent
+label.brregRegisteredDate|brreg registreringsdato
+label.underForcedLiquidation|under tvangsavvikling
+label.underLiquidation|under avvikling
+label.isInFoundationRegister|registrert i stiftelsesregisteret
+label.isInVatRegister|registrert i MVA registeret
+label.isInVoluntarinessRegister|registrert i frivillighetsregisteret
+label.isInBusinessRegister|registrert i foretaksregisteret
+label.businessCode|næringskode
+label.institutionalSectorCode|institusjonell sektorkode
+label.ownerId|eier ID
+label.maxPath|maks bane
+abbr.customerNumber|kundenr
+abbr.shortCustomerNumber|knr
+abbr.info|info
+abbr.organizationalNumber|orgno
+abbr.notAvailable|nA
+abbr.trialSubscription|prøveabonnement
+abbr.organization|org
+abbr.business|vrk
+abbr.department|avd
+abbr.diplomaNo|d.no
+abbr.courseId|c.id
+abbr.automatic|auto
+abbr.sinceBeginningOfTime|s.t.m
+option.ignore|ignorer
+option.allNotified|alle som er varslet
+option.notUsedAfterNotification|ikke brukt etter varsel
+option.hasUsedAfterNotification|har brukt etter varsel
+option.attached|tilknyttet
+option.onlyAttached|kun tilknyttede
+option.onlyNotAttached|kun ikke tilknyttede
+option.notAttached|ikke tilknyttet
+option.onlyWith|kun med
+option.onlyWithout|kun uten
+option.active|aktive
+option.notActive|ikke aktive
+option.confirmed|bekreftede
+option.notConfirmed|ikke bekreftede
+option.hasActiveProducts|har aktive produkter
+option.hasDeactivatedProducts|har deaktiverte produkter
+option.noOwnProducts|ingen egne produkter
+jobTitle.customerImport|kundeimport
+jobTitle.ppUnitImport|importerer PlusPort-avdelinger
+jobTitle.analyticsUpdate|analytics oppdatering
+jobTitle.updateBrregUnits|oppdaterer Brreg-enheter
+jobTitle.addingFeideDomains|oppdaterer Feide domener
+jobTitle.areYouAlive|er du i live?
+jobTitle.connectProvisioning|conneect provisjonering
+jobTitle.exportUsersToVismaLearn|eksportere brukere til Visma Learn
+jobTitle.exportUnitsToVismaLearn|eksportere enheter til Visma Learn
+quarter.1.name|første kvartal
+quarter.1.abbr|q1
+quarter.2.name|andre kvartal
+quarter.2.abbr|q2
+quarter.3.name|tredje kvartal
+quarter.3.abbr|q3
+quarter.4.name|fjerde kvartal
+quarter.4.abbr|q4
+tertial.1.name|første tertial
+tertial.2.name|andre tertial
+tertial.3.name|tredje tertial
+word.weeks|uker
+word.years|år
+word.month|måned
+word.months|måneder
+word.day|dag
+word.days|dager
+word.hour|time
+word.hours|timer
+word.minute|minutt
+word.minutes|minutter
+word.second|sekund
+word.seconds|sekunder
+word.total|totalt
+word.views|visninger
+word.percentage|prosentdel
+phrase.ipUsersAndLogins|iP-brukere og pålogginger
+phrase.onlyLogins|kun pålogginger
+phrase.pageviewPerArea|sidevisninger per område
+phrase.inTotalAll|totalt alle
+phrase.hideInfo|skjul info
+phrase.usersCreated|brukere opprettet
+word.page|side
+phrase.inTotalSectors|i totale sektorer
+phrase.loginSuccessful|vellykket innlogging
+word.next|neste
+word.previous|forrige
+phrase.socialSecurityNumber|personnummer
+dateTime.year|år
+dateTime.years|år
+dateTime.month|måned
+dateTime.months|måneder
+dateTime.week|uke
+dateTime.weeks|uker
+dateTime.fortnight|14 dager
+dateTime.quarter|fjerdedel
+dateTime.quarters|kvartaler
+dateTime.trimester|tertial
+dateTime.hour|time
+dateTime.hours|timer
+dateTime.minute|minutt
+dateTime.minutes|minutter
+dateTime.second|sekund
+dateTime.seconds|sekunder
+dateTime.current|inneværende
+dateTime.fixedDate|fast dato
+dateTime.abbr.time|kl:
+dateTime.error.parseError|Kunne ikke tolke dato. Bruk ddmmåååå, dd.mm.åååå eller dd/mm/åååå
+dateTime.error.XMustBeNumeric|[X] må være et tall
+dateTime.error.inputHasWrongLength|Dato formatet har feil lengde. Bruk ddmmåååå, dd.mm.åååå eller dd/mm/åååå
+dateTime.error.yearMustHave4Digits|årstallet må være enten 2 eller 4 sifre
+dateTime.error.monthMustBeBetween1And12|måned må være et tall mellom 1 og 12
+dateTime.error.dayCannotBeZero|dag kan ikke være 0
+dateTime.error.dateCanNotBeLessThanX|datoen kan ikke være mindre enn [X]
+dateTime.error.dateCanNotBeGreaterThanX|datoen kan ikke være større enn [X]
+dateTime.error.XMonthHasOnlyYDays|[X] måned har kun [Y] dager
+dateTime.error.pleaseEnterDate|vennligst skriv inn en dato
+dateTime.error.pleaseEnterTime|angi et tidspunkt
+dateTime.error.invalidTime|ugyldig tid
+dateTime.error.timeMustBeNumeric|tidspunkt kan bare inneholde tall
+dateTime.abbr.week|u
+dateTime.dayNames.0|søndag
+dateTime.dayNames.1|mandag
+dateTime.dayNames.2|tirsdag
+dateTime.dayNames.3|onsdag
+dateTime.dayNames.4|torsdag
+dateTime.dayNames.5|fredag
+dateTime.dayNames.6|lørdag
+dateTime.dayNames.7|søndag
+dateTime.dayNamesShort.0|søn
+dateTime.dayNamesShort.1|man
+dateTime.dayNamesShort.2|tir
+dateTime.dayNamesShort.3|ons
+dateTime.dayNamesShort.4|tor
+dateTime.dayNamesShort.5|fre
+dateTime.dayNamesShort.6|lør
+dateTime.dayNamesShort.7|søn
+dateTime.dayNamesMin.0|sø
+dateTime.dayNamesMin.1|ma
+dateTime.dayNamesMin.2|ti
+dateTime.dayNamesMin.3|on
+dateTime.dayNamesMin.4|to
+dateTime.dayNamesMin.5|fr
+dateTime.dayNamesMin.6|lø
+dateTime.dayNamesMin.7|sø
+dateTime.monthNames.0|januar
+dateTime.monthNames.1|februar
+dateTime.monthNames.2|mars
+dateTime.monthNames.3|april
+dateTime.monthNames.4|mai
+dateTime.monthNames.5|juni
+dateTime.monthNames.6|juli
+dateTime.monthNames.7|august
+dateTime.monthNames.8|september
+dateTime.monthNames.9|oktober
+dateTime.monthNames.10|november
+dateTime.monthNames.11|desember
+dateTime.monthNamesShort.0|jan
+dateTime.monthNamesShort.1|feb
+dateTime.monthNamesShort.2|mar
+dateTime.monthNamesShort.3|apr
+dateTime.monthNamesShort.4|mai
+dateTime.monthNamesShort.5|jun
+dateTime.monthNamesShort.6|jul
+dateTime.monthNamesShort.7|aug
+dateTime.monthNamesShort.8|sep
+dateTime.monthNamesShort.9|okt
+dateTime.monthNamesShort.10|nov
+dateTime.monthNamesShort.11|des
+dateTime.error.parseErrors.dmy|bruk dd mmm åååå, dd.mm.åååå eller dd/mm/åååå
+dateTime.error.parseErrors.mdy|bruk mmddyyyy, mm.dd.yyyy eller mm/dd/yyyy
+dateTime.error.parseErrors.ymd|bruk yyyyddmm, yyyy.dd.mm eller yyyy/dd/mm
+dateTime.error.yearIsMissing|år mangler
+dateTime.error.monthIsMissing|måned mangler
+dateTime.error.dayIsMissing|dag mangler
+dateTime.error.dayMustBeANumber|dag må være et tall
+dateTime.error.monthMustBeANumber|måned må være et tall
+dateTime.error.yearMustBeANumber|år må være et tall
+dateTime.day|dag
+dateTime.days|dager
+phrase.numberOfX|antall [X]
+dateTime.decimalPoint|,
+dateTime.thousandsSep|.
+phrase.gettingContent|henter innhold
+phrase.dataTable|data tabell
+phrase.showX|vis [X]
+phrase.backToX|tilbake til [X]
+phrase.print|skriv ut
+phrase.resetZoom|tilbakestill zoom
+phrase.resetZoomToX|tilbakestill zoom til [X]
+highcharts.accessibility.axis.xAxisDescriptionPlural|diagrammet har {numAxes} X-akser som viser {#each(names, -1) }og {names[-1]}.
+highcharts.accessibility.axis.xAxisDescriptionSingular|diagrammet har 1 X-akse som viser {navn[0]}.
+highcharts.accessibility.axis.yAxisDescriptionPlural|diagrammet har {numAxes} Y-akser som viser {#each(names, -1) }og {names[-1]}.
+highcharts.accessibility.axis.yAxisDescriptionSingular|diagrammet har 1 Y-akse som viser {navn[0]}.
+highcharts.accessibility.exporting.chartMenuLabel|diagrameksport
+highcharts.accessibility.exporting.exportRegionLabel|diagrameksport meny
+highcharts.accessibility.exporting.menuButtonLabel|vis eksportmeny
+highcharts.contextButtonTitle|diagram meny
+highcharts.downloadCSV|last ned CSV
+highcharts.downloadXLS|last ned XLS
+highcharts.downloadJPEG|last ned som JPEG-bilde
+highcharts.downloadPDF|last ned som PDF-dokument
+highcharts.downloadPNG|last ned som PNG-bilde
+highcharts.downloadSVG|last ned som SVG-bilde
+error.ifProblemPersistsContactSysAdmin|hvis problemet vedvarer, vennligst kontakt systemadministrator
+label.smtpServer|sMTP-server
+label.smtpPort|sMTP-port
+label.smtpTlsSsl|sMTP TLS/SSL
+label.smtpUsername|sMTP brukernavn
+label.smtpPassword|sMTP passord
+label.emailFromAddress|e-post fra adresse
+label.emailFromName|e-post fra navn
+label.emailReplyToAddress|e-post svartil adresse
+label.emailReplyToName|e-post svartil navn
+label.initialProductsNewUser|initielle produkter for nye brukere
+label.initialProductsSelfregTrialUser|initielle produkter for selvregistrerte prøvebrukere
+label.initialProductsSelfregUser|initielle produkter for selvregistrerte brukere
+label.trialUserPeriodInDays|prøvebrukerperiode i dager
+label.trialUserQuarantineInDays|prøvebruker karantenetid i dager
+label.trialUserDeletedAfterDays|utløpt prøvebruker slettes etter dager
+label.failMailsTo|feil/varsling sendes til
+label.googleAnalyticsViewId|google Analytics viewID
+label.googleAnalyticsReportPeriodInDays|google Analytics rapportperiode i dager
+label.inactiveMonthsBeforeAreYouAlive|bruker inaktiv måneder før AreYouAlive
+label.monthsBetweenAreYouAlive|måneder mellom påfølgende AreYouAlive
+productSector.healthCare.name|helse og omsorg
+productSector.healthCare.code|HO
+productSector.school.name|skole
+productSector.school.code|SK
+productSector.kindergarten.name|barnehage
+productSector.kindergarten.code|BH
+productSector.childWelfare.name|barnevern
+productSector.childWelfare.code|BV
+productSector.contentAuthor.name|forfatter
+productSector.contentAuthor.code|AT
+productSector.contentAdmin.name|admin
+productSector.contentAdmin.code|AD
+productSector.notRelevant.name|ikke relevant
+productSector.notRelevant.code|IR
+productSector.unknown.name|ukjent
+productSector.unknown.code|UK
+productSector.invalid.name|ugyldig
+productSector.invalid.code|UG
+phrase.lockedByUserX|låst av bruker [X]
+error.invalidSocialSecurityNumber|ugyldig personnummer
+phrase.allowAndRemoveX|tillat og fjern [X]
+phrase.allowAndKeepX|tillat og behold [X]
+phrase.allowAndRemove|tillat og fjern
+phrase.allowAndKeep|tillat og behold
+label.changeUnit|bytte enhet
+phrase.webhookJob|webhook jobb
+phrase.unsupportedWebhookFunction|ikke støttet webhook-funksjon
+phrase.XYDoesNotExist|[X] '[Y]' eksisterer ikke
+phrase.ignoringNewVismaConnectUser|ny bruker i Visma Connect - ignorerer
+phrase.phoneNumber|telefonnummer
+phrase.noChangesInEBAData|ingen endringer i EBA-data
+phrase.ourAppNotIncluded|vår app ikke inkludert
+phrase.deletingNotPerformed|sletting ikke utført
+phrase.noPayload|ingen nyttelast
+email.m0001.subject|eBA - fatal feil ved endring av brukernavn på Visma-konto
+email.m0001.body|bruker [X] endret brukernavnet til sin Visma-konto til [Y]. Men brukernavnet [Y] er allerede i bruk! MÅ HÅNDTERES MANUELT!!
+email.m0002.subject|eBA - rolle/produkt fjernet på grunn av endring av Visma-konto brukernavn
+email.m0002.body1|bruker endret brukernavn for sin Visma-konto fra [X] til [Y].
+email.m0002.body2|ingen ny organisasjon ble funnet for det nye brukernavnet, og følgende ble fjernet fra brukeren:
+email.m0002.body3|dette medførte bytte av organisasjon, og følgende ble fjernet fra brukeren:
+error.userXDoesNotExistInEBA|bruker '[X]' eksisterer ikke i EBA
+email.m0003.subject|eBA - rolle/produkt fjernet på grunn av endring av virksomhet
+email.m0003.body|bruker [X] mistet følgende rolle/produkt ved endring av virksomhet fra [Y] til [Z]
+word.sending|sender
+phrase.sendXMail|send '[X]' e-post
+phrase.XSuccessfullySendt|[X] ble sendt
+phrase.sendingXFailed|sending av [X] mislyktes
+phrase.systemMessage|systemmelding
+abbr.emailRegarding|re
+phrase.XYDoesNotExistInZ|[X] '[Y]' finnes ikke i [Z]
+phrase.trackCustomerX|spor kunde '[X]'
+phrase.productString|produktstreng
+product.productStringAlreadyExists|et produkt med denne produktstrengen eksisterer allerede
+tab.crmLinks|CRM-koblinger
+tab.soExport|superOffice eksport
+word.jobs|jobber
+word.filename|filnavn
+phrase.productGroup|produktgruppe
+phrase.shortName|kort navn
+phrase.thisSector|denne sektoren
+phrase.crmLink|CRM-kobling
+phrase.crmLinks|CRM-koblinger
+phrase.aCrmLink|en CRM-kobling
+phrase.customerCardId|kundekort-ID
+phrase.anAlternative|et alternativ
+phrase.googleDriveFolder|google Drive mappe
+phrase.jobConfig|jobb konfig
+product.shortNameAlreadyExists|et produkt med dette korte navnet finnes allerede
+error.onlyVlUsersCanHaveCrmLinks|CRM-lenker kan kun registreres for VL-brukere
+confirm.startSoExportJob.title|start SuperOffice eksport
+confirm.startSoExportJob.msg|er du sikker på at du vil starte denne jobben nå?
+confirm.startSoExportJob.doing|starter jobben...
+label.crmRelevant|relevant for CRM
+jobTitle.soExport|lager CSV for SuperOffice
+phrase.createCsvAndUploadToGoogleDrive|opprett CSV og last opp til Google Disk
+word.manual|manuell
+error.userDefinedUnitParentMustBeOfficialOrManual|brukerdefinerte enheter kan kun opprettes under offisielle eller manuelle enheter
+error.unitsOfTypeManualCanOnlyBeAddedToManualTree|manuelle enheter kan bare legges til et manuelt hierarki
+error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bare legges til [X] hierarkier
