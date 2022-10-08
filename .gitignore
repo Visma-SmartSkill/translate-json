@@ -2,5 +2,5 @@
 *.iml
 node_modules
 keys.json
-no-*.json
-sv-*.json
+no.json
+sv.json
