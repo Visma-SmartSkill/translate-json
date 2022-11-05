@@ -79,6 +79,7 @@
     "soExport": "SuperOffice export"
   },
   "word": {
+    "add": "add",
     "siteProductName": "Veilederen",
     "affiliation": "affiliation",
     "address": "address",
@@ -89,7 +90,10 @@
     "postalPlace": "post office",
     "businessAddress": "business address",
     "locationAddress": "location address",
+    "element": "element",
+    "elements": "elements",
     "close": "close",
+    "copy": "copy",
     "read": "read",
     "toRead": "read",
     "write": "write",
@@ -104,6 +108,7 @@
     "by": "by",
     "export": "export",
     "doExport": "export",
+    "content": "content",
     "country": "country",
     "county": "county",
     "cancel": "cancel",
@@ -236,6 +241,8 @@
     "value": "value",
     "time": "time",
     "title": "title",
+    "heading": "heading",
+    "paragraph": "paragraph",
     "period": "period",
     "week": "week",
     "weeks": "weeks",
@@ -275,7 +282,6 @@
     "invalid": "invalid",
     "internal": "internal",
     "manually": "manually",
-    "manual": "manual",
     "hour": "hour",
     "hours": "hours",
     "minute": "minute",
@@ -289,7 +295,22 @@
     "next": "next",
     "previous": "previous",
     "sending": "sending",
-    "filename": "filename"
+    "filename": "filename",
+    "webinar": "webinar",
+    "encyclopedia": "encyclopedia",
+    "yearwheel": "yearwheel",
+    "yearwheels": "yearwheels",
+    "pdf": "PDF",
+    "lists": "lists",
+    "reset": "nullstill",
+    "link": "lenke",
+    "loading": "loading",
+    "big": "big",
+    "medium": "medium",
+    "small": "small",
+    "insert": "insert",
+    "template": "template",
+    "templates": "templates"
   },
   "phrase": {
     "appSettings": "app settings",
@@ -406,6 +427,9 @@
     "newCustomer": "new customer",
     "newProduct": "new product",
     "newProductRole": "new product/role",
+    "newParagraph": "new paragraph",
+    "newTitle": "new title",
+    "newHeading": "new heading",
     "rootUnit": "root unit",
     "userAccess": "user access",
     "vlUser": "VL-user",
@@ -668,6 +692,7 @@
     "courseAffiliationIngress": "Course affiliations are used by Veilederen to send users to the correct course in Visma Learning using direct links to courses in Veilederen. The link is based on the course ID, and requires that the CourseId property for all course landing pages in Veilederen is set correctly",
     "viewName": "view name",
     "nothingToShow": "nothing to show",
+    "noDataFound": "no data found",
     "blacklistReportAreas": "blacklist report areas",
     "notSelected": "not selected",
     "courseId": "course ID",
@@ -777,7 +802,20 @@
     "customerCardId": "Customer card ID",
     "anAlternative": "an alternative",
     "googleDriveFolder": "Google Drive folder",
-    "jobConfig": "job config"
+    "jobConfig": "job config",
+    "missingX": "missing [X]",
+    "XIsMissing": "[X] is missing",
+    "dontX": "don't [X]",
+    "trainingPackage": "training package",
+    "createXAs": "create [X] as",
+    "downloadAsX": "download as [X]",
+    "saveAs": "save as",
+    "saveXAs": "save [X] as",
+    "textSize": "text size",
+    "reflectionMaterial": "reflection material",
+    "insertX": "insert [X]",
+    "linkText": "link tekst",
+    "fromX": "from [X]"
   },
   "highcharts": {
     "accessibility": {
@@ -802,7 +840,6 @@
     "downloadSVG": "Download as SVG image"
   },
   "productSector": {
-
     "healthCare": {
       "name": "healthcare",
       "code": "HC"
@@ -867,31 +904,31 @@
     }
   },
   "quarter": {
-    "1": {
+    "q1": {
       "name": "first quarter",
       "abbr": "q1"
     },
-    "2": {
+    "q2": {
       "name": "second quarter",
       "abbr": "q2"
     },
-    "3": {
+    "q3": {
       "name": "third quarter",
       "abbr": "q3"
     },
-    "4": {
+    "q4": {
       "name": "fourth quarter",
       "abbr": "q4"
     }
   },
   "tertial": {
-    "1": {
+    "t1": {
       "name": "first trimester"
     },
-    "2": {
+    "t2": {
       "name": "second trimester"
     },
-    "3": {
+    "t3": {
       "name": "third trimester"
     }
   },
@@ -968,9 +1005,8 @@
     "usernameIsAuthorizedAndInUse": "username not available, approved username is in use",
     "incompleteElrApiConfiguration": "deficient eLearnReception API configuration",
     "userDefinedUnitsNeedsParent": "user defined units can only be created under an existing unit",
-    "userDefinedUnitParentMustBeOfficialOrManual": "user defined units can only be created under official or manual units",
-    "unitsOfTypeManualCanOnlyBeAddedToManualTree": "manual units can only be added to a manual hierarchy",
-  "unitsOfTypeXCanOnlyBeAddedToXTree": "units of type [X] can only be added to [X] hierarchys",
+    "userDefinedUnitParentMustBeOfficial": "user defined units can only be created under official units",
+    "unitsOfTypeXCannotBeAddedToBrregTree": "units of type [X] cannot be added to a Brreg hierarchy",
     "failedWrongUserNameAndOrPassword": "failed (wrong username and/or password)",
     "requestIgnoredWrongApiVersion": "request ignored - wrong ApiVersion",
     "swedishMunicipalitiesNotUpdated": "Swedish municipalities/counties were not updated",
@@ -996,7 +1032,7 @@
     "onlyVlUsersCanHaveCrmLinks": "CRM links can only be registered for VL-users"
   },
   "userMessages": {
-    "msg0000": "An unknown error occurred. If the problem persists, contact us for a quick solution.",
+    "msg0000": "an unknown error occurred. If the problem persists, contact us for a quick solution.",
     "msg0001": "Error. Please try to register again. If the problem persists, contact us for a quick solution.",
     "msg0002": "The field must be filled out",
     "msg0003": "invalid email address",
@@ -1062,9 +1098,34 @@
       "doing": "deleting entry..."
     },
     "saveChanges": {
-      "title": "save Changes",
+      "title": "save changes",
       "msg": "are you sure you want to save the changes?",
       "doing": "saving changes..."
+    },
+    "saveUnsaved": {
+      "title": "save changes",
+      "msg": "There are unsaved changes. Do you want to save them?",
+      "doing": "saving changes..."
+    },
+    "saveYearwheel": {
+      "title": "save yearhweel",
+      "msg": "do you want to save this yearwheel?",
+      "doing": "saving yearwheel..."
+    },
+    "createYearwheel": {
+      "title": "create yearwheel",
+      "msg": "do you want to create a new yearwheel?",
+      "doing": "creating yearwheel..."
+    },
+    "deleteYearwheel": {
+      "title": "delete yearwhel",
+      "msg": "are you sure that you want to delete this yearwheel?",
+      "doing": "deleting yearwheel..."
+    },
+    "downloadYearwheelPdf": {
+      "title": "download as PDF",
+      "msg": "download this yearwheel as a PDF file?",
+      "doing": "please wait, creating PDF file..."
     },
     "importUnits": {
       "title": "import units",
@@ -1356,5 +1417,30 @@
     "exportUsersToVismaLearn": "export users to VL",
     "exportUnitsToVismaLearn": "export devices to VL",
     "soExport": "Create CSV for SuperOffice"
+  },
+  "yearwheel": {
+    "createNew": "create new yearwheel",
+    "yourWheel": "your yearwheel",
+    "yourWheels": "your yearwheels",
+    "createFromTemplate": "create yearwheel from template",
+    "newList": "new list",
+    "heading": "heading",
+    "addHeading": "add heading",
+    "addParagraph": "add paragraph",
+    "addDropzone": "add dropzone",
+    "addBulletList": "add bullet list",
+    "newBullet": "new bullet",
+    "sectorIcon": "sector icon",
+    "bulletX": "bullet [X]",
+    "viewHtml": "view HTML",
+    "viewEditmode": "view edit mode",
+    "listElements": "list elements",
+    "updatingLists": "oppdaterer lister",
+    "err": {
+      "noContent": {
+        "title": "no content",
+        "msg": "this yearwheel is empty, and thus cannot be saved"
+      }
+    }
   }
 }

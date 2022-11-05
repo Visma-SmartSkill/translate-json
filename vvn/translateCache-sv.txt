@@ -1237,3 +1237,89 @@ word.manual|manuell
 error.userDefinedUnitParentMustBeOfficialOrManual|användardefinierade enheter kan endast skapas under officiella eller manuella enheter
 error.unitsOfTypeManualCanOnlyBeAddedToManualTree|manuella enheter kan bara läggas till i en manuell hierarki
 error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bara läggas till i [X] hierarkier
+phrase.missingX|saknas [X]
+phrase.XIsMissing|[X] saknas
+word.webinar|webinar
+word.encyclopedia|uppslagsverk
+phrase.dontX|gör inte [X]
+phrase.trainingPackage|utbildningspaket
+confirm.saveUnsaved.title|spara ändringar
+confirm.saveUnsaved.msg|det finns ändringar som inte har sparats. Vill du spara dem?
+confirm.saveUnsaved.doing|sparar ändringar...
+confirm.saveYearwheel.title|spara århweel
+confirm.saveYearwheel.msg|vill du spara det här årshjulet?
+confirm.saveYearwheel.doing|sparar årshjul...
+confirm.createYearwheel.title|skapa årshjul
+confirm.createYearwheel.msg|vill du skapa ett nytt årshjul?
+confirm.createYearwheel.doing|skapar årshjul...
+confirm.deleteYearwheel.title|radera yearwhel
+confirm.deleteYearwheel.msg|är du säker på att du vill radera det här årshjulet?
+confirm.deleteYearwheel.doing|raderar årshjul...
+confirm.downloadYearwheelPdf.title|ladda ner som PDF
+confirm.downloadYearwheelPdf.msg|ladda ner det här årshjulet som en PDF-fil?
+confirm.downloadYearwheelPdf.doing|vänta, skapar PDF-fil...
+yearwheel.newList|ny lista
+yearwheel.heading|rubrik
+yearwheel.sectorIcon|sektor ikon
+yearwheel.err.noContent.title|inget innehåll
+yearwheel.err.noContent.msg|det här årshjulet är tomt och kan därför inte sparas
+quarter.q1.name|första kvarten
+quarter.q1.abbr|q1
+quarter.q2.name|andra kvarten
+quarter.q2.abbr|q2
+quarter.q3.name|tredje kvarten
+quarter.q3.abbr|q3
+quarter.q4.name|fjärde kvarten
+quarter.q4.abbr|q4
+tertial.t1.name|första trimestern
+tertial.t2.name|andra trimestern
+tertial.t3.name|tredje trimestern
+word.yearwheel|årshjul
+phrase.createXAs|skapa [X] som
+word.add|lägg till
+word.pdf|PDF
+word.lists|listor
+phrase.downloadAsX|ladda ner som [X]
+yearwheel.createNew|skapa nytt årshjul
+yearwheel.viewHtml|visa HTML
+yearwheel.viewEditmode|visa redigeringsläge
+word.heading|rubrik
+word.paragraph|stycke
+yearwheel.addHeading|lägg till rubrik
+yearwheel.addParagraph|lägga till stycke
+yearwheel.addDropzone|lägg till dropområde
+yearwheel.addBulletList|lägg till punktlista
+yearwheel.newParagraph|nytt stycke
+yearwheel.newHeading|ny rubrik
+yearwheel.newBullet|ny punkt
+yearwheel.bulletX|punkt [X]
+phrase.saveXAs|spara [X] som
+yearwheel.listElements|lista element
+word.reset|återställa
+word.link|länk
+phrase.newParagraph|nytt stycke
+phrase.newTitle|ny titel
+phrase.newHeading|ny rubrik
+word.element|element
+word.elements|element
+phrase.noDataFound|ingen information hittad
+word.loading|läser in
+word.big|stor
+word.medium|medium
+word.small|små
+phrase.textSize|textstorlek
+phrase.reflectionMaterial|reflektionsmaterial
+word.content|innehåll
+yearwheel.updatingLists|uppdaterar listor
+phrase.insertX|infoga [X]
+phrase.linkText|länktext
+word.insert|föra in
+phrase.saveAs|spara som
+word.yearwheels|årshjul
+word.template|mall
+word.templates|mallar
+phrase.fromX|från [X]
+yearwheel.yourWheel|ditt årshjul
+yearwheel.yourWheels|dina årshjul
+yearwheel.createFromTemplate|skapa årshjul från mall
+word.copy|kopia

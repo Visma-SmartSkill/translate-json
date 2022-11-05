@@ -1237,3 +1237,5 @@ word.manual|manuell
 error.userDefinedUnitParentMustBeOfficialOrManual|användardefinierade enheter kan endast skapas under officiella eller manuella enheter
 error.unitsOfTypeManualCanOnlyBeAddedToManualTree|manuella enheter kan bara läggas till i en manuell hierarki
 error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bara läggas till i [X] hierarkier
+word.copy|kopia
+word.toCopy|kopiera

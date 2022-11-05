@@ -1237,3 +1237,89 @@ word.manual|manuell
 error.userDefinedUnitParentMustBeOfficialOrManual|brukerdefinerte enheter kan kun opprettes under offisielle eller manuelle enheter
 error.unitsOfTypeManualCanOnlyBeAddedToManualTree|manuelle enheter kan bare legges til et manuelt hierarki
 error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bare legges til [X] hierarkier
+phrase.missingX|mangler [X]
+phrase.XIsMissing|[X] mangler
+word.webinar|webinar
+word.encyclopedia|oppslagsverk
+phrase.dontX|ikke [X]
+phrase.trainingPackage|opplæringspakke
+confirm.saveUnsaved.title|lagre endringer
+confirm.saveUnsaved.msg|det finnes ulagrede endringer! Vil du lagre dem?
+confirm.saveUnsaved.doing|lagrer endringer...
+confirm.saveYearwheel.title|lagre årshjul
+confirm.saveYearwheel.msg|vil du lagre dette årshjulet?
+confirm.saveYearwheel.doing|lagrer årshjul...
+confirm.createYearwheel.title|lage årshjul
+confirm.createYearwheel.msg|vil du lage et nytt årshjul?
+confirm.createYearwheel.doing|skaper årshjul...
+confirm.deleteYearwheel.title|slett årshjul
+confirm.deleteYearwheel.msg|er du sikker på at du vil slette dette årshjulet?
+confirm.deleteYearwheel.doing|sletter årshjul...
+confirm.downloadYearwheelPdf.title|last ned som PDF
+confirm.downloadYearwheelPdf.msg|laste ned dette årshjulet som en PDF-fil?
+confirm.downloadYearwheelPdf.doing|vennligst vent, oppretter PDF-fil...
+yearwheel.newList|ny liste
+yearwheel.heading|overskrift
+yearwheel.sectorIcon|sektorikon
+yearwheel.err.noContent.title|intet innhold
+yearwheel.err.noContent.msg|dette årshjulet er tomt, og kan derfor ikke largres
+quarter.q1.name|første kvartal
+quarter.q1.abbr|q1
+quarter.q2.name|andre kvartal
+quarter.q2.abbr|q2
+quarter.q3.name|tredje kvartal
+quarter.q3.abbr|q3
+quarter.q4.name|fjerde kvartal
+quarter.q4.abbr|q4
+tertial.t1.name|første trimester
+tertial.t2.name|andre trimester
+tertial.t3.name|tredje trimester
+word.yearwheel|årshjul
+phrase.createXAs|opprett [X] som
+word.add|legg til
+word.pdf|PDF
+word.lists|lister
+phrase.downloadAsX|last ned som [X]
+yearwheel.createNew|opprett nytt årshjul
+yearwheel.viewHtml|vis HTML
+yearwheel.viewEditmode|vis redigeringsmodus
+word.heading|overskrift
+word.paragraph|avsnitt
+yearwheel.addHeading|legg til overskrift
+yearwheel.addParagraph|legg til avsnitt
+yearwheel.addDropzone|legg til slippområde
+yearwheel.addBulletList|legg til punktliste
+yearwheel.newParagraph|nytt avsnitt
+yearwheel.newHeading|ny overskrift
+yearwheel.newBullet|nytt punkt
+yearwheel.bulletX|punkt [X]
+phrase.saveXAs|lagre [X] som
+yearwheel.listElements|liste elementer
+word.reset|nullstill
+word.link|lenke
+phrase.newParagraph|nytt avsnitt
+phrase.newTitle|ny tittel
+phrase.newHeading|ny overskrift
+word.element|element
+word.elements|elementer
+phrase.noDataFound|ingen data funnet
+word.loading|laster
+word.big|stor
+word.medium|medium
+word.small|liten
+phrase.textSize|tekststørrelse
+phrase.reflectionMaterial|refleksjonsmateriale
+word.content|innhold
+yearwheel.updatingLists|oppdaterer lister
+phrase.insertX|sett inn [X]
+phrase.linkText|lenketekst
+word.insert|sett inn
+phrase.saveAs|lagre som
+word.yearwheels|årshjul
+word.template|mal
+word.templates|maler
+phrase.fromX|fra [X]
+yearwheel.yourWheel|årshjulet ditt
+yearwheel.yourWheels|dine årshjul
+yearwheel.createFromTemplate|opprett årshjul fra mal
+word.copy|kopi
