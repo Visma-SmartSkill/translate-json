@@ -19,7 +19,7 @@ if (process.argv.length >= 2) {
     const destinationCodes = ['nn'];
     const basePath = path.dirname(path.relative('./', process.argv[2]));
 
-    const nynoUrl = _.template('https://5161.nynorobot.no:3780/translateText?stilmal=Konservativ nynorsk&q=<%= value %>');
+    const nynoUrl = _.template('https://5161.nynorobot.no:3780/translateText?stilmal=Moderat nynorsk&q=<%= value %>');
 
     const transformResponse = (res) => {
         let d = JSON.parse(res.text);
