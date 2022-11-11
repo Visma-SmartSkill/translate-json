@@ -260,7 +260,7 @@ phrase.editedXByY|redigert [X] av [Y]
 phrase.changedX|endret [X]
 phrase.removedX|fjernet [X]
 phrase.removingX|fjerner [X]
-phrase.XRemoved|[X] fjernet
+phrase.xRemoved|[X] fjernet
 phrase.deleteX|slett [X]
 phrase.deleteXY|slett [X] '[Y]'
 phrase.deleteXPermanently|slett [X] permanent
@@ -270,8 +270,8 @@ phrase.deletedX|slettet [X]
 phrase.deletingX|sletter [X]
 phrase.addedX|la til [X]
 phrase.notFound|ikke funnet
-phrase.XNotFound|[X] ikke funnet
-phrase.XNotMarkedDeleted|[X] ikke merket som slettet
+phrase.xNotFound|[X] ikke funnet
+phrase.xNotMarkedDeleted|[X] ikke merket som slettet
 phrase.isRegistered|er registrert
 phrase.tryUnlinkUserIdX|forsøk å koble fra bruker-ID '[X]'
 phrase.userWasUnlinked|brukeren ble frakoblet
@@ -338,11 +338,11 @@ phrase.startingUnitImport|starter import av enhet
 phrase.couldNotStartJobBecauseX|kunne ikke starte jobben. Jobbstarter sa: [X]
 phrase.doYouWantToStartJobNow|vil starte denne jobben nå?
 phrase.startTheXJob|start [X]jobben
-phrase.XJobStarted|startet [X]jobben
+phrase.xJobStarted|startet [X]jobben
 phrase.chosenCustomerIsDeleted|den valgte kunden ser ut til å ha blitt slettet av en annen bruker
 phrase.savingDataFromBrreg|lagrer data fra Brreg
-phrase.XExists|[X] eksisterer
-phrase.XUpdatedSuccessfully|[X] ble oppdatert
+phrase.xExists|[X] eksisterer
+phrase.xUpdatedSuccessfully|[X] ble oppdatert
 phrase.registrationExists|registrering eksisterer
 phrase.rightExists|rettighet eksisterer
 phrase.roleExists|rolle eksisterer
@@ -374,7 +374,7 @@ phrase.registeredBy|registrert av
 phrase.noXFound|ingen [X] funnet
 phrase.validFrom|gyldig fra
 phrase.validTo|gyldig til
-phrase.XIgnored|[X] ignorert
+phrase.xIgnored|[X] ignorert
 phrase.noXWithIdYFound|ingen [X] med id [Y] funnet
 phrase.noXWithYFound|ingen [X] med [Y] funnet
 phrase.noXChosen|ingen [X] valgt
@@ -390,14 +390,14 @@ phrase.parentForX|overordnet for [X]
 phrase.parentForXIsY|overordnet for [X] er [Y]
 phrase.couldNotDeleteX|kunne ikke slette [X]
 phrase.pleaseChooseX|vennligst velg [X]
-phrase.XMandatory|[X] må fylles ut
-phrase.XMustBeGreaterY|[X] må være større enn [Y]
-phrase.XMustBeGreaterOrEqualY|[X] må være større enn eller lik [Y]
-phrase.XMustBeLessY|[X] må være mindre enn [Y]
-phrase.XMustBeLessOrEqualY|[X] må være mindre enn eller lik [Y]
-phrase.AXWasAttachedtoBY|[A] '[X]' ble koblet til [B] '[Y]'
+phrase.xMandatory|[X] må fylles ut
+phrase.xMustBeGreaterY|[X] må være større enn [Y]
+phrase.xMustBeGreaterOrEqualY|[X] må være større enn eller lik [Y]
+phrase.xMustBeLessY|[X] må være mindre enn [Y]
+phrase.xMustBeLessOrEqualY|[X] må være mindre enn eller lik [Y]
+phrase.aXWasAttachedtoBY|[A] '[X]' ble koblet til [B] '[Y]'
 phrase.newX|ny [X]
-phrase.XMissing|[X] mangler
+phrase.xMissing|[X] mangler
 phrase.noXIsSelected|ingen [X] er valgt
 phrase.parentX|overordnet [X]
 phrase.childrenX|underordnede [X]
@@ -409,29 +409,29 @@ phrase.aRootUnit|en rotenhet
 phrase.aFile|en fil
 phrase.theFileIsEmpty|filen er tom
 phrase.anOrganization|en organisasjon
-phrase.XWithYAlreadyExists|[X] med [Y] eksisterer allerede
+phrase.xWithYAlreadyExists|[X] med [Y] eksisterer allerede
 phrase.withThisName|med dette navnet
 phrase.byNameX|ved navn [X]
-phrase.XForYAlreadyExists|[X] for [Y] eksisterer allerede
-phrase.XAlreadyExists|[X] eksisterer allerede
-phrase.XAlreadyExistsInY|[X] finnes allerede i [Y]
-phrase.XIsAlreadyY|[X] er allerede [Y]
-phrase.XIsNotAvailable|[X] er ikke tilgjengelig
-phrase.XIsAlreadyInUse|[X] er allerede i bruk
+phrase.xForYAlreadyExists|[X] for [Y] eksisterer allerede
+phrase.xAlreadyExists|[X] eksisterer allerede
+phrase.xAlreadyExistsInY|[X] finnes allerede i [Y]
+phrase.xIsAlreadyY|[X] er allerede [Y]
+phrase.xIsNotAvailable|[X] er ikke tilgjengelig
+phrase.xIsAlreadyInUse|[X] er allerede i bruk
 phrase.removingExistingUserXPermanently|sletter eksisterende bruker '[X]' permanent
 phrase.thisUsername|dette brukernavnet
 phrase.thisName|dette navnet
 phrase.withXY|med [X] [Y]
-phrase.XY|[X] '[Y]'
-phrase.XForY|[X] for [Y]
+phrase.xY|[X] '[Y]'
+phrase.xForY|[X] for [Y]
 phrase.noXProvided|ingen [X] oppgitt
 phrase.noXForYIsProvided|ingen [X] for [Y] er oppgitt
 phrase.thisXCannotYBecauseZ|denne [X] kan ikke [Y] fordi [Z]
-phrase.XCannotYBecauseZ|[X] kan ikke [Y] fordi [Z]
-phrase.XForUserY|[X] for bruker [Y]
+phrase.xCannotYBecauseZ|[X] kan ikke [Y] fordi [Z]
+phrase.xForUserY|[X] for bruker [Y]
 phrase.itAlreadyXByY|det allerede [X] av [Y]
 phrase.ownerOfXHasY|eier av [X] har [Y]
-phrase.XIsLocatedY|[X] er plassert [Y]
+phrase.xIsLocatedY|[X] er plassert [Y]
 phrase.inADifferentX|i en annen [X]
 phrase.invalidXY|ugyldig [X] '[Y]'
 phrase.lineX|linje [X]
@@ -522,7 +522,7 @@ phrase.reportArea|rapporteringsområdet
 phrase.reportAreas|rapporteringsområder
 phrase.welcomeX|velkommen [X]
 phrase.jsonExport|jSON eksport
-phrase.XHasThisProduct|[X] har dette produktet
+phrase.xHasThisProduct|[X] har dette produktet
 phrase.selectAtLeastOneSector|velg minst én sektor
 phrase.yearToDate|så langt dette året
 phrase.chooseYear|velg år
@@ -601,7 +601,7 @@ phrase.isSetToX|er satt til '[X]'
 phrase.invalidX|ugyldig [X]
 phrase.detectedChanges|endringer oppdaget
 phrase.numberOfChanges|antall endringer
-phrase.XDoesNotExist|[X] eksisterer ikke
+phrase.xDoesNotExist|[X] eksisterer ikke
 phrase.automaticallyAddedX|[X] automatisk lagt til
 phrase.notSendt|ikke sendt
 phrase.noResultXmlFound|ingen resultat-XML funnet
@@ -610,12 +610,12 @@ phrase.elrApiCallFailed|eLearnReception API-kall mislyktes
 phrase.courseResult|kursresultat
 phrase.quizResult|quizresultat
 phrase.pleaseEnterAValue|vennligst angi en verdi
-phrase.XMustBeAnInteger|[X] må være et heltall
+phrase.xMustBeAnInteger|[X] må være et heltall
 phrase.userNotAuthorized|bruker ikke autorisert
 phrase.cannotDelete|kan ikke slette
 phrase.insufficientData|utilstrekkelige data
 phrase.doConfirmUnit|bekrefte enhet
-phrase.XSaved|[X] lagret
+phrase.xSaved|[X] lagret
 phrase.jobQueued|jobb lagt i kø
 phrase.theJobIsAlreadyRunning|jobben kjører allerede
 phrase.theJobIsNotActivated|jobben er ikke aktivert
@@ -623,8 +623,8 @@ phrase.theJobStarted|jobben startet
 phrase.startXExport|start [X]eksport
 phrase.couldNotParseDate|kunne ikke tolke dato
 phrase.couldNotParseValueForX|kunne ikke tolke verdien for [X]
-phrase.XCannotBeNull|[X] kan ikke være NULL
-phrase.XHasNoPropertyY|[X] har ingen egenskap '[Y]'
+phrase.xCannotBeNull|[X] kan ikke være NULL
+phrase.xHasNoPropertyY|[X] har ingen egenskap '[Y]'
 phrase.downloadX|last ned [X]
 phrase.unknownValue|ukjent verdi
 phrase.affiliatedWithChosenUnit|tilknyttet valgt enhet
@@ -670,7 +670,7 @@ product.codeAlreadyExists|det finnes allerede et produkt med denne koden
 warn.permanentlyDeleteCustomer|før du sletter denne kunden, VÆR OPPMERKSOM PÅ FØLGENDE!
 warn.permanentlyDeleteCustomer1|er du helt, absolutt, positivt, komplett sikker på at kunden må slettes?
 warn.customerHasHistory|denne kunden har e-læringshistorikk, og sletting vil resultere i tap av rapporteringsdata!!
-warn.XCustomersAffiliatedWithThisCustomer|det er [X] kunder knyttet til denne kunden!
+warn.xCustomersAffiliatedWithThisCustomer|det er [X] kunder knyttet til denne kunden!
 warn.usersAffiliatedWithThisOrAChildUnit|brukere er knyttet til denne og/eller en av underenhetene
 warn.authorizedUsernamesAffiliatedWithThisOrAChildUnit|godkjente brukernavn er knyttet til denne og/eller en av underenhetene
 warn.theseMustBeDeletedOrMovedBeforeDeletingTheUnit|disse må flyttes eller slettes før du kan slette enheten
@@ -1041,14 +1041,14 @@ dateTime.current|inneværende
 dateTime.fixedDate|fast dato
 dateTime.abbr.time|kl:
 dateTime.error.parseError|Kunne ikke tolke dato. Bruk ddmmåååå, dd.mm.åååå eller dd/mm/åååå
-dateTime.error.XMustBeNumeric|[X] må være et tall
+dateTime.error.xMustBeNumeric|[X] må være et tall
 dateTime.error.inputHasWrongLength|Dato formatet har feil lengde. Bruk ddmmåååå, dd.mm.åååå eller dd/mm/åååå
 dateTime.error.yearMustHave4Digits|årstallet må være enten 2 eller 4 sifre
 dateTime.error.monthMustBeBetween1And12|måned må være et tall mellom 1 og 12
 dateTime.error.dayCannotBeZero|dag kan ikke være 0
 dateTime.error.dateCanNotBeLessThanX|datoen kan ikke være mindre enn [X]
 dateTime.error.dateCanNotBeGreaterThanX|datoen kan ikke være større enn [X]
-dateTime.error.XMonthHasOnlyYDays|[X] måned har kun [Y] dager
+dateTime.error.xMonthHasOnlyYDays|[X] måned har kun [Y] dager
 dateTime.error.pleaseEnterDate|vennligst skriv inn en dato
 dateTime.error.pleaseEnterTime|angi et tidspunkt
 dateTime.error.invalidTime|ugyldig tid
@@ -1185,7 +1185,7 @@ phrase.allowAndKeep|tillat og behold
 label.changeUnit|bytte enhet
 phrase.webhookJob|webhook jobb
 phrase.unsupportedWebhookFunction|ikke støttet webhook-funksjon
-phrase.XYDoesNotExist|[X] '[Y]' eksisterer ikke
+phrase.xYDoesNotExist|[X] '[Y]' eksisterer ikke
 phrase.ignoringNewVismaConnectUser|ny bruker i Visma Connect - ignorerer
 phrase.phoneNumber|telefonnummer
 phrase.noChangesInEBAData|ingen endringer i EBA-data
@@ -1203,11 +1203,11 @@ email.m0003.subject|eBA - rolle/produkt fjernet på grunn av endring av virksomh
 email.m0003.body|bruker [X] mistet følgende rolle/produkt ved endring av virksomhet fra [Y] til [Z]
 word.sending|sender
 phrase.sendXMail|send '[X]' e-post
-phrase.XSuccessfullySendt|[X] ble sendt
+phrase.xSuccessfullySendt|[X] ble sendt
 phrase.sendingXFailed|sending av [X] mislyktes
 phrase.systemMessage|systemmelding
 abbr.emailRegarding|re
-phrase.XYDoesNotExistInZ|[X] '[Y]' finnes ikke i [Z]
+phrase.xYDoesNotExistInZ|[X] '[Y]' finnes ikke i [Z]
 phrase.trackCustomerX|spor kunde '[X]'
 phrase.productString|produktstreng
 product.productStringAlreadyExists|et produkt med denne produktstrengen eksisterer allerede
@@ -1238,7 +1238,7 @@ error.userDefinedUnitParentMustBeOfficialOrManual|brukerdefinerte enheter kan ku
 error.unitsOfTypeManualCanOnlyBeAddedToManualTree|manuelle enheter kan bare legges til et manuelt hierarki
 error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bare legges til [X] hierarkier
 phrase.missingX|mangler [X]
-phrase.XIsMissing|[X] mangler
+phrase.xIsMissing|[X] mangler
 word.webinar|webinar
 word.encyclopedia|oppslagsverk
 phrase.dontX|ikke [X]

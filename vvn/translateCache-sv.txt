@@ -276,7 +276,7 @@ phrase.editedXByY|redigerad [X] av [Y]
 phrase.changedX|ändrade [X]
 phrase.removedX|tog bort [X]
 phrase.removingX|tar bort [X]
-phrase.XRemoved|[X] togs bort
+phrase.xRemoved|[X] togs bort
 phrase.deleteX|radera [X]
 phrase.deleteXY|radera [X] '[Y]'
 phrase.deleteXPermanently|radera [X] permanent
@@ -286,8 +286,8 @@ phrase.deletedX|raderade [X]
 phrase.deletingX|raderar [X]
 phrase.addedX|lade till [X]
 phrase.notFound|hittades inte
-phrase.XNotFound|[X] hittades inte
-phrase.XNotMarkedDeleted|[X] ej markerad som raderad
+phrase.xNotFound|[X] hittades inte
+phrase.xNotMarkedDeleted|[X] ej markerad som raderad
 phrase.isRegistered|är registrerad
 phrase.tryUnlinkUserIdX|försök att ta bort länken till användar-ID '[X]'
 phrase.userWasUnlinked|användaren togs bort
@@ -354,11 +354,11 @@ phrase.startingUnitImport|starta enhetsimport
 phrase.couldNotStartJobBecauseX|kunde inte börja jobba. Jobstarter sa: [X]
 phrase.doYouWantToStartJobNow|vill du börja jobbet nu?
 phrase.startTheXJob|starta [X]-jobbet
-phrase.XJobStarted|startade [X]-jobbet
+phrase.xJobStarted|startade [X]-jobbet
 phrase.chosenCustomerIsDeleted|den valda kunden verkar ha tagits bort av en annan användare
 phrase.savingDataFromBrreg|sparar data från Brreg
-phrase.XExists|[X] finns
-phrase.XUpdatedSuccessfully|[X] har uppdaterats
+phrase.xExists|[X] finns
+phrase.xUpdatedSuccessfully|[X] har uppdaterats
 phrase.registrationExists|registrering finns
 phrase.rightExists|rätt finns
 phrase.roleExists|roll finns
@@ -390,7 +390,7 @@ phrase.registeredBy|registrerad av
 phrase.noXFound|inget [X] hittades
 phrase.validFrom|giltig från
 phrase.validTo|giltig till
-phrase.XIgnored|[X] ignoreras
+phrase.xIgnored|[X] ignoreras
 phrase.noXWithIdYFound|inget [X] med id [Y] hittades
 phrase.noXWithYFound|inget [X] med [Y] hittades
 phrase.noXChosen|"X" öppningsstrid
@@ -406,14 +406,14 @@ phrase.parentForX|förälder för "[X]"
 phrase.parentForXIsY|förälder för '[X]' är '[Y]'
 phrase.couldNotDeleteX|kunde inte ta bort [X]
 phrase.pleaseChooseX|vänligen välj [X]
-phrase.XMandatory|[X] måste fyllas i
-phrase.XMustBeGreaterY|[X] måste vara större än [Y]
-phrase.XMustBeGreaterOrEqualY|[X] måste vara större än eller lika med [Y]
-phrase.XMustBeLessY|[X] måste vara mindre än [Y]
-phrase.XMustBeLessOrEqualY|[X] måste vara mindre än eller lika med [Y]
-phrase.AXWasAttachedtoBY|[A] '[X]' kopplades till [B] '[Y]'
+phrase.xMandatory|[X] måste fyllas i
+phrase.xMustBeGreaterY|[X] måste vara större än [Y]
+phrase.xMustBeGreaterOrEqualY|[X] måste vara större än eller lika med [Y]
+phrase.xMustBeLessY|[X] måste vara mindre än [Y]
+phrase.xMustBeLessOrEqualY|[X] måste vara mindre än eller lika med [Y]
+phrase.aXWasAttachedtoBY|[A] '[X]' kopplades till [B] '[Y]'
 phrase.newX|ny [X]
-phrase.XMissing|[X] saknas
+phrase.xMissing|[X] saknas
 phrase.noXIsSelected|inget [X] är valt
 phrase.parentX|förälder [X]
 phrase.childrenX|barn [X]
@@ -425,29 +425,29 @@ phrase.aRootUnit|en rotenhet
 phrase.aFile|en fil
 phrase.theFileIsEmpty|filen är tom
 phrase.anOrganization|en organisation
-phrase.XWithYAlreadyExists|[X] med [Y] finns redan
+phrase.xWithYAlreadyExists|[X] med [Y] finns redan
 phrase.withThisName|med detta namn
 phrase.byNameX|heter '[X]'
-phrase.XForYAlreadyExists|[X] för [Y] finns redan
-phrase.XAlreadyExists|[X] finns redan
-phrase.XAlreadyExistsInY|[X] finns redan i [Y]
-phrase.XIsAlreadyY|[X] är redan [Y]
-phrase.XIsNotAvailable|[X] är inte tillgängligt
-phrase.XIsAlreadyInUse|[X] används redan
+phrase.xForYAlreadyExists|[X] för [Y] finns redan
+phrase.xAlreadyExists|[X] finns redan
+phrase.xAlreadyExistsInY|[X] finns redan i [Y]
+phrase.xIsAlreadyY|[X] är redan [Y]
+phrase.xIsNotAvailable|[X] är inte tillgängligt
+phrase.xIsAlreadyInUse|[X] används redan
 phrase.removingExistingUserXPermanently|tar bort befintlig användare '[X]' permanent
 phrase.thisUsername|detta användarnamn
 phrase.thisName|detta namnet
 phrase.withXY|med [X] [Y]
-phrase.XY|[X] '[Y]'
-phrase.XForY|[X] för [Y]
+phrase.xY|[X] '[Y]'
+phrase.xForY|[X] för [Y]
 phrase.noXProvided|inget [X] tillhandahålls
 phrase.noXForYIsProvided|inget [X] för [Y] anges
 phrase.thisXCannotYBecauseZ|detta [X] kan inte [Y] eftersom [Z]
-phrase.XCannotYBecauseZ|[X] kan inte [Y] eftersom [Z]
-phrase.XForUserY|[X] för användare [Y]
+phrase.xCannotYBecauseZ|[X] kan inte [Y] eftersom [Z]
+phrase.xForUserY|[X] för användare [Y]
 phrase.itAlreadyXByY|det redan [X] av [Y]
 phrase.ownerOfXHasY|ägare till [X] har [Y]
-phrase.XIsLocatedY|[X] finns [Y]
+phrase.xIsLocatedY|[X] finns [Y]
 phrase.inADifferentX|i ett annat [X]
 phrase.invalidXY|ogiltig [X] '[Y]'
 phrase.lineX|rad [X]
@@ -540,7 +540,7 @@ phrase.reportArea|rapportområde
 phrase.reportAreas|rapportera områden
 phrase.welcomeX|välkommen [X]
 phrase.jsonExport|jSON-export
-phrase.XHasThisProduct|[X] har den här produkten
+phrase.xHasThisProduct|[X] har den här produkten
 phrase.selectAtLeastOneSector|välj minst en sektor
 phrase.yearToDate|så här långt i år
 phrase.chooseYear|välj år
@@ -619,7 +619,7 @@ phrase.isSetToX|är inställd på '[X]'
 phrase.invalidX|ogiltig [X]
 phrase.detectedChanges|ändringar upptäckts
 phrase.numberOfChanges|antal ändringar
-phrase.XDoesNotExist|[X] finns inte
+phrase.xDoesNotExist|[X] finns inte
 phrase.automaticallyAddedX|automatiskt lagt till [X]
 phrase.notSendt|inte skickat
 phrase.noResultXmlFound|inget resultat XML hittades
@@ -628,12 +628,12 @@ phrase.elrApiCallFailed|eLearnReception API-anrop misslyckades
 phrase.courseResult|kursresultat
 phrase.quizResult|frågesportresultat
 phrase.pleaseEnterAValue|var god ange ett värde
-phrase.XMustBeAnInteger|[X] måste vara ett heltal
+phrase.xMustBeAnInteger|[X] måste vara ett heltal
 phrase.userNotAuthorized|användaren inte auktoriserad
 phrase.cannotDelete|kan inte radera
 phrase.insufficientData|otillräcklig data
 phrase.doConfirmUnit|bekräfta enheten
-phrase.XSaved|[X] har sparats
+phrase.xSaved|[X] har sparats
 phrase.jobQueued|jobb i kö
 phrase.theJobIsAlreadyRunning|jobbet är redan igång
 phrase.theJobIsNotActivated|jobbet är inte aktiverat
@@ -641,8 +641,8 @@ phrase.theJobStarted|jobbet började
 phrase.startXExport|starta [X] export
 phrase.couldNotParseDate|kunde inte tolka datum
 phrase.couldNotParseValueForX|kunde inte tolka värdet för [X]
-phrase.XCannotBeNull|[X] kan inte vara NULL
-phrase.XHasNoPropertyY|[X] har ingen egenskap '[Y]'
+phrase.xCannotBeNull|[X] kan inte vara NULL
+phrase.xHasNoPropertyY|[X] har ingen egenskap '[Y]'
 phrase.downloadX|ladda ner [X]
 phrase.unknownValue|okänt värde
 phrase.affiliatedWithChosenUnit|ansluten till vald enhet
@@ -704,7 +704,7 @@ product.codeAlreadyExists|det finns redan en produkt med denna kod
 warn.permanentlyDeleteCustomer|innan du tar bort denna kund, VAR MEDVETEN OM FÖLJANDE!
 warn.permanentlyDeleteCustomer1|är du helt, absolut, positivt, helt säker på att kunden behöver raderas?
 warn.customerHasHistory|denna kund har e-lärande historia, och radering kommer att resultera i förlust av rapporteringsdata!!
-warn.XCustomersAffiliatedWithThisCustomer|det finns [X] kunder kopplade till denna kund!
+warn.xCustomersAffiliatedWithThisCustomer|det finns [X] kunder kopplade till denna kund!
 warn.usersAffiliatedWithThisOrAChildUnit|användare är anslutna till denna och/eller en av underenheterna
 warn.authorizedUsernamesAffiliatedWithThisOrAChildUnit|godkända användarnamn är kopplade till denna och/eller en av underenheterna
 warn.theseMustBeDeletedOrMovedBeforeDeletingTheUnit|dessa måste flyttas eller raderas innan du kan radera enheten
@@ -1041,14 +1041,14 @@ dateTime.current|nuvarande
 dateTime.fixedDate|fixad dejt
 dateTime.abbr.time|kl:
 dateTime.error.parseError|det gick inte att analysera datum
-dateTime.error.XMustBeNumeric|[X] måste vara ett tal
+dateTime.error.xMustBeNumeric|[X] måste vara ett tal
 dateTime.error.inputHasWrongLength|datumet har fel längd
 dateTime.error.yearMustHave4Digits|årtalet måste vara antingen 2 eller 4 siffror
 dateTime.error.monthMustBeBetween1And12|månad måste vara ett tal mellan 1 och 12
 dateTime.error.dayCannotBeZero|dag kan inte vara 0
 dateTime.error.dateCanNotBeLessThanX|datum får inte vara mindre än [X]
 dateTime.error.dateCanNotBeGreaterThanX|datum får inte vara större än [X]
-dateTime.error.XMonthHasOnlyYDays|[X] månad har bara [Y] dagar
+dateTime.error.xMonthHasOnlyYDays|[X] månad har bara [Y] dagar
 dateTime.error.pleaseEnterDate|ange ett datum.
 dateTime.error.pleaseEnterTime|vänligen ange en tid
 dateTime.error.invalidTime|ogiltig tid
@@ -1185,7 +1185,7 @@ phrase.allowAndKeep|tillåt och behåll
 label.changeUnit|byt enhet
 phrase.webhookJob|webhook jobb
 phrase.unsupportedWebhookFunction|ostödd webhook-funktion
-phrase.XYDoesNotExist|[X] '[Y]' finns inte
+phrase.xYDoesNotExist|[X] '[Y]' finns inte
 phrase.ignoringNewVismaConnectUser|ny användare i Visma Connect - ignorerar
 phrase.phoneNumber|telefonnummer
 phrase.noChangesInEBAData|inga ändringar i EBA-data
@@ -1203,11 +1203,11 @@ email.m0003.subject|eBA - roll/produkt borttagen pga byte av verksamhet
 email.m0003.body|användare [X] förlorade följande roll/produkt vid byte av verksamhet [Y] till [Z]
 word.sending|skickar
 phrase.sendXMail|skicka '[X]' e-post
-phrase.XSuccessfullySendt|[X] har skickats
+phrase.xSuccessfullySendt|[X] har skickats
 phrase.sendingXFailed|sändning av [X] misslyckades
 phrase.systemMessage|systemmeddelande
 abbr.emailRegarding|re
-phrase.XYDoesNotExistInZ|[X] '[Y]' finns inte i [Z]
+phrase.xYDoesNotExistInZ|[X] '[Y]' finns inte i [Z]
 phrase.trackCustomerX|spåra kund '[X]'
 phrase.productString|produktsträng
 product.productStringAlreadyExists|en produkt med denna produktsträng finns redan
@@ -1238,7 +1238,7 @@ error.userDefinedUnitParentMustBeOfficialOrManual|användardefinierade enheter k
 error.unitsOfTypeManualCanOnlyBeAddedToManualTree|manuella enheter kan bara läggas till i en manuell hierarki
 error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bara läggas till i [X] hierarkier
 phrase.missingX|saknas [X]
-phrase.XIsMissing|[X] saknas
+phrase.xIsMissing|[X] saknas
 word.webinar|webinar
 word.encyclopedia|uppslagsverk
 phrase.dontX|gör inte [X]
