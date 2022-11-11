@@ -111,7 +111,7 @@ tab.blacklistAreas|svarteliste område
 tab.crmLinks|CRM-koplingar
 tab.soExport|superOffice eksport
 word.add|legg til
-word.siteProductName|rettleiaren
+word.siteProductName|Veilederen
 word.affiliation|tilhørighet
 word.address|adresse
 word.application|applikasjon
