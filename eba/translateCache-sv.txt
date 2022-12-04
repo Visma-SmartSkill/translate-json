@@ -1239,3 +1239,24 @@ error.unitsOfTypeManualCanOnlyBeAddedToManualTree|manuella enheter kan bara läg
 error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bara läggas till i [X] hierarkier
 word.copy|kopia
 word.toCopy|kopiera
+phrase.coursePathMappingExists|en kurslänk till denna väg finns redan
+phrase.listName|listans namn
+phrase.courseList|kurslista
+phrase.courseLists|kurslistor
+phrase.aCourseList|en kurslista
+phrase.vismaLearnCourseList|visma Lär kurslista
+phrase.baseUrl|bas-url
+label.coursePath|kursväg
+phrase.createACopy|skapa en kopia
+error.ajaxErrorTitle|ajax fel
+error.ajaxErrorMessage|ett AjaxError inträffade.<br/><br/>HttpStatus: '[X]'<br/>Statustext: '[Y]'
+confirm.deleteCourseList.title|radera kurslista
+confirm.deleteCourseList.msg|är du säker på att du vill ta bort den här kurslistan</br>och alla dess kursmappningar?
+confirm.deleteCourseList.doing|tar bort kurslista...
+error.copyCountError|kunde inte skapa kopia. Fick slut på möjliga namn för den nya kopian.
+confirm.createCopy.title|skapa en kopia
+confirm.createCopy.msg|är du säker på att du vill skapa en kopia av denna registrering?
+confirm.createCopy.doing|skapar kopia...
+phrase.courseIdInVismaLearn|course ID in visma learn
+phrase.otherCourseIds|andra kurs-ID
+phrase.vismaLearnExport|Visma Learn export

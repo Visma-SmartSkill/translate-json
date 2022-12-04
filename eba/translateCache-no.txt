@@ -12,7 +12,7 @@ tab.importJob|import jobb
 tab.appSettings|appInnstillinger
 tab.tracingUsernames|sporing brukernavn
 tab.importConfig|import konfig
-tab.vismaLearn|visma Learning
+tab.vismaLearn|Glup
 tab.blacklistAreas|svarteliste områder
 word.siteProductName|veilederen
 word.affiliation|tilhørighet
@@ -327,8 +327,8 @@ phrase.fromAllApplications|fra alle applikasjoner
 phrase.receivedElearnResults|mottatte kursresultater
 phrase.courseMapping|kurstilknytning
 phrase.courseMappings|kurstilknytninger
-phrase.setUseVLOnNewUsers|sett 'Bruk Visma Learning' på nye brukere
-phrase.setUseVlOnExistingUsers|sett 'Bruk Visma Learning' på eksisterende brukere
+phrase.setUseVLOnNewUsers|sett 'Bruk Glup' på nye brukere
+phrase.setUseVlOnExistingUsers|sett 'Bruk Glup' på eksisterende brukere
 phrase.courseIdMappingExists|en kurstilknytning til denne kurs-ID-en eksisterer allerede.
 phrase.courseUrlMappingExists|en kurstilknytning med denne URL-en eksisterer allerede
 phrase.startJob|start jobben
@@ -560,13 +560,13 @@ phrase.lastErrorDate|sist feil dato
 phrase.attemptsLastError|forsøk sist feil
 phrase.lastErrorCause|siste feilårsak
 phrase.numberOfEventsInQueue|antall hendelser i køen
-phrase.vismaLearnDataOnlyAvailableToVLUsers|visma Learn-data er kun tilgjengelig for VL-brukere
-phrase.vismaLearnInfo|visma Learn info
-phrase.vismaLearnCustomerInfo|visma Learn kundeinfo
-phrase.vismaLearnCourse|visma Learn kurs
+phrase.vismaLearnDataOnlyAvailableToVLUsers|Glup kundeinfo er kun tilgjengelig for VL-brukere
+phrase.vismaLearnInfo|Glup info
+phrase.vismaLearnCustomerInfo|Glup kundeinfo
+phrase.vismaLearnCourse|Glup kurs
 phrase.courseAffiliation|kurstilknytning
 phrase.courseAffiliations|kurstilknytninger
-phrase.courseAffiliationIngress|kurstilknytning brukes av Veilederen for å sende brukere til riktig kurs i Visma Learning ved bruk av direkte lenker til kurs i Veilederen. Linken er basert på kurs-ID, og ​​krever at CourseId-egenskapen for alle kurslandingssidene i Veilederen er riktig satt
+phrase.courseAffiliationIngress|kurstilknytning brukes av Veilederen for å sende brukere til riktig kurs i Glup ved bruk av direkte lenker til kurs i Veilederen. Linken er basert på kurs-ID, og ​​krever at CourseId-egenskapen for alle kurslandingssidene i Veilederen er riktig satt
 phrase.viewName|visningsnavn
 phrase.nothingToShow|ingenting å vise
 phrase.blacklistReportAreas|svarteliste rapportområder
@@ -790,10 +790,10 @@ confirm.exportUnitsCsv.title|eksport enheter
 confirm.exportUnitsCsv.msg|eksportere valgt enhet og dens underenheter til CSV?
 confirm.exportUnitsCsv.doing|eksporterer...
 confirm.exportUnitsToVismaLearn.title|eksportenheter
-confirm.exportUnitsToVismaLearn.msg|er du sikker på at du vil eksportere enheter til Visma Learning?
+confirm.exportUnitsToVismaLearn.msg|er du sikker på at du vil eksportere enheter til Glup?
 confirm.exportUnitsToVismaLearn.doing|eksporterer...
 confirm.exportUsersToVismaLearn.title|eksportere brukere
-confirm.exportUsersToVismaLearn.msg|er du sikker på at du vil eksportere brukere til Visma Learning?
+confirm.exportUsersToVismaLearn.msg|er du sikker på at du vil eksportere brukere til Glup?
 confirm.exportUsersToVismaLearn.doing|eksporterer brukere...
 confirm.startPpImportJob.title|begynne å importere PlusPort-avdelinger/brukere
 confirm.startPpImportJob.msg|er du sikker på at du vil starte denne jobben?
@@ -902,7 +902,7 @@ label.orgAttachment|org-tilknytning
 label.forceUnitSelection|tving enhetsvalg
 label.username|brukernavn (e-post)
 label.usernameIsEmail|brukernavn er e-post
-label.useVismaLearn|bruke Visma Learning
+label.useVismaLearn|bruke Glup
 label.canChangePassword|kan endre passord
 label.newsOptional|valgfrie nyhetsmeldinger
 label.accountEnabled|konto aktivert
@@ -1239,3 +1239,24 @@ error.unitsOfTypeManualCanOnlyBeAddedToManualTree|manuelle enheter kan bare legg
 error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bare legges til [X] hierarkier
 word.copy|kopi
 word.toCopy|kopiere
+phrase.coursePathMappingExists|en kurskobling med denne stien eksisterer allerede
+phrase.listName|liste navn
+phrase.courseList|kursliste
+phrase.courseLists|kurslister
+phrase.aCourseList|en kursliste
+phrase.vismaLearnCourseList|Glup kursliste
+phrase.baseUrl|base url
+label.coursePath|sti til kurset
+phrase.createACopy|lag en kopi
+error.ajaxErrorTitle|ajax feil
+error.ajaxErrorMessage|det oppstod en AjaxFeil.<br/><br/>HttpStatus: '[X]'<br/>Status tekst: '[Y]'
+confirm.deleteCourseList.title|slette kursliste
+confirm.deleteCourseList.msg|er du sikker på at du vil slette denne kurslisten</br>og alle dens kurstilordninger?
+confirm.deleteCourseList.doing|sletter kursliste...
+error.copyCountError|kunne ikke lage kopi. Gikk tom for mulige navn for den nye kopien.
+confirm.createCopy.title|lag en kopi
+confirm.createCopy.msg|er du sikker på at du vil lage en kopi av denne registreringen?
+confirm.createCopy.doing|oppretter kopi...
+phrase.courseIdInVismaLearn|kurs-ID i Glup
+phrase.otherCourseIds|andre kurs-IDer
+phrase.vismaLearnExport|Glup eksport

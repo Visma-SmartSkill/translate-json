@@ -393,7 +393,7 @@ phrase.validTo|giltig till
 phrase.xIgnored|[X] ignoreras
 phrase.noXWithIdYFound|inget [X] med id [Y] hittades
 phrase.noXWithYFound|inget [X] med [Y] hittades
-phrase.noXChosen|"X" öppningsstrid
+phrase.noXChosen|ingen [X] har valts
 phrase.forX|för [X]
 phrase.orgLevel|org-nivå
 phrase.noXForYFound|inget [X] för [Y] hittades
@@ -402,7 +402,7 @@ phrase.lookingForOrgLevel|letar efter organisationsnivå
 phrase.lookingForParentOrgLevelForX|letar efter överordnad organisationsnivå för '[X]'
 phrase.lookingForParentUnitForX|letar efter föräldraenhet för '[X]'
 phrase.unitXHasNewParentUnitY|enheten '[X]' har den nya föräldraenheten '[Y]'
-phrase.parentForX|förälder för "[X]"
+phrase.parentForX|förälder för '[X]'
 phrase.parentForXIsY|förälder för '[X]' är '[Y]'
 phrase.couldNotDeleteX|kunde inte ta bort [X]
 phrase.pleaseChooseX|vänligen välj [X]
@@ -568,7 +568,7 @@ phrase.noEmailTemplateNamedXFoundInVismaConnect|det finns ingen e-postmall med n
 phrase.vismaConnectReturned|visma Connect återvände
 phrase.emailToUserXWithTemplateYSuccessfullySent|e-post till användare '[X]' med mall '[Y]' skickat utan fel
 phrase.usernameXDoesNotExistInVismaConnect|användarnamn '[X]' finns inte i Visma Connect
-phrase.foundMultipleUsersWithEmailX|hittade flera användare med e-postadressen "[X]"
+phrase.foundMultipleUsersWithEmailX|hittade flera användare med e-postadressen '[X]'
 phrase.findUser|hitta användare
 phrase.lookupUsernameInVismaConnect|sök upp användarnamn i Visma Connect
 phrase.lookupUserByExternalLogin|sök användare baserat på externa inloggningsdata från EBA
@@ -606,7 +606,7 @@ phrase.authorizedUsername|godkänt användarnamn
 phrase.deltedAuthorizedUsernameX|tog bort godkänd användarnamnsinlägg '[X]'
 phrase.successfullyChangedUsernameFromXToY|framgångsrikt ändrat användarnamn '[X]' -> '[Y]'
 phrase.becauseEmailDomainIsSharedByXVLUsers|eftersom e-postdomänen delas av [X] KG-användare
-phrase.deletingAuthorizedUsernameXBecauseItsAuthorizedByOrgEmailDomain|tar bort godkänt användarnamn "[X]" eftersom det nu autentiseras av organisationens e-postdomän
+phrase.deletingAuthorizedUsernameXBecauseItsAuthorizedByOrgEmailDomain|tar bort godkänt användarnamn '[X]' eftersom det nu autentiseras av organisationens e-postdomän
 phrase.notSet|inte inställd
 phrase.registrationDate|registrerings datum
 phrase.changedByUser|modifierad av användaren
@@ -764,7 +764,7 @@ error.ipMaskMustBeNumeric|masken kan bara innehålla siffror
 error.ipMaskInvalid|ogiltig mask
 error.couldNotConvertIpMask|kunde inte konvertera nätmasken
 error.invalidSubnet/netmask|ogiltig subnät/nätmask
-error.invalidIpRange|iP-intervallet måste innehålla två adresser delade med "-"-tecken. Till exempel 192.168.0.10-192.168.0.20
+error.invalidIpRange|iP-intervallet måste innehålla två adresser delade med '-'-tecken. Till exempel 192.168.0.10-192.168.0.20
 error.fromIpMustBeGreaterOrEqualToToIp|från IP måste vara större än eller lika med IP
 error.ipAddressCannotBeZero|iP-adressen kan inte vara 0
 error.hostIpCannotBeASubnetAddress|iP-adressen för en enskild värd kan inte vara en subnätadress
@@ -860,8 +860,8 @@ confirm.deleteCourse.title|ta bort kurs
 confirm.deleteCourse.msg|är du säker på att du vill ta bort den här kursen?
 confirm.deleteCourse.doing|tar bort kurs...
 confirm.sendQuizReceived.title|skicka frågesport mottagen
-confirm.sendQuizReceived.msg|är du säker på att du vill skicka "svar-mottaget" e-postmeddelande till frågesportsdeltagaren?
-confirm.sendQuizReceived.doing|skickar "svar-mottaget" e-post...
+confirm.sendQuizReceived.msg|är du säker på att du vill skicka 'svar-mottaget' e-postmeddelande till frågesportsdeltagaren?
+confirm.sendQuizReceived.doing|skickar 'svar-mottaget' e-post...
 confirm.sendDiploma.title|skicka kursbevis
 confirm.sendDiploma.msg|är du säker på att du vill skicka kursbevis till [X]?
 confirm.sendDiploma.doing|skickar kursbevis...
@@ -954,7 +954,7 @@ label.csvSeparator|cSV-avgränsare
 label.csvFile|cSV-fil
 label.changeOrg|byt org
 label.changeOrganization|förändra organisationen
-label.allowSectorNotRelevant|tillåt sektor "inte relevant"
+label.allowSectorNotRelevant|tillåt sektor 'inte relevant'
 label.givesSuperuserRight|ger superanvändarrättigheter
 label.onlyExportOwnProducts|exportera endast egna produkter
 label.onlyPersonalia|endast personuppgifter
@@ -1323,3 +1323,9 @@ yearwheel.yourWheel|ditt årshjul
 yearwheel.yourWheels|dina årshjul
 yearwheel.createFromTemplate|skapa årshjul från mall
 word.copy|kopia
+word.podcast|podcast
+phrase.subjectArticle|ämnesartikel
+phrase.linkToPage|länk till sida
+phrase.encyclopedia/chapter|uppslagsverk/kapitel
+phrase.legalSource|rättskälla
+phrase.privateSector|privat sektor

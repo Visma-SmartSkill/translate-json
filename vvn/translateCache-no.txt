@@ -1323,3 +1323,9 @@ yearwheel.yourWheel|årshjulet ditt
 yearwheel.yourWheels|dine årshjul
 yearwheel.createFromTemplate|opprett årshjul fra mal
 word.copy|kopi
+word.podcast|podcast
+phrase.subjectArticle|faglig artikkel
+phrase.linkToPage|lenke til side
+phrase.encyclopedia/chapter|oppslagsverk/kapittel
+phrase.legalSource|rettskilde
+phrase.privateSector|privat sektor

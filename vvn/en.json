@@ -310,7 +310,8 @@
     "small": "small",
     "insert": "insert",
     "template": "template",
-    "templates": "templates"
+    "templates": "templates",
+    "podcast": "podcast"
   },
   "phrase": {
     "appSettings": "app settings",
@@ -812,10 +813,15 @@
     "saveAs": "save as",
     "saveXAs": "save [X] as",
     "textSize": "text size",
-    "reflectionMaterial": "reflection material",
+    "reflectionMaterial": "reflectionmaterial",
     "insertX": "insert [X]",
     "linkText": "link tekst",
-    "fromX": "from [X]"
+    "fromX": "from [X]",
+    "subjectArticle": "subjectarticle",
+    "linkToPage": "link to page",
+    "encyclopedia/chapter": "encyclopedia/chapter",
+    "legalSource": "legal source",
+    "privateSector": "private sector"
   },
   "highcharts": {
     "accessibility": {

@@ -1303,3 +1303,9 @@ yearwheel.listElements|liste element
 yearwheel.updatingLists|oppdaterer lister
 yearwheel.err.noContent.title|ingen innhald
 yearwheel.err.noContent.msg|dette årshjulet er tomt, og kan derfor ikkje largres
+word.podcast|poddkast
+phrase.subjectArticle|fagleg artikkel
+phrase.linkToPage|lenkje til side
+phrase.encyclopedia/chapter|oppslagsverk/kapittel
+phrase.legalSource|rettskjelde
+phrase.privateSector|privat sektor
