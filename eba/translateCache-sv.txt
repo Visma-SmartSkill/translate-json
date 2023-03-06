@@ -1257,6 +1257,19 @@ error.copyCountError|kunde inte skapa kopia. Fick slut på möjliga namn för de
 confirm.createCopy.title|skapa en kopia
 confirm.createCopy.msg|är du säker på att du vill skapa en kopia av denna registrering?
 confirm.createCopy.doing|skapar kopia...
-phrase.courseIdInVismaLearn|course ID in visma learn
+phrase.courseIdInVismaLearn|kurs-ID i Visma Learn
 phrase.otherCourseIds|andra kurs-ID
 phrase.vismaLearnExport|Visma Learn export
+phrase.coundNotDetermineParentUser|kunde inte bestämma KG-användare
+phrase.portalId|portal-ID
+phrase.portalName|portalens namn
+error.unitXAlreadyHasVLUserY|vL-användare [Y] är redan ansluten till enhet [X]
+error.emailDomainRequiresOrganization|för att registrera e-postdomäner måste en organisation också väljas
+error.emailDomainAlreadyExistInAnotherOrganization|den här domänen är redan registrerad i en annan organisation
+phrase.emailDomainXAlreadyExistInOrganization|domänen [X] är redan registrerad på en annan VL-användare. Vill du flytta domänen till den här användaren?
+phrase.globalId|globalt ID
+phrase.captivateId|Captivate ID
+error.emailDomainXAlreadyExistInAnotherOrganization|e-postdomän [X] är redan registrerad i en annan organisation
+error.eloquaFormPostXError|fel när data skickades till Eloqua-formuläret '[X]'. Systemfel: [Y]
+phrase.unitNotConfirmed|enhet inte bekräftad
+label.logMailsTo|loggfil mailar till

@@ -133,7 +133,7 @@ word.delete|slett
 word.toDelete|slette
 word.deleting|sletter
 word.deleted|sletta
-word.save|lagr
+word.save|lagra
 word.ok|ok
 word.created|oppretta
 word.by|av
@@ -838,8 +838,8 @@ phrase.dontX|ikkje [X]
 phrase.trainingPackage|opplæringspakke
 phrase.createXAs|opprett [X] som
 phrase.downloadAsX|last ned som [X]
-phrase.saveAs|lager som
-phrase.saveXAs|lager [X] som
+phrase.saveAs|lagra som
+phrase.saveXAs|lagra [X] som
 phrase.textSize|tekststorleik
 phrase.reflectionMaterial|refleksjonsmateriale
 phrase.insertX|set inn [X]
@@ -1036,14 +1036,14 @@ confirm.deleteUnit.doing|sletter eining.
 confirm.deleteItem.title|slett oppføring
 confirm.deleteItem.msg|er du sikker på at du vil slette denne oppføringa?
 confirm.deleteItem.doing|sletter oppføring.
-confirm.saveChanges.title|lagr endringar
-confirm.saveChanges.msg|er du sikker på at du vil lagre endringane?
+confirm.saveChanges.title|lagra endringar
+confirm.saveChanges.msg|er du sikker på at du vil lagra endringane?
 confirm.saveChanges.doing|lagrar endringar.
-confirm.saveUnsaved.title|lagr endringar
-confirm.saveUnsaved.msg|det finst ulagrede endringar! Vil du lagre dei?
+confirm.saveUnsaved.title|lagra endringar
+confirm.saveUnsaved.msg|det finst ulagrede endringar! Vil du lagra dei?
 confirm.saveUnsaved.doing|lagrar endringar.
-confirm.saveYearwheel.title|lagr årshjul
-confirm.saveYearwheel.msg|vil du lagre dette årshjulet?
+confirm.saveYearwheel.title|lagra årshjul
+confirm.saveYearwheel.msg|vil du lagra dette årshjulet?
 confirm.saveYearwheel.doing|lagrar årshjul.
 confirm.createYearwheel.title|laga årshjul
 confirm.createYearwheel.msg|vil du lage eit nytt årshjul?
@@ -1309,3 +1309,5 @@ phrase.linkToPage|lenkje til side
 phrase.encyclopedia/chapter|oppslagsverk/kapittel
 phrase.legalSource|rettskjelde
 phrase.privateSector|privat sektor
+error.invalidSearchExpression|du har gitt eit ugyldig søkeuttrykk
+error.noSearchExpression|du må skrive inn noko å søkje etter

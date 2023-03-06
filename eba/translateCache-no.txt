@@ -450,7 +450,7 @@ phrase.runTest|kjør test
 phrase.newUsername|nytt brukernavn
 phrase.onlyOwnRegistrations|kun egne registreringer
 phrase.userReloadedDueToImport|på grunn av import har den valgte brukeren blitt lastet inn på nytt. <br> Hvis du har gjort endringer, må du gjøre dem på nytt!
-phrase.personalData|personale
+phrase.personalData|personalia
 phrase.pleaseWaitCreatingCsvFile|vennligst vent, lager CSV-fil...
 phrase.pleaseWaitDeletingUsers|vennligst vent, sletter brukere...
 phrase.currentSelection|gjeldende utvalg
@@ -1260,3 +1260,16 @@ confirm.createCopy.doing|oppretter kopi...
 phrase.courseIdInVismaLearn|kurs-ID i Glup
 phrase.otherCourseIds|andre kurs-IDer
 phrase.vismaLearnExport|Glup eksport
+phrase.coundNotDetermineParentUser|kunne ikke bestemme VL-bruker
+phrase.portalId|portal-ID
+phrase.portalName|portalnavn
+error.unitXAlreadyHasVLUserY|vL-bruker [Y] er allerede tilknyttet enhet [X]
+error.emailDomainRequiresOrganization|for å registrere e-postdomener, må en organisasjon også velges
+error.emailDomainAlreadyExistInAnotherOrganization|dette domenet er allerede registrert i en annen organisasjon
+phrase.emailDomainXAlreadyExistInOrganization|domenet [X] er allerede registrert på en annen VL-bruker. Vil du flytte domenet til denne brukeren?
+phrase.globalId|global ID
+phrase.captivateId|Captivate ID
+error.emailDomainXAlreadyExistInAnotherOrganization|e-postdomene [X] er allerede registrert i en annen organisasjon
+error.eloquaFormPostXError|feil under sending av data til Eloqua-skjemaet '[X]'. Systemfeil: [Y]
+phrase.unitNotConfirmed|enhet ikke bekreftet
+label.logMailsTo|loggfil e-post sendes til

@@ -1035,7 +1035,9 @@
     "ifProblemPersistsContactSysAdmin": "if the problem persists, please contact your system administrator",
     "invalidSocialSecurityNumber": "invalid social security number",
     "userXDoesNotExistInEBA": "user '[X]' does not exist in EBA",
-    "onlyVlUsersCanHaveCrmLinks": "CRM links can only be registered for VL-users"
+    "onlyVlUsersCanHaveCrmLinks": "CRM links can only be registered for VL-users",
+    "invalidSearchExpression": "you have given an invalid search expression",
+    "noSearchExpression": "you must enter something to search for"
   },
   "userMessages": {
     "msg0000": "an unknown error occurred. If the problem persists, contact us for a quick solution.",

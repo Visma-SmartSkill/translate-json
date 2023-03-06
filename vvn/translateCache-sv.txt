@@ -1329,3 +1329,5 @@ phrase.linkToPage|länk till sida
 phrase.encyclopedia/chapter|uppslagsverk/kapitel
 phrase.legalSource|rättskälla
 phrase.privateSector|privat sektor
+error.invalidSearchExpression|du har angett ett ogiltigt sökuttryck
+error.noSearchExpression|du måste ange något att söka efter
