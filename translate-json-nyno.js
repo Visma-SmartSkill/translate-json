@@ -103,7 +103,7 @@ if (process.argv.length >= 2) {
             _.reduce(iterLeaves(content, undefined, undefined, languageKey), (promiseChain, fn) => {
             return promiseChain.then(fn);
         }, Promise.resolve()).then((payload) => {
-            fs.writeFileSync(fileName, JSON.stringify(payload, null, 4));
+            fs.writeFileSync(fileName, JSON.stringify(payload, null, 2));
         }).then(_.partial(console.log, 'Successfully translated all nodes, file output at ' + fileName)));
     }, [])).then(() => {
         process.exit();

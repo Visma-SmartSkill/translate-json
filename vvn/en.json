@@ -80,12 +80,16 @@
   },
   "word": {
     "add": "add",
+    "background": "background",
+    "foreground": "foreground",
     "siteProductName": "Veilederen",
     "affiliation": "affiliation",
     "address": "address",
     "application": "application",
     "applications": "applications",
     "accumulated": "accumulated",
+    "default": "default",
+    "empty": "empty",
     "postalNumber": "Zip code",
     "postalPlace": "post office",
     "businessAddress": "business address",
@@ -169,6 +173,7 @@
     "marketingGroups": "marketing groups",
     "right": "right",
     "error": "error",
+    "success": "success",
     "url": "url",
     "none": "none",
     "registration": "registration",
@@ -311,7 +316,8 @@
     "insert": "insert",
     "template": "template",
     "templates": "templates",
-    "podcast": "podcast"
+    "podcast": "podcast",
+    "image": "image"
   },
   "phrase": {
     "appSettings": "app settings",
@@ -322,6 +328,7 @@
     "brregUnit": "Brreg unit",
     "officialUnit": "official unit",
     "userDefined": "user defined",
+    "userCreated": "user created",
     "logIn": "log in",
     "loggedIn": "logged in",
     "lastLoggedIn": "last logged in",
@@ -650,10 +657,12 @@
     "selectAtLeastOneSector": "select at least one sector",
     "yearToDate": "so far this year",
     "chooseYear": "choose year",
+    "chooseSector": "choose sector",
     "chooseSector-s": "choose sector(s)",
     "unaffiliatedRootUnits": "unaffiliated root units",
     "includeSubunits": "include subunits",
     "includeIpCoop": "include IP collaboration",
+    "includeInactiveUsers": "include disabled users",
     "postalAddress": "postal address",
     "numberOfEmployees": "number of employees",
     "foundedDate": "founded date",
@@ -821,7 +830,11 @@
     "linkToPage": "link to page",
     "encyclopedia/chapter": "encyclopedia/chapter",
     "legalSource": "legal source",
-    "privateSector": "private sector"
+    "privateSector": "private sector",
+    "subjectMissing": "subject missing",
+    "personalUserCreated": "your user was successfully created. You will shortly receive an email with instructions on activating your user",
+    "trialUserCreated": "your trial user successfully created. You will shortly receive an email with instructions on activating your user",
+    "noVismaAppsFound": "No apps found"
   },
   "highcharts": {
     "accessibility": {
@@ -1427,6 +1440,7 @@
     "soExport": "Create CSV for SuperOffice"
   },
   "yearwheel": {
+    "newYearwheel": "new yearwheel",
     "createNew": "create new yearwheel",
     "yourWheel": "your yearwheel",
     "yourWheels": "your yearwheels",
@@ -1441,9 +1455,23 @@
     "sectorIcon": "sector icon",
     "bulletX": "bullet [X]",
     "viewHtml": "view HTML",
+    "preview": "preview",
     "viewEditmode": "view edit mode",
     "listElements": "list elements",
     "updatingLists": "oppdaterer lister",
+    "resizableImage": "resizable image",
+    "noYearwheelContentFound": "No yearwheel HTML saved",
+    "backgrounds": {
+      "default": "Wheel with months",
+      "blueEmpty": "blue empty"
+    },
+    "images": {
+      "emptyWheel": "empty wheel",
+      "wheelWithMonths": "wheel with months",
+      "staircaseEmployees": "staircase employees",
+      "productLogo": "Veilederen logo",
+      "productIcon": "Veilederen icon"
+    },
     "err": {
       "noContent": {
         "title": "no content",

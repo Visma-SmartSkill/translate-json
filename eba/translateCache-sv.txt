@@ -465,7 +465,6 @@ phrase.typeEmailAddress|skriv in epostadress
 phrase.runTest|kör test
 phrase.newUsername|nytt användarnamn
 phrase.onlyOwnRegistrations|endast egna registreringar
-phrase.userReloadedDueToImport|på grund av import har den valda användaren laddats om. <br> Om du har gjort ändringar måste du göra dem igen!
 phrase.personalData|personal
 phrase.pleaseWaitCreatingCsvFile|vänta, skapar CSV-fil...
 phrase.pleaseWaitDeletingUsers|vänligen vänta, tar bort användare...
@@ -1273,3 +1272,222 @@ error.emailDomainXAlreadyExistInAnotherOrganization|e-postdomän [X] är redan r
 error.eloquaFormPostXError|fel när data skickades till Eloqua-formuläret '[X]'. Systemfel: [Y]
 phrase.unitNotConfirmed|enhet inte bekräftad
 label.logMailsTo|loggfil mailar till
+jobTitle.youniumBind|synkronisera med Younium
+phrase.disableExpiredAccounts|inaktivera utgångna konton
+phrase.cancelAllJobs|avbryta alla jobb
+phrase.userGotDeletedBySomeoneElse|användaren togs bort av en annan användare eller jobb
+jobTitle.deleteCustomers|radera kunder
+phrase.deletingMoreThan100Customers|när fler än 100 kunder ska raderas startas ett bakgrundsjobb.<br/>Detta beror på att det tar ett tag att ta bort många kunder
+confirm.anonymizeVlCustomer.title|anonymisera
+confirm.anonymizeVlCustomer.doing|börjar radera jobb...
+option.onlyDeactivatedProducts|endast inaktiverade produkter
+option.noAccessLastXMonths|ingen åtkomst senaste [X] månaderna
+word.anonymize|anonymisera
+confirm.anonymizeVlCustomer1.title|anonymisera och ta bort kunder
+confirm.anonymizeVlCustomer1.msg|är du helt säker? Det finns ingen väg tillbaka!<br/>Fortsätt?
+confirm.anonymizeVlCustomer1.doing|börjar radera jobb...
+phrase.userReloadedDueToImport|på grund av import har den valda kunden laddats om. <br> Om du har gjort ändringar måste du göra dem igen!
+phrase.userReloadedDueToChange|på grund av ändringar gjorda av en annan användare eller jobb måste den valda kunden laddas om. <br> Om du har gjort ändringar måste du göra dem igen!
+phrase.customerModified|kund ändrad
+confirm.anonymizeVlCustomer.msg|du är på väg att starta ett jobb som kommer att anonymisera och ta bort kunder kopplade till VL-användaren '[X]' som inte har haft tillgång till några produkter de senaste [Y] månaderna.<br/>Det här jobbet kan inte stoppas och anonymiseringen och raderingen kan inte ångras.<br/>Är du säker på att du vill anonymisera och ta bort kunder kopplade till denna VL-användare?
+label.anonymizeAfterXMonths|månader utan åtkomst innan anonymiseras
+label.anonymizeWarnXDaysBefore|skicka e-post när anonymisering på mindre än dagar
+email.m0004.subject|eBA - anonymisering nära förestående!
+email.m0004.body|anonymisering/radering av användare utan egen åtkomst tillhörande följande KG-användare är nära förestående:
+dateTime.inXDaysYMinutes|om [X] dagar, [Y] minuter
+email.m0004.body1|namn: [X], anonymiseringsdatum: [Y][Z]
+dateTime.inXY|om [X] [Y]
+word.anonymization|anonymisering
+phrase.anonymizeX|anonymisera [X]
+phrase.anonymizingX|anonymiserar [X]
+phrase.anonymizedXCustomers|anonymiserade [X] kunder
+phrase.noAnonymizableCustomers|inga anonymiserbara kunder
+phrase.anonymizeJobStarted|anonymisera jobbet påbörjat
+phrase.theJobWasCancelled|jobbet avbröts
+phrase.theJobRanToCompletion|jobbet slutfördes
+phrase.noticeOfAnonymization|meddelande om anonymisering
+tab.arbitraryNotes|anteckningar
+word.notes|anteckningar
+phrase.arbitraryNotes|godtyckliga anteckningar
+word.migrate|migrera
+word.migration|migration
+word.folder|mapp
+word.theFolder|mappen
+word.preparing|förbereder
+phrase.moodleExports|moodle export
+phrase.finishingSendingLogfileEmail|efterbehandling - skickar e-post med loggfil
+phrase.downloadingCsvFiles|ladda ner CSV-filer
+phrase.gettingDepartmentsFromCsv|få avdelningar från CSV
+phrase.preparingMoodleTenant|förbereder Moodle-tenant
+phrase.creatingMoodleOrgs|skapa Moodle-organisationer
+phrase.gettingUsersFromCsv|få användare från Csv
+error.cannotStartXJobItIsRunning|kan inte starta [X] jobbet eftersom det redan körs
+phrase.migratingXUsers|migrerar [X] användare
+phrase.migratingX|migrerar [X]
+phrase.addXNewMembersToCohort|lägg till [X] nya kohortmedlemmar
+word.token|token
+word.instance|instans
+phrase.webServiceUserId|webbtjänst användar id
+phrase.sharedAreaId|delat område id
+phrase.adminRoleId|admin roll id
+phrase.employeePositionIdNumber|anställdpositions idnummer
+phrase.leaderPositionIdNumber|ledarpositions idnummer
+phrase.moodleInstance|Moodle instans
+error.noMessageReceivedFromServer|inget meddelande mottaget från servern.
+error.serverError|serverfel
+error.couldNotParseIdX|kunde inte tolka ID '[X]'
+confirm.deleteMoodleInstance.title|radera Moodle instansen
+confirm.deleteMoodleInstance.msg|är du säker på att du vill ta bort den här instansen?
+confirm.deleteMoodleInstance.doing|tar bort instans...
+abbr.webServiceUserId|WS usr id
+abbr.sharedAreaId|SA id
+abbr.adminRoleId|admroll id
+abbr.leaderPositionIdNumber|ledarepos idnumber
+abbr.employeePositionIdNumber|emppos idnummer
+word.do-migrate|migrera
+phrase.migrateXToMoodle|migrera [X] till Moodle
+phrase.tenantName|hyresgästens namn
+phrase.tenantIdNumber|hyresgästens idNumber
+phrase.siteName|webbplatsens namn
+phrase.siteShortName|webbplatsens korta namn
+phrase.departmentRootIsTenantIdNumber|avdelningskod är hyresgästens idNumber
+phrase.plusPortPortalId|plusPort portal id
+phrase.plusPortDepartmentCode|plusPort avdelningskod
+error.couldNotLoadFileX|kunde inte ladda filen '[X]'
+phrase.bulkMigrate|bulk migrera
+phrase.bulkMigration|bulk migration
+phrase.courseAllocation|kurstilldelning
+phrase.nothingToDo|inget att göra
+phrase.migratingCourseAllocations|migrering av kurstilldelningar
+phrase.allocationXOfY|tilldelning [X] av [Y]
+error.noRootVlUserFound|en rot KG-användare måste kopplas till organisationen innan underliggande VL-användare kan kopplas till enheter!
+phrase.deletingOrphanedJobs|ta bort föräldralösa jobb
+phrase.deletingOrphanedDepartments|ta bort föräldralösa avdelningar
+word.position|placera
+word.positions|placeringar
+word.positions_job|positioner
+word.position_job|position
+word.do-export|exportera
+word.do-import|importera
+phrase.automaticallyAddedXForY|automatiskt lagt till [X] för [Y]
+phrase.XAlreadyHasYAtZ|[X] har redan [Y] vid [Z].
+error.couldNotCreateMoodleApi|kunde inte skapa Moodle API-instans.
+error.moodleConfigLacksExternalId|kan inte använda vald moodle-instans eftersom konfigurationen saknar externt id.
+confirm.deleteUserPosition.title|ta bort jobb
+confirm.deleteUserPosition.msg|är du säker på att du vill ta bort det här jobbet?
+confirm.deleteUserPosition.doing|tar bort jobb...
+confirm.removeUserOrganization.title|ta bort kunden från organisationen
+confirm.removeUserOrganization.msg|att ta bort kunden från organisationen kommer också att permanent radera alla jobb och produkter som tilldelats kunden inom den givna organisationen.\n\nÄr du säker på att du vill ta bort kunden från organisationen?
+confirm.removeUserOrganization.doing|tar bort kunden från organisationen...
+warn.privateProductsWarning|aNMÄRKNINGAR: ENDAST privata produkter kan läggas till här. Privata produkter har endast effekt om vederbörande loggar in som privatperson. Om den berörda personen loggar in i en organisation är det endast produkter som lagts till för organisationen som gäller. Produkter per organisation finns under fliken Organisationer.
+phrase.primaryPosition|primär position
+error.mustSetDifferentPrimaryJobBeforeDelete|detta är ett primärt jobb och kan inte tas bort eftersom det inte går att gissa vilket av de återstående jobben som ska vara det primära. Markera ett annat jobb som primärt innan du tar bort det här jobbet.
+phrase.unitNotInAvailableOrganizations|den här enheten tillhör en organisation som inte är tillgänglig för denna användare
+phrase.usingAuthorizedUsernameForXAtYInZ|använder godkänd användarnamnsinmatning för '[X]' vid enhet '[Y]' i organisationen '[Z]'
+phrase.privatePerson|privatperson
+error.userAlreadyAttachedToOrganizationX|användaren är redan kopplad till organisationen [X]
+label.canAccessWithoutJobs|kan komma åt utan jobb
+phrase.newXY|ny [X] [Y]
+phrase.XForYInZAlreadyExists|[X] för [Y] finns redan i [Z]
+phrase.XForYAtZAlreadyExists|[X] för [Y] finns redan vid [Z]
+phrase.thisPosition_job|denna position
+phrase.authorizedUsernameForXAtYInZ|godkänd användarnamnspost för '[X]' vid enhet '[Y]' i organisationen '[Z]'
+phrase.unitNotAttachedToAnOrganization|enheten inte är knuten till en organisation
+phrase.XAlreadyHasYInZ|[X] har redan [Y] i [Z]
+phrase.XCannotBeUsedBecauseY|[X] kan inte användas eftersom [Y]
+phrase.customerXWithEmaildomainYIsMarkedAsDeleted|kund '[X]' med e-postdomän '[Y]' är markerad som borttagen
+phrase.accountForXIsDeactivated|kontot för '[X]' är avaktiverat
+confirm.deletePosition.title|radera position
+confirm.deletePosition.msg|är du säker på att du vill ta bort den här positionen?
+confirm.deletePosition.doing|tar bort position...
+label.authorizationForXIsRevoked|auktorisation för [X] återkallas
+label.todayIsOutsidePeriod|idag är det utanför perioden
+error.cannotDeletePositionBecauseOfJobs|denna position kan inte tas bort eftersom den, eller ett av dess underordnade, används.
+phrase.cannotBeUsedBecauseX|kan inte användas eftersom [X]
+phrase.fetchFromMoodle|hämta från Moodle
+phrase.couldNotParseIdX|kunde inte tolka id '[X]'
+phrase.runningImportConfigX|kör importkonfiguration [X]
+phrase.startingDepartmentImport|startar avdelningsimport
+phrase.synchronizingPositions_job|synkroniserar positioner
+phrase.completingDepartmentImport|slutförar avdelningsimport
+phrase.importingXYDepartments|importera [X]/[Y] avdelningar
+phrase.importingUserXOfY|importerar användare [X] av [Y]
+phrase.startingUserImport|startar användarimport
+phrase.importingXUsers|importerar [X] användare
+confirm.startMoodleImport.title|importera från Moodle
+confirm.startMoodleImport.msg|är du säker på att du vill starta detta Moodle-importjobb?
+confirm.startMoodleImport.doing|börjar jobbet...
+email.m0005.subject|eBA - kraschar under Moodle-import!
+email.m0005.body|ett undantag inträffade under importen av Moodle-hyresgästen '[X]' till organisationen '[Y]':
+word.moodle|Moodle
+phrase.importUnitsAndUsersFromX|import av enheter och användare från [X]
+phrase.XImport|[X] import
+word.cancelled|inställt
+word.finish|avsluta
+word.finished|färdiga
+phrase.moodleImport|moodle import
+option.onlyWithJobs|bara med jobb
+option.onlyWithoutJobs|bara utan jobb
+phrase.deletingStructureX|tar bort strukturen '[X]'
+phrase.createMoodleImportConfig|skapa Moodle-importkonfiguration
+phrase.importConfigAlreadyExistsForOrg|en importkonfiguration för den här instansen är redan registrerad för den här organisationen
+phrase.tenantDepartmentsAndUsers|hyresgäst, avdelningar och användare
+phrase.tenantAndDepartmentsOnly|endast hyresgäst och avdelningar
+phrase.integrationType|integrationstyp
+phrase.cannotChangeIntegrationType|integrationstyp kan inte ändras!
+phrase.importFromUnit4Xml|importera från Unit4 XML
+phrase.primaryRootUnit|primär rotenhet
+phrase.unitBelongsToADifferentOrganization|enheten tillhör en annan organisation
+phrase.hubSpotJsonJob|skapa Json för HubSpot
+phrase.changedAfterDate|ändrades efter datum
+label.jsonFile|jSON-fil
+phrase.emptyHubSpotUsersResult|de nuvarande kriterierna för att skapa användare för HubSpot gav inget resultat. Detta är inte ett fel, bara ett meddelande om att ingen JSON-fil kommer att laddas ner.
+phrase.usersXToYOfZ|användare [X]-[Y] av [Z]
+phrase.noResponseObject|inget svarsobjekt mottaget!
+phrase.orphanedCustomers|föräldralösa kunder
+word.departments|avdelningar
+phrase.csvMigration|CSV-migrering
+phrase.migrateFromX|migrera från [X]
+phrase.processingUserXOfY|bearbetar användare [X] av [Y]
+phrase.startingCsvMigration|startar CSV-migrering
+phrase.migrateCsvUsersToMoodle|migrera CSV-användare till Moodle
+label.addUserToCohort|lägg till användare i kohorten
+phrase.vlUsers|KG-användare
+phrase.hubSpotUserJsonJob|skapa användaren Json för HubSpot
+phrase.hubSpotVlUserJsonJob|skapa KG-användare json för HubSpot
+phrase.addingDeletedUsers|lägga till raderade användare
+phrase.sendingJsonToHubSpot|skickar json till HubSpot
+phrase.externalJobNotEditable|det här jobbet hanteras i ett annat system och kan inte redigeras
+error.externalStructure|jobb för denna struktur hanteras utanför EBA och kan inte väljas.
+phrase.missingConfiguration|saknad konfiguration
+error.vcWebhookConfigMissing|visma Connect Webhook-konfiguration saknas i appinställningar.
+tab.mergeCustomers|slå samman kunder
+phrase.mergeCustomers|slå samman kunder
+word.do-merge|slå ihop
+phrase.moveEcourseResults|flytta kursresultat
+phrase.moveAppData|flytta appdata (årshjul, etc)
+phrase.mergingCustomersJob|sammanslagna kunder
+phrase.dryRun|torrkörning
+phrase.deleteSourceCustomers|radera källkunder
+phrase.deletingCustomerXOfY|raderar kund [X] av [Y]
+phrase.deleteSourceCustomer|ta bort källkund
+phrase.includeInactiveX|inkludera inaktiva [X]
+option.deletedRetentionXDays|vänta [X] dagar efter det senaste ändrade datumet innan kunder markeras som raderat blir anonymiserat
+option.noAccessXY|ingen åtkomst de senaste [X] månaderna eller markerade raderade utan förändringar de senaste [Y] dagar
+label.keepTempFilesForXDays|håll tillfälliga filer i [X] dagar
+phrase.cleanUpJobs|saneringsjobb
+phrase.cleanUpTempFiles|rensa upp temporära filer
+phrase.courseSharing|kursdelning
+phrase.courseSharingFromCsv|kursdelning från CSV
+word.cohorts|kohorter
+word.contents|innehåll
+word.data|data
+word.courses|kurser
+word.content|innehåll
+phrase.fetchingX|hämta [X]
+label.onlyWithoutCourseInfo|endast utan kursinformation
+label.givesLeaderPositionInGlup|ger ledar position i Moodle
+phrase.managerPositionIdNumber|manager position ddNumber
+label.givesManagerPositionInGlup|ger chefsposition i Moodle
+label.givesAdminRoleInGlup|ger administratörsroll i Moodle
+phrase.moodleImportConfigAlreadyExists|en konfiguration som riktar sig till den valda hyresgästen i den valda instansen är redan registrerad

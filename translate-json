@@ -37,7 +37,7 @@ if (process.argv.length >= 4) {
                 if(cached[0]) dicc[languageKey][cached[0]] = cached[1];
             });
         } catch (error) {
-
+            console.log("COULD NOT OPEN CACHE FILE!", error);
         }
     }
     const cachedIndex = (key, value, languageKey) => {
@@ -110,7 +110,7 @@ if (process.argv.length >= 4) {
         return sum.concat(_.reduce(iterLeaves(JSON.parse(fs.readFileSync(path.join(basePath, inputFile), 'utf-8')), undefined, undefined, languageKey), (promiseChain, fn) => {
             return promiseChain.then(fn);
         }, Promise.resolve()).then((payload) => {
-            fs.writeFileSync(fileName, JSON.stringify(payload, null, 4));
+            fs.writeFileSync(fileName, JSON.stringify(payload, null, 2));
         }).then(_.partial(console.log, 'Successfully translated all nodes, file output at ' + fileName)));
     }, [])).then(() => {
         process.exit();

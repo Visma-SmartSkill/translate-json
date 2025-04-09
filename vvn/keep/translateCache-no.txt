@@ -12,7 +12,7 @@ tab.importJob|import jobb
 tab.appSettings|appInnstillinger
 tab.tracingUsernames|sporing brukernavn
 tab.importConfig|import konfig
-tab.vismaLearn|Glup
+tab.vismaLearn|visma Learning
 tab.blacklistAreas|svarteliste områder
 word.siteProductName|veilederen
 word.affiliation|tilhørighet
@@ -327,8 +327,8 @@ phrase.fromAllApplications|fra alle applikasjoner
 phrase.receivedElearnResults|mottatte kursresultater
 phrase.courseMapping|kurstilknytning
 phrase.courseMappings|kurstilknytninger
-phrase.setUseVLOnNewUsers|sett 'Bruk Glup' på nye brukere
-phrase.setUseVlOnExistingUsers|sett 'Bruk Glup' på eksisterende brukere
+phrase.setUseVLOnNewUsers|sett 'Bruk Visma Learning' på nye brukere
+phrase.setUseVlOnExistingUsers|sett 'Bruk Visma Learning' på eksisterende brukere
 phrase.courseIdMappingExists|en kurstilknytning til denne kurs-ID-en eksisterer allerede.
 phrase.courseUrlMappingExists|en kurstilknytning med denne URL-en eksisterer allerede
 phrase.startJob|start jobben
@@ -449,7 +449,8 @@ phrase.typeEmailAddress|skriv inn e-post adresse
 phrase.runTest|kjør test
 phrase.newUsername|nytt brukernavn
 phrase.onlyOwnRegistrations|kun egne registreringer
-phrase.personalData|personalia
+phrase.userReloadedDueToImport|på grunn av import har den valgte brukeren blitt lastet inn på nytt. <br> Hvis du har gjort endringer, må du gjøre dem på nytt!
+phrase.personalData|personale
 phrase.pleaseWaitCreatingCsvFile|vennligst vent, lager CSV-fil...
 phrase.pleaseWaitDeletingUsers|vennligst vent, sletter brukere...
 phrase.currentSelection|gjeldende utvalg
@@ -559,13 +560,13 @@ phrase.lastErrorDate|sist feil dato
 phrase.attemptsLastError|forsøk sist feil
 phrase.lastErrorCause|siste feilårsak
 phrase.numberOfEventsInQueue|antall hendelser i køen
-phrase.vismaLearnDataOnlyAvailableToVLUsers|Glup kundeinfo er kun tilgjengelig for VL-brukere
-phrase.vismaLearnInfo|Glup info
-phrase.vismaLearnCustomerInfo|Glup kundeinfo
-phrase.vismaLearnCourse|Glup kurs
+phrase.vismaLearnDataOnlyAvailableToVLUsers|visma Learn-data er kun tilgjengelig for VL-brukere
+phrase.vismaLearnInfo|visma Learn info
+phrase.vismaLearnCustomerInfo|visma Learn kundeinfo
+phrase.vismaLearnCourse|visma Learn kurs
 phrase.courseAffiliation|kurstilknytning
 phrase.courseAffiliations|kurstilknytninger
-phrase.courseAffiliationIngress|kurstilknytning brukes av Veilederen for å sende brukere til riktig kurs i Glup ved bruk av direkte lenker til kurs i Veilederen. Linken er basert på kurs-ID, og ​​krever at CourseId-egenskapen for alle kurslandingssidene i Veilederen er riktig satt
+phrase.courseAffiliationIngress|kurstilknytning brukes av Veilederen for å sende brukere til riktig kurs i Visma Learning ved bruk av direkte lenker til kurs i Veilederen. Linken er basert på kurs-ID, og ​​krever at CourseId-egenskapen for alle kurslandingssidene i Veilederen er riktig satt
 phrase.viewName|visningsnavn
 phrase.nothingToShow|ingenting å vise
 phrase.blacklistReportAreas|svarteliste rapportområder
@@ -789,10 +790,10 @@ confirm.exportUnitsCsv.title|eksport enheter
 confirm.exportUnitsCsv.msg|eksportere valgt enhet og dens underenheter til CSV?
 confirm.exportUnitsCsv.doing|eksporterer...
 confirm.exportUnitsToVismaLearn.title|eksportenheter
-confirm.exportUnitsToVismaLearn.msg|er du sikker på at du vil eksportere enheter til Glup?
+confirm.exportUnitsToVismaLearn.msg|er du sikker på at du vil eksportere enheter til Visma Learning?
 confirm.exportUnitsToVismaLearn.doing|eksporterer...
 confirm.exportUsersToVismaLearn.title|eksportere brukere
-confirm.exportUsersToVismaLearn.msg|er du sikker på at du vil eksportere brukere til Glup?
+confirm.exportUsersToVismaLearn.msg|er du sikker på at du vil eksportere brukere til Visma Learning?
 confirm.exportUsersToVismaLearn.doing|eksporterer brukere...
 confirm.startPpImportJob.title|begynne å importere PlusPort-avdelinger/brukere
 confirm.startPpImportJob.msg|er du sikker på at du vil starte denne jobben?
@@ -901,7 +902,7 @@ label.orgAttachment|org-tilknytning
 label.forceUnitSelection|tving enhetsvalg
 label.username|brukernavn (e-post)
 label.usernameIsEmail|brukernavn er e-post
-label.useVismaLearn|bruke Glup
+label.useVismaLearn|bruke Visma Learning
 label.canChangePassword|kan endre passord
 label.newsOptional|valgfrie nyhetsmeldinger
 label.accountEnabled|konto aktivert
@@ -979,7 +980,7 @@ jobTitle.analyticsUpdate|analytics oppdatering
 jobTitle.updateBrregUnits|oppdaterer Brreg-enheter
 jobTitle.addingFeideDomains|oppdaterer Feide domener
 jobTitle.areYouAlive|er du i live?
-jobTitle.connectProvisioning|connect provisjonering
+jobTitle.connectProvisioning|conneect provisjonering
 jobTitle.exportUsersToVismaLearn|eksportere brukere til Visma Learn
 jobTitle.exportUnitsToVismaLearn|eksportere enheter til Visma Learn
 quarter.1.name|første kvartal
@@ -1236,258 +1237,89 @@ word.manual|manuell
 error.userDefinedUnitParentMustBeOfficialOrManual|brukerdefinerte enheter kan kun opprettes under offisielle eller manuelle enheter
 error.unitsOfTypeManualCanOnlyBeAddedToManualTree|manuelle enheter kan bare legges til et manuelt hierarki
 error.unitsOfTypeXCanOnlyBeAddedToXTree|enheter av typen [X] kan bare legges til [X] hierarkier
-word.copy|kopi
-word.toCopy|kopiere
-phrase.coursePathMappingExists|en kurskobling med denne stien eksisterer allerede
-phrase.listName|liste navn
-phrase.courseList|kursliste
-phrase.courseLists|kurslister
-phrase.aCourseList|en kursliste
-phrase.vismaLearnCourseList|Glup kursliste
-phrase.baseUrl|base url
-label.coursePath|sti til kurset
-phrase.createACopy|lag en kopi
-error.ajaxErrorTitle|ajax feil
-error.ajaxErrorMessage|det oppstod en AjaxFeil.<br/><br/>HttpStatus: '[X]'<br/>Status tekst: '[Y]'
-confirm.deleteCourseList.title|slette kursliste
-confirm.deleteCourseList.msg|er du sikker på at du vil slette denne kurslisten</br>og alle dens kurstilordninger?
-confirm.deleteCourseList.doing|sletter kursliste...
-error.copyCountError|kunne ikke lage kopi. Gikk tom for mulige navn for den nye kopien.
-confirm.createCopy.title|lag en kopi
-confirm.createCopy.msg|er du sikker på at du vil lage en kopi av denne registreringen?
-confirm.createCopy.doing|oppretter kopi...
-phrase.courseIdInVismaLearn|kurs-ID i Glup
-phrase.otherCourseIds|andre kurs-IDer
-phrase.vismaLearnExport|Glup eksport
-phrase.coundNotDetermineParentUser|kunne ikke bestemme VL-bruker
-phrase.portalId|portal-ID
-phrase.portalName|portalnavn
-error.unitXAlreadyHasVLUserY|vL-bruker [Y] er allerede tilknyttet enhet [X]
-error.emailDomainRequiresOrganization|for å registrere e-postdomener, må en organisasjon også velges
-error.emailDomainAlreadyExistInAnotherOrganization|dette domenet er allerede registrert i en annen organisasjon
-phrase.emailDomainXAlreadyExistInOrganization|domenet [X] er allerede registrert på en annen VL-bruker. Vil du flytte domenet til denne brukeren?
-phrase.globalId|global ID
-phrase.captivateId|Captivate ID
-error.emailDomainXAlreadyExistInAnotherOrganization|e-postdomene [X] er allerede registrert i en annen organisasjon
-error.eloquaFormPostXError|feil under sending av data til Eloqua-skjemaet '[X]'. Systemfeil: [Y]
-phrase.unitNotConfirmed|enhet ikke bekreftet
-label.logMailsTo|loggfil e-post sendes til
-jobTitle.youniumBind|synkroniser med Younium
-phrase.disableExpiredAccounts|deaktiver utløpte kontoer
-phrase.cancelAllJobs|avbryt alle jobber
-phrase.userGotDeletedBySomeoneElse|brukeren ble slettet av en annen bruker eller jobb
-jobTitle.deleteCustomers|slette kunder
-phrase.deletingMoreThan100Customers|når mer enn 100 kunder skal slettes, startes en bakgrunnsjobb.<br/>Dette er fordi det tar litt tid å slette mange kunder
-confirm.anonymizeVlCustomer.title|anonymisere
-confirm.anonymizeVlCustomer.doing|starter slette jobben...
-option.onlyDeactivatedProducts|kun deaktiverte produkter
-option.noAccessLastXMonths|ingen tilgang siste [X] måneder
-word.anonymize|anonymisere
-confirm.anonymizeVlCustomer1.title|anonymisere og slette kunder
-confirm.anonymizeVlCustomer1.msg|er du helt sikker? Det er ingen vei tilbake!<br/>Vil du fortsette?
-confirm.anonymizeVlCustomer1.doing|starter slette jobben...
-phrase.userReloadedDueToImport|på grunn av import har den valgte kunden blitt lastet inn på nytt. <br> Hvis du har gjort endringer, må du gjøre dem på nytt!
-phrase.userReloadedDueToChange|på grunn av endringer gjort av en annen bruker eller jobb, må den valgte kunden lastes inn på nytt. <br> Hvis du har gjort endringer, må du gjøre dem på nytt!
-phrase.customerModified|kunden endret
-confirm.anonymizeVlCustomer.msg|du er i ferd med å starte en jobb som vil anonymisere og slette kunder knyttet til VL-bruker '[X]' som ikke har hatt tilgang til noen produkter de siste [Y] månedene.<br/>Denne jobben kan ikke stoppes og anonymiseringen og slettingen kan ikke reverseres.<br/>Er du sikker på at du vil anonymisere og slette kunder knyttet til denne VL-brukeren?
-label.anonymizeAfterXMonths|måneder uten tilgang før anonymisering
-label.anonymizeWarnXDaysBefore|send e-post når anonymisering om mindre enn dager
-email.m0004.subject|eBA - anonymisering nært forestående!
-email.m0004.body|anonymisering/sletting av brukere uten egen tilgang tilhørende følgende VL-brukere er nært forestående:
-dateTime.inXDaysYMinutes|om [X] dager, [Y] minutter
-email.m0004.body1|navn: [X], anonymiseringsdato: [Y][Z]
-dateTime.inXY|om [X] [Y]
-word.anonymization|anonymisering
-phrase.anonymizeX|anonymiser [X]
-phrase.anonymizingX|anonymiserer [X]
-phrase.anonymizedXCustomers|anonymiserte [X] kunder
-phrase.noAnonymizableCustomers|ingen anonymiserbare kunder
-phrase.anonymizeJobStarted|anonymiseringsjobben startet
-phrase.theJobWasCancelled|jobben ble avbrutt
-phrase.theJobRanToCompletion|jobben ble fullført
-phrase.noticeOfAnonymization|varsel om anonymisering
-tab.arbitraryNotes|notater
-word.notes|notater
-phrase.arbitraryNotes|vilkårlige notater
-word.migrate|migrere
-word.migration|migrasjon
-word.folder|mappe
-word.theFolder|mappen
-word.preparing|forbereder
-phrase.moodleExports|moodle-eksport
-phrase.finishingSendingLogfileEmail|fullfører - sender loggfil e-post
-phrase.downloadingCsvFiles|nedlasting av CSV-filer
-phrase.gettingDepartmentsFromCsv|henter avdelinger fra CSV
-phrase.preparingMoodleTenant|forbereder Moodle-tenant
-phrase.creatingMoodleOrgs|oppretter Moodle-organisasjoner
-phrase.gettingUsersFromCsv|henter brukere fra Csv
-error.cannotStartXJobItIsRunning|kan ikke starte [X] jobben fordi den allerede kjører
-phrase.migratingXUsers|migrerer [X] brukere
-phrase.migratingX|migrerer [X]
-phrase.addXNewMembersToCohort|legg til [X] nye kohortmedlemmer
-word.token|token
-word.instance|instans
-phrase.webServiceUserId|webtjeneste bruker id
-phrase.sharedAreaId|delt område id
-phrase.adminRoleId|administratorrolle id
-phrase.employeePositionIdNumber|ansatt-stilling idnummer
-phrase.leaderPositionIdNumber|leder-stilling idnummer
-phrase.moodleInstance|Moodle instans
-error.noMessageReceivedFromServer|ingen melding mottatt fra serveren.
-error.serverError|serverfeil
-error.couldNotParseIdX|kunne ikke tolke id '[X]'
-confirm.deleteMoodleInstance.title|slett Moodle instans
-confirm.deleteMoodleInstance.msg|er du sikker på at du vil slette denne instansen?
-confirm.deleteMoodleInstance.doing|sletter instans...
-abbr.webServiceUserId|WS usr id
-abbr.sharedAreaId|S.A id
-abbr.adminRoleId|admrolle id
-abbr.leaderPositionIdNumber|lederst idNumber
-abbr.employeePositionIdNumber|ansattst idnummer
-word.do-migrate|migrer
-phrase.migrateXToMoodle|migrer [X] til Moodle
-phrase.tenantName|tenant navn
-phrase.tenantIdNumber|tenant idNumber
-phrase.siteName|nettstedets navn
-phrase.siteShortName|nettstedets korte navn
-phrase.departmentRootIsTenantIdNumber|avdelingskode er tenant-idNumber
-phrase.plusPortPortalId|plusPort portal id
-phrase.plusPortDepartmentCode|plusPort avdelingskode
-error.couldNotLoadFileX|kunne ikke laste filen '[X]'
-phrase.bulkMigrate|bulk migrere
-phrase.bulkMigration|bulk migrasjon
-phrase.courseAllocation|kurstildeling
-phrase.nothingToDo|ingenting å gjøre
-phrase.migratingCourseAllocations|migrering av kurstildelinger
-phrase.allocationXOfY|tildeling [X] av [Y]
-error.noRootVlUserFound|en rot VL-bruker må være knyttet til organisasjonen før underliggende VL-brukere kan knyttes til enheter!
-phrase.deletingOrphanedJobs|sletter foreldreløse jobber
-phrase.deletingOrphanedDepartments|sletter foreldreløse avdelinger
-word.position|posisjon
-word.positions|posisjoner
-word.positions_job|stillinger
-word.position_job|stilling
-word.do-export|eksporter
-word.do-import|importer
-phrase.automaticallyAddedXForY|automatisk lagt til [X] for [Y]
-phrase.XAlreadyHasYAtZ|[X] har allerede [Y] ved [Z].
-error.couldNotCreateMoodleApi|kunne ikke opprette Moodle API-forekomst.
-error.moodleConfigLacksExternalId|kan ikke bruke valgt moodle-forekomst fordi konfigurasjonen mangler ekstern id.
-confirm.deleteUserPosition.title|slett jobb
-confirm.deleteUserPosition.msg|er du sikker på at du vil slette denne jobben?
-confirm.deleteUserPosition.doing|sletter jobb...
-confirm.removeUserOrganization.title|fjerne kunden fra organisasjonen
-confirm.removeUserOrganization.msg|fjerning av kunden fra organisasjonen vil også permanent slette alle jobber og produkter som er tildelt kunden innenfor den gitte organisasjonen.\n\nEr du sikker på at du vil fjerne kunden fra organisasjonen?
-confirm.removeUserOrganization.doing|fjerner kunden fra organisasjonen...
-warn.privateProductsWarning|nOTER: Her kan KUN private produkter legges til. Private produkter har kun effekt dersom vedkommende logger inn som en privatperson. Dersom vedkommende logger inn i en organisasjon, vil kun produkter lagt til for organisasjonen gjelde. Produkter per organisajson finner du under fanen Organisajoner.
-phrase.primaryPosition|primær stilling
-error.mustSetDifferentPrimaryJobBeforeDelete|dette er en primær jobb og kan ikke slettes fordi det ikke kan gjettes hvilken av de gjenværende jobbene som skal være den primære. Merk en annen jobb som primær før du sletter denne jobben.
-phrase.unitNotInAvailableOrganizations|denne enheten tilhører en organisasjon som ikke er tilgjengelig for denne brukeren
-phrase.usingAuthorizedUsernameForXAtYInZ|bruker godkjent brukernavn for '[X]' ved enhet '[Y]' i organisasjonen '[Z]'
-phrase.privatePerson|privat person
-error.userAlreadyAttachedToOrganizationX|brukeren er allerede knyttet til organisasjonen [X]
-label.canAccessWithoutJobs|Gi tilgang uten jobber
-phrase.newXY|ny [X] [Y]
-phrase.XForYInZAlreadyExists|[X] for [Y] finnes allerede i [Z]
-phrase.XForYAtZAlreadyExists|[X] for [Y] eksisterer allerede ved [Z]
-phrase.thisPosition_job|denne stillingen
-phrase.authorizedUsernameForXAtYInZ|godkjent brukernavnoppføring for '[X]' ved enhet '[Y]' i organisasjonen '[Z]'
-phrase.unitNotAttachedToAnOrganization|enhet er ikke knyttet til en organisasjon
-phrase.XAlreadyHasYInZ|[X] har allerede [Y] i [Z]
-phrase.XCannotBeUsedBecauseY|[X] kan ikke brukes fordi [Y]
-phrase.customerXWithEmaildomainYIsMarkedAsDeleted|kunde '[X]' med e-postdomene '[Y]' er merket som slettet
-phrase.accountForXIsDeactivated|kontoen for '[X]' er deaktivert
-confirm.deletePosition.title|slette stilling
-confirm.deletePosition.msg|er du sikker på at du vil slette denne stillingen?
-confirm.deletePosition.doing|sletter stilling...
-label.authorizationForXIsRevoked|autorisasjon for [X] er tilbakekalt
-label.todayIsOutsidePeriod|i dag er det utenfor perioden
-error.cannotDeletePositionBecauseOfJobs|denne stillingen kan ikke slettes fordi den, eller en av dens underordnede, er i bruk.
-phrase.cannotBeUsedBecauseX|kan ikke brukes fordi [X]
-phrase.fetchFromMoodle|hent fra Moodle
-phrase.couldNotParseIdX|kunne ikke tolke id '[X]'
-phrase.runningImportConfigX|kjører importkonfigurasjon [X]
-phrase.startingDepartmentImport|starter avdeling import
-phrase.synchronizingPositions_job|synkronisere posisjoner
-phrase.completingDepartmentImport|fullfører avdelingsimport
-phrase.importingXYDepartments|importerer [X]/[Y] avdelinger
-phrase.importingUserXOfY|importerer bruker [X] av [Y]
-phrase.startingUserImport|starter brukerimport
-phrase.importingXUsers|importerer [X] brukere
-confirm.startMoodleImport.title|importer fra Moodle
-confirm.startMoodleImport.msg|er du sikker på at du vil starte denne Moodle-importjobben?
-confirm.startMoodleImport.doing|starter jobben...
-email.m0005.subject|eBA - krasj under Moodle-import!
-email.m0005.body|et unntak skjedde under import av Moodle-tenant '[X]' til organisasjonen '[Y]':
-word.moodle|Moodle
-phrase.importUnitsAndUsersFromX|import av enheter og brukere fra [X]
-phrase.XImport|[X] import
-word.cancelled|avbrutt
-word.finish|fullfør
-word.finished|fullført
-phrase.moodleImport|moodle import
-option.onlyWithJobs|kun med jobber
-option.onlyWithoutJobs|kun uten jobb
-phrase.deletingStructureX|sletter strukturen '[X]'
-phrase.createMoodleImportConfig|opprett Moodle-importkonfig
-phrase.importConfigAlreadyExistsForOrg|en importkonfigurasjon for denne instansen er allerede registrert for denne organisasjonen
-phrase.tenantDepartmentsAndUsers|tenant, avdelinger og brukere
-phrase.tenantAndDepartmentsOnly|kun tenant og avdelinger
-phrase.integrationType|integrasjonstype
-phrase.cannotChangeIntegrationType|integrasjonstype kan ikke endres!
-phrase.importFromUnit4Xml|import fra Unit4 XML
-phrase.primaryRootUnit|primær rotenhet
-phrase.unitBelongsToADifferentOrganization|enheten tilhører en annen organisasjon
-phrase.hubSpotJsonJob|opprette Json for HubSpot
-phrase.changedAfterDate|endret etter dato
-label.jsonFile|jSON-fil
-phrase.emptyHubSpotUsersResult|de nåværende kriteriene for å opprette brukere for HubSpot ga ingen resultater. Dette er ikke en feil, bare et varsel om at ingen JSON-fil vil bli lastet ned.
-phrase.usersXToYOfZ|brukere [X]-[Y] av [Z]
-phrase.noResponseObject|intet svarobjekt mottatt!
-phrase.orphanedCustomers|foreldreløse kunder
-word.departments|avdelinger
-phrase.csvMigration|CSV-migrering
-phrase.migrateFromX|migrere fra [X]
-phrase.processingUserXOfY|behandler bruker [X] av [Y]
-phrase.startingCsvMigration|starter CSV-migrering
-phrase.migrateCsvUsersToMoodle|migrere CSV-brukere til Moodle
-label.addUserToCohort|legg til bruker i kohort
-phrase.vlUsers|VL-brukere
-phrase.hubSpotUserJsonJob|oppretter bruker Json for HubSpot
-phrase.hubSpotVlUserJsonJob|oppretter VL-user json for HubSpot
-phrase.addingDeletedUsers|legger til slettede brukere
-phrase.sendingJsonToHubSpot|sender json til HubSpot
-phrase.externalJobNotEditable|denne jobben administreres i et annet system, og kan ikke redigeres
-error.externalStructure|jobber for denne strukturen administreres utenfor EBA og kan ikke velges.
-phrase.missingConfiguration|manglende konfigurasjon
-error.vcWebhookConfigMissing|visma Connect Webhook-konfigurasjon mangler i appinnstillinger.
-tab.mergeCustomers|slå sammen kunder
-phrase.mergeCustomers|slå sammen kunder
-word.do-merge|slå sammen
-phrase.moveEcourseResults|flytte kursresultater
-phrase.moveAppData|flytte appdata (årshjul osv.)
-phrase.mergingCustomersJob|sammenslåing av kunder
-phrase.dryRun|testkjøring
-phrase.deleteSourceCustomers|slette kildekunder
-phrase.deletingCustomerXOfY|sletter kunde [X] av [Y]
-phrase.deleteSourceCustomer|slett kildekunde
-phrase.includeInactiveX|inkludere inaktive [X]
-option.deletedRetentionXDays|vent [X] dager etter sist endret dato før kunder merket som slettet blir anonymisert
-option.noAccessXY|ingen tilgang de siste [X] måneder eller markert slettet uten endringer de siste [Y] dagene
-label.keepTempFilesForXDays|Behold midlertidige filer i [X] dager
-phrase.cleanUpJobs|oppryddingsjobber
-phrase.cleanUpTempFiles|rydd opp midlertidige filer
-phrase.courseSharing|kursdeling
-phrase.courseSharingFromCsv|kursdeling fra CSV
-word.cohorts|kohorter
-word.contents|innhold
-word.data|data
-word.courses|kurs
+phrase.missingX|mangler [X]
+phrase.XIsMissing|[X] mangler
+word.webinar|webinar
+word.encyclopedia|oppslagsverk
+phrase.dontX|ikke [X]
+phrase.trainingPackage|opplæringspakke
+confirm.saveUnsaved.title|lagre endringer
+confirm.saveUnsaved.msg|det finnes ulagrede endringer! Vil du lagre dem?
+confirm.saveUnsaved.doing|lagrer endringer...
+confirm.saveYearwheel.title|lagre årshjul
+confirm.saveYearwheel.msg|vil du lagre dette årshjulet?
+confirm.saveYearwheel.doing|lagrer årshjul...
+confirm.createYearwheel.title|lage årshjul
+confirm.createYearwheel.msg|vil du lage et nytt årshjul?
+confirm.createYearwheel.doing|skaper årshjul...
+confirm.deleteYearwheel.title|slett årshjul
+confirm.deleteYearwheel.msg|er du sikker på at du vil slette dette årshjulet?
+confirm.deleteYearwheel.doing|sletter årshjul...
+confirm.downloadYearwheelPdf.title|last ned som PDF
+confirm.downloadYearwheelPdf.msg|laste ned dette årshjulet som en PDF-fil?
+confirm.downloadYearwheelPdf.doing|vennligst vent, oppretter PDF-fil...
+yearwheel.newList|ny liste
+yearwheel.heading|overskrift
+yearwheel.sectorIcon|sektorikon
+yearwheel.err.noContent.title|intet innhold
+yearwheel.err.noContent.msg|dette årshjulet er tomt, og kan derfor ikke largres
+quarter.q1.name|første kvartal
+quarter.q1.abbr|q1
+quarter.q2.name|andre kvartal
+quarter.q2.abbr|q2
+quarter.q3.name|tredje kvartal
+quarter.q3.abbr|q3
+quarter.q4.name|fjerde kvartal
+quarter.q4.abbr|q4
+tertial.t1.name|første trimester
+tertial.t2.name|andre trimester
+tertial.t3.name|tredje trimester
+word.yearwheel|årshjul
+phrase.createXAs|opprett [X] som
+word.add|legg til
+word.pdf|PDF
+word.lists|lister
+phrase.downloadAsX|last ned som [X]
+yearwheel.createNew|opprett nytt årshjul
+yearwheel.viewHtml|vis HTML
+yearwheel.viewEditmode|vis redigeringsmodus
+word.heading|overskrift
+word.paragraph|avsnitt
+yearwheel.addHeading|legg til overskrift
+yearwheel.addParagraph|legg til avsnitt
+yearwheel.addDropzone|legg til slippområde
+yearwheel.addBulletList|legg til punktliste
+yearwheel.newParagraph|nytt avsnitt
+yearwheel.newHeading|ny overskrift
+yearwheel.newBullet|nytt punkt
+yearwheel.bulletX|punkt [X]
+phrase.saveXAs|lagre [X] som
+yearwheel.listElements|liste elementer
+word.reset|nullstill
+word.link|lenke
+phrase.newParagraph|nytt avsnitt
+phrase.newTitle|ny tittel
+phrase.newHeading|ny overskrift
+word.element|element
+word.elements|elementer
+phrase.noDataFound|ingen data funnet
+word.loading|laster
+word.big|stor
+word.medium|medium
+word.small|liten
+phrase.textSize|tekststørrelse
+phrase.reflectionMaterial|refleksjonsmateriale
 word.content|innhold
-phrase.fetchingX|henter [X]
-label.onlyWithoutCourseInfo|kun uten kursinfo
-label.givesLeaderPositionInGlup|gir leder-stilling i Glup
-phrase.managerPositionIdNumber|Ansvarlig-stilling idnumber
-label.givesManagerPositionInGlup|gir manager-stilling i glup
-label.givesAdminRoleInGlup|gir administrator rolle i Glup
-phrase.moodleImportConfigAlreadyExists|en konfigurasjon rettet mot valgt tenant i valgt instans er allerede registrert
+yearwheel.updatingLists|oppdaterer lister
+phrase.insertX|sett inn [X]
+phrase.linkText|lenketekst
+word.insert|sett inn
+phrase.saveAs|lagre som
+word.yearwheels|årshjul
+word.template|mal
+word.templates|maler
+phrase.fromX|fra [X]
+yearwheel.yourWheel|årshjulet ditt
+yearwheel.yourWheels|dine årshjul
+yearwheel.createFromTemplate|opprett årshjul fra mal
+word.copy|kopi

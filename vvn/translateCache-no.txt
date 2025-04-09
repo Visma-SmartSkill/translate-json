@@ -1331,3 +1331,28 @@ phrase.legalSource|rettskilde
 phrase.privateSector|privat sektor
 error.invalidSearchExpression|du har angitt et ugyldig søkeuttrykk
 error.noSearchExpression|du må skrive inn noe å søke etter
+word.default|forvalgt
+word.empty|tom
+yearwheel.resizableImage|bilde som kan endres størrelse
+yearwheel.backgrounds.default|hjul med måneder
+yearwheel.backgrounds.blueEmpty|Tom blå
+yearwheel.images.emptyWheel|tomt hjul
+yearwheel.images.wheelWithMonths|hjul med måneder
+yearwheel.images.staircaseEmployees|trapper
+yearwheel.preview|forhåndsvisning
+word.image|bilde
+word.background|bakgrunn
+word.success|suksess
+phrase.userCreated|bruker opprettet
+phrase.subjectMissing|emne mangler
+phrase.personalUserCreated|brukeren din ble opprettet. Du vil snart motta en e-post med instruksjoner om hvordan du aktiverer brukeren din
+phrase.trialUserCreated|prøvebrukeren er opprettet. Du vil snart motta en e-post med instruksjoner om hvordan du aktiverer brukeren din
+yearwheel.newYearwheel|nytt årshjul
+yearwheel.noYearwheelContentFound|ingen årshjul-HTML lagret
+word.foreground|forgrunnen
+phrase.noVismaAppsFound|ingen apper funnet
+phrase.chooseSector|velg sektor
+yearwheel.images.productLogo|veilederen logo
+yearwheel.images.productIcon|veilederen icon
+phrase.includeInactiveUsers|inkluder inaktive brukere
+
