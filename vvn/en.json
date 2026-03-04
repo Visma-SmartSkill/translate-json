@@ -1050,7 +1050,8 @@
     "userXDoesNotExistInEBA": "user '[X]' does not exist in EBA",
     "onlyVlUsersCanHaveCrmLinks": "CRM links can only be registered for VL-users",
     "invalidSearchExpression": "you have given an invalid search expression",
-    "noSearchExpression": "you must enter something to search for"
+    "noSearchExpression": "you must enter something to search for",
+    "genericSearchError": "an error happened during search"
   },
   "userMessages": {
     "msg0000": "an unknown error occurred. If the problem persists, contact us for a quick solution.",

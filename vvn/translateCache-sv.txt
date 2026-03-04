@@ -1355,4 +1355,4 @@ phrase.chooseSector|välj sektor
 yearwheel.images.productLogo|smartskill logo
 yearwheel.images.productIcon|smartskill ikon
 phrase.includeInactiveUsers|inkludera inaktiva användare
-
+error.genericSearchError|ett fel inträffade under sökningen

@@ -683,11 +683,6 @@ quarter.4.abbr|cZK
 tertial.1.name|första trimestern
 tertial.2.name|andra trimestern
 tertial.3.name|tredje trimestern
-csv.delimiter|cSV-avgränsare
-csv.separator|cSV-avgränsare
-csv.delimiterMustBeOneChar|cSV-avgränsare kan bara innehålla ett tecken.
-csv.separatorMustBeOneChar|cSV-avgränsare kan bara innehålla ett tecken.
-csv.file|cSV-fil
 csv.error.0000|inkonsekvent data, användarnamn '[X]' visas flera gånger i filen med olika data
 csv.error.0001|affär med orgno '[X]' hittades inte
 csv.error.0002|avdelnings-ID tillhandahålls, men inget organisationsnummer för företag
@@ -755,7 +750,6 @@ error.norwegianMunicipalitiesNotUpdated|norska kommuner och län uppdaterades in
 error.cannotStartJobBecauseAnotherIsRunning|kan inte starta import - ett annat importjobb körs redan
 error.errorDuringExport|ett fel uppstod under exporten
 error.receivedWebhookWithoutId|fått webhook-samtal utan ID!?
-error.invalidWebhookId|ogiltigt webhook-ID
 error.secretKeyNotFound|hittade ingen hemlig nyckel
 error.messageCouldNotBeValidated|meddelandet kunde inte valideras
 error.ipFormatError|iP måste innehålla fyra heltal separerade med '.'. Till exempel: 192.168.0.1
@@ -1401,7 +1395,6 @@ confirm.deletePosition.title|radera position
 confirm.deletePosition.msg|är du säker på att du vill ta bort den här positionen?
 confirm.deletePosition.doing|tar bort position...
 label.authorizationForXIsRevoked|auktorisation för [X] återkallas
-label.todayIsOutsidePeriod|idag är det utanför perioden
 error.cannotDeletePositionBecauseOfJobs|denna position kan inte tas bort eftersom den, eller ett av dess underordnade, används.
 phrase.cannotBeUsedBecauseX|kan inte användas eftersom [X]
 phrase.fetchFromMoodle|hämta från Moodle
@@ -1491,3 +1484,26 @@ phrase.managerPositionIdNumber|manager position ddNumber
 label.givesManagerPositionInGlup|ger chefsposition i Moodle
 label.givesAdminRoleInGlup|ger administratörsroll i Moodle
 phrase.moodleImportConfigAlreadyExists|en konfiguration som riktar sig till den valda hyresgästen i den valda instansen är redan registrerad
+word.warnings|varningar
+word.errors|fel
+phrase.XAndY|[X] och [y]
+phrase.sendLogfilesOn|skicka LogFile vid
+phrase.useJobSetting|använd jobbinställning
+word.always|alltid
+phrase.todayIsOutsidePeriod|idag är utanför perioden
+tab.mergeAndOrDeleteCustomers|slå samman och/eller ta bort kunder
+word.execute|utföra
+phrase.changeUsernameIfNoToUser|ändra användarnamn för källkund om målkunden inte finns
+phrase.setPrimarySectorJob|fastställa primärsektor
+tab.setPrimarySectorsFromCsv|ställ in primära sektorer från CSV
+phrase.overwriteKnownSector|skriv över känd primärsektor
+tab.diverseCsvOperations|olika CSV-operationer
+csv.quotationMark|cSV-citatmärke
+csv.quotationMarkMustBeOneChar|cSV-citatmärke kan endast innehålla ett tecken.
+csv.separator|cSV-separator
+csv.separatorMustBeOneChar|cSV-separator kan endast innehålla ett tecken.
+csv.file|cSV fil
+error.invalidWebhookIdX|ogiltig webhook -id: '[X]'
+error.cannotChangeUserCategory|kan inte ändra användarkategori på befintliga kunder.
+phrase.includeDeactivatedAccounts|inkludera inaktiverade konton
+phrase.overrideInheritedSector|åsidosätta ärvd sektor

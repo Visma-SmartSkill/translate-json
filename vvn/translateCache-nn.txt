@@ -3,7 +3,7 @@ dateTime.thousandsSep|.
 dateTime.year|år
 dateTime.years|år
 dateTime.month|månad
-dateTime.months|månadar
+dateTime.months|månader
 dateTime.week|veke
 dateTime.weeks|veker
 dateTime.fortnight|14 dagar
@@ -17,7 +17,7 @@ dateTime.hours|timar
 dateTime.minute|minutt
 dateTime.minutes|minutt
 dateTime.second|sekund
-dateTime.seconds|sekunder
+dateTime.seconds|sekund
 dateTime.current|inneverande
 dateTime.fixedDate|fast dato
 dateTime.abbr.time|kl:
@@ -70,28 +70,28 @@ dateTime.monthNamesShort.8|sep
 dateTime.monthNamesShort.9|okt
 dateTime.monthNamesShort.10|nov
 dateTime.monthNamesShort.11|des
-dateTime.error.parseError|Kunne ikkje tolke dato. Bruk ddmmåååå, dd.mm.åååå eller dd/mm/åååå
+dateTime.error.parseError|Kunne ikkje tolka dato. Bruk ddmmåååå, dd.mm.åååå eller dd/mm/åååå
 dateTime.error.parseErrors.dmy|bruk dd mmm åååå, dd.mm.åååå eller dd/mm/åååå
 dateTime.error.parseErrors.mdy|bruk mmddyyyy, mm.dd.yyyy eller mm/dd/yyyy
 dateTime.error.parseErrors.ymd|bruk yyyyddmm, yyyy.dd.mm eller yyyy/dd/mm
-dateTime.error.xMustBeNumeric|[X] må vere eit tal
+dateTime.error.xMustBeNumeric|[X] må vera eit tal
 dateTime.error.inputHasWrongLength|Dato formatet har feil lengd. Bruk ddmmåååå, dd.mm.åååå eller dd/mm/åååå
-dateTime.error.yearMustHave4Digits|årstalet må vere anten 2 eller 4 siffer
-dateTime.error.monthMustBeBetween1And12|månad må vere eit tal mellom 1 og 12
-dateTime.error.dayCannotBeZero|dag kan ikkje vere 0
-dateTime.error.dateCanNotBeLessThanX|datoen kan ikkje vere mindre enn [X]
-dateTime.error.dateCanNotBeGreaterThanX|datoen kan ikkje vere større enn [X]
+dateTime.error.yearMustHave4Digits|årstalet må vera anten 2 eller 4 siffer
+dateTime.error.monthMustBeBetween1And12|månad må vera eit tal mellom 1 og 12
+dateTime.error.dayCannotBeZero|dag kan ikkje vera 0
+dateTime.error.dateCanNotBeLessThanX|datoen kan ikkje vera mindre enn [X]
+dateTime.error.dateCanNotBeGreaterThanX|datoen kan ikkje vera større enn [X]
 dateTime.error.xMonthHasOnlyYDays|[X] månad har berre [Y] dagar
-dateTime.error.pleaseEnterDate|ver vennleg og skriv inn ein dato
-dateTime.error.pleaseEnterTime|angi eit tidspunkt
+dateTime.error.pleaseEnterDate|vennlegast skriv inn ein dato
+dateTime.error.pleaseEnterTime|oppgi eit tidspunkt
 dateTime.error.invalidTime|ugyldig tid
-dateTime.error.timeMustBeNumeric|tidspunkt kan berre innehalde tal
+dateTime.error.timeMustBeNumeric|tidspunkt kan berre innehalda tal
 dateTime.error.yearIsMissing|år manglar
 dateTime.error.monthIsMissing|månad manglar
 dateTime.error.dayIsMissing|dag manglar
-dateTime.error.dayMustBeANumber|dag må vere eit tal
-dateTime.error.monthMustBeANumber|månad må vere eit tal
-dateTime.error.yearMustBeANumber|år må vere eit tal
+dateTime.error.dayMustBeANumber|dag må vera eit tal
+dateTime.error.monthMustBeANumber|månad må vera eit tal
+dateTime.error.yearMustBeANumber|år må vera eit tal
 tab.start|start
 tab.customers|kundar
 tab.units|einingar
@@ -111,12 +111,16 @@ tab.blacklistAreas|svarteliste område
 tab.crmLinks|CRM-koplingar
 tab.soExport|superOffice eksport
 word.add|legg til
+word.background|bakgrunn
+word.foreground|forgrunnen
 word.siteProductName|Veilederen
-word.affiliation|tilhørighet
+word.affiliation|tilhøyrsel
 word.address|adresse
 word.application|applikasjon
 word.applications|applikasjonar
 word.accumulated|akkumulert
+word.default|forvalt
+word.empty|tom
 word.postalNumber|postnummer
 word.postalPlace|poststad
 word.businessAddress|forretningsadresse
@@ -126,12 +130,12 @@ word.elements|element
 word.close|lukk
 word.copy|kopi
 word.read|les
-word.toRead|lese
+word.toRead|lesa
 word.write|skriv
-word.toWrite|skrive
+word.toWrite|skriva
 word.delete|slett
 word.toDelete|slette
-word.deleting|sletter
+word.deleting|slettar
 word.deleted|sletta
 word.save|lagra
 word.ok|ok
@@ -150,7 +154,7 @@ word.addition|tillegg
 word.all|alle
 word.administrator|administrator
 word.capability|evne
-word.capabilities|evner
+word.capabilities|evnar
 word.configuration|konfigurasjon
 word.configurations|konfigurasjonar
 word.category|kategori
@@ -158,16 +162,16 @@ word.customer|kunde
 word.customers|kundar
 word.customerNumber|kundenummer
 word.owner|eigaren
-word.details|detaljer
+word.details|detaljar
 word.file|fil
 word.area|område
-word.change|forandr
+word.change|endre
 word.aChange|endring
 word.changes|endringar
 word.search|søk
-word.description|skildring
+word.description|beskriving
 word.warning|åtvaring
-word.access|tilgjenge
+word.access|tilgang
 word.product|produkt
 word.products|produkt
 word.event|hending
@@ -200,12 +204,13 @@ word.code|kode
 word.marketingGroups|marknadsføringsgrupper
 word.right|rett
 word.error|feil
+word.success|suksess
 word.url|url
 word.none|ingen
 word.registration|registrering
 word.business|verksemd
 word.department|avdeling
-word.user|bruk
+word.user|bruker
 word.users|brukarar
 word.unit|eining
 word.units|einingar
@@ -216,7 +221,7 @@ word.id|id
 word.importConfiguration|import konfigurasjon
 word.webhook|webhook
 word.webhooks|webhooks
-word.uri|uri
+word.uri|urI
 word.active|aktiv
 word.activated|aktivert
 word.deactivated|deaktivert
@@ -225,7 +230,7 @@ word.thisRight|denne retten
 word.additions|tillegg
 word.import|import
 word.charset|teiknsett
-word.perform|utføre
+word.perform|utføra
 word.performing|utfører
 word.start|start
 word.job|jobb
@@ -266,7 +271,7 @@ word.countryCode|landskode
 word.subject|emne
 word.emailTemplate|e-postmal
 word.emailTemplates|e-postmålar
-word.edit|forandr
+word.edit|endre
 word.date|dato
 word.key|nøkkel
 word.value|verdi
@@ -279,9 +284,9 @@ word.week|veke
 word.weeks|veker
 word.quarter-period|kvartal
 word.quarters-period|kvartal
-word.confirmed|stadfeste
+word.confirmed|stadfesta
 word.root|rot
-word.continue|halde fram
+word.continue|halda fram
 word.create|opprett
 word.toCreate|opprettar
 word.new|ny
@@ -290,7 +295,7 @@ word.ignored|ignorert
 word.ignoring|ignorerer
 word.important|viktig
 word.quarantine|karantene
-word.nothing|ikkje noko
+word.nothing|ingenting
 word.subunit|undereining
 word.subunits|undereiningar
 word.parent|overordna
@@ -299,13 +304,13 @@ word.errorCode|feilkode
 word.status|status
 word.info|info
 word.eba|eBA
-word.do-use|bruke
+word.do-use|bruka
 word.expected|forventa
-word.expecting|forventar
+word.expecting|ventar
 word.year|år
 word.years|år
 word.month|månad
-word.months|månadar
+word.months|månader
 word.day|dag
 word.days|dagar
 word.type|type
@@ -318,7 +323,7 @@ word.hours|timar
 word.minute|minutt
 word.minutes|minutt
 word.second|sekund
-word.seconds|sekunder
+word.seconds|sekund
 word.total|totalt
 word.views|visningar
 word.percentage|prosentdel
@@ -332,7 +337,7 @@ word.encyclopedia|oppslagsverk
 word.yearwheel|årshjul
 word.yearwheels|årshjul
 word.pdf|PDF
-word.lists|lister
+word.lists|listar
 word.reset|nullstill
 word.link|lenkje
 word.loading|lastar
@@ -341,34 +346,37 @@ word.medium|medium
 word.small|liten
 word.insert|set inn
 word.template|mal
-word.templates|malar
+word.templates|målar
+word.podcast|podkast
+word.image|bilete
 phrase.appSettings|appinnstillingar
 phrase.areYouSure|er du sikker?
-phrase.addUser|legg til bruk
+phrase.addUser|legg til brukar
 phrase.addNew|legg til ny
 phrase.allIsFine|alt er ok
 phrase.brregUnit|brreg eining
 phrase.officialUnit|offisiell eining
-phrase.userDefined|brukerdefinert
+phrase.userDefined|brukardefinert
+phrase.userCreated|brukar oppretta
 phrase.logIn|logg Inn
 phrase.loggedIn|logga inn
 phrase.lastLoggedIn|sist pålogga
-phrase.numberOfLogins|talet på pålogginger
-phrase.noLogins|ingen pålogginger
+phrase.numberOfLogins|talet på påloggingar
+phrase.noLogins|ingen påloggingar
 phrase.personNotFoundInVismaConnect|personen finst ikkje i Visma Connect
-phrase.cannotAddToVismaConnect|kan ikkje leggje til i Visma Connect
+phrase.cannotAddToVismaConnect|kan ikkje leggja til i Visma Connect
 phrase.logOut|logg ut
-phrase.do-export|eksporter
-phrase.do-import|importer
+phrase.do-export|eksportar
+phrase.do-import|importar
 phrase.sendDiplomaToLearner|send kursbevis til kursdeltakar
 phrase.sendQuizReceivedToLearner|send svar motteke til quizdeltakar
 phrase.sendingEmailFailed|sending av e-post mislykkast
 phrase.resourceName|ressursnamn
 phrase.externalId|ekstern id
-phrase.thisId|denne ID'ein
+phrase.thisId|denne ID-en
 phrase.thisOrganizationalNumber|dette organisasjonsnummeret
 phrase.thisUnit|denne eininga
-phrase.thisExternalId|denne eksterne IDA'ein
+phrase.thisExternalId|denne eksterne ID-en
 phrase.extenralId|ekstern ID
 phrase.thisUnitIsControlledByBrreg|denne eininga eksisterer allereie og er under kontroll av Brreg
 phrase.thisAuthorizedUsername|dette godkjende brukarnamnet
@@ -381,7 +389,7 @@ phrase.theRegistration|registreringa
 phrase.ebaUser|eBA bruker
 phrase.ebaUsers|eBA-brukere
 phrase.beApproved|blir godkjent
-phrase.beChanged|blir forandra
+phrase.beChanged|blir endra
 phrase.anApproval|ei godkjenning
 phrase.anAction|eit handling
 phrase.aUnit|ei eining
@@ -390,45 +398,45 @@ phrase.variousErrors|diverse feil
 phrase.noSuchUser|ingen slik bruker
 phrase.noSuchUserOrWrongPassword|ingen slik bruker, eller feil passord
 phrase.orgnoXAlreadyUpdated|ogno [X] er allereie oppdatert
-phrase.orgXHasNoVLUser|organisasjonen '[X]' har ingen tilknytta VL-brukar
-phrase.ignoringDeletedUnitWithOrgnoX|ignorerer sletta eining med orgno '[X]'
-phrase.processingXY|behandlar [X] '[Y]'
+phrase.orgXHasNoVLUser|organisasjonen ’[X]’ har ingen tilknytt VL-brukar
+phrase.ignoringDeletedUnitWithOrgnoX|ignorerer sletta eining med orgno ’[X]’
+phrase.processingXY|behandlar [X] ’[Y]’
 phrase.registered|registrert
 phrase.registeredXByY|registrert [X] av [Y]
 phrase.editedXByY|redigert [X] av [Y]
-phrase.changedX|forandra [X]
+phrase.changedX|endra [X]
 phrase.removedX|fjerna [X]
 phrase.removingX|fjernar [X]
 phrase.xRemoved|[X] fjerna
 phrase.deleteX|slett [X]
-phrase.deleteXY|slett [X] '[Y]'
+phrase.deleteXY|slett [X] ’[Y]’
 phrase.deleteXPermanently|slett [X] permanent
 phrase.deletedXPermanently|sletta [X] permanent
-phrase.restoredX|retta opp igjen [X]
+phrase.restoredX|gjenoppretta [X]
 phrase.deletedX|sletta [X]
-phrase.deletingX|sletter [X]
+phrase.deletingX|slettar [X]
 phrase.addedX|la til [X]
 phrase.notFound|ikkje funnet
 phrase.xNotFound|[X] ikkje funnet
-phrase.xNotMarkedDeleted|[X] ikkje merkte som sletta
+phrase.xNotMarkedDeleted|[X] ikkje merka som sletta
 phrase.isRegistered|er registrert
-phrase.tryUnlinkUserIdX|forsøk å kople frå bruker-ID '[X]'
-phrase.userWasUnlinked|brukaren blei frakoblet
-phrase.couldNotFindVismaConnectLoginInfo|kunne ikkje finne Visma Connect logininfo
+phrase.tryUnlinkUserIdX|forsøk å kopla frå brukar-ID ’[X]’
+phrase.userWasUnlinked|brukaren vart fråkopla
+phrase.couldNotFindVismaConnectLoginInfo|kunne ikkje finna Visma Connect logininfo
 phrase.keepCurrentSetting|behald gjeldande innstilling
-phrase.userFoundInVismaConnectTryUnlink|bruk funnet i Visma Connect - prøv å kople frå
-phrase.userDoesNotExistInVismaConnect|bruk finst ikkje i Visma Connect
+phrase.userFoundInVismaConnectTryUnlink|bruker funnet i Visma Connect - prøv å kopla frå
+phrase.userDoesNotExistInVismaConnect|bruker finst ikkje i Visma Connect
 phrase.approvedUsernames|godkjende brukarnamn
-phrase.addToVismaConnect|leggje til i Visma Connect
-phrase.attachedUsers|tilknytta brukarar
+phrase.addToVismaConnect|leggja til i Visma Connect
+phrase.attachedUsers|tilknytte brukarar
 phrase.currentConfiguration|gjeldande konfigurasjon
 phrase.roleProduct|rolle/produkt
 phrase.rolesProducts|roller/produkt
-phrase.canAssign|kan tildele
-phrase.shortDescription|kort skildring
+phrase.canAssign|kan tildela
+phrase.shortDescription|kort beskriving
 phrase.logFile|loggfil
 phrase.userCategory|brukarkategori
-phrase.selfRegistered|selvregistrert
+phrase.selfRegistered|sjølvregistrert
 phrase.primarySector|primær sektor
 phrase.expiresDate|går ut dato
 phrase.quarantineUntil|karantene til
@@ -445,14 +453,14 @@ phrase.productAccess|produkttilgang
 phrase.productCode|produktkode
 phrase.productGroup|produktgruppe
 phrase.shortName|kort namn
-phrase.pleaseWait|ver vennleg og vent
+phrase.pleaseWait|vennlegast vent
 phrase.customerDetails|kundedetaljar
 phrase.customerImport|kundeimport
-phrase.importPlusPortDepartments|importere Plusport-avdelingar
+phrase.importPlusPortDepartments|importera Plusport-avdelingar
 phrase.importUnitsAndUsers|import av einingar og brukarar
-phrase.googleAnalytics|google Analytics
+phrase.googleAnalytics|googla Analytics
 phrase.vismaConnect|visma Connect
-phrase.userNotCreated|bruk ikkje oppretta
+phrase.userNotCreated|brukar ikkje oppretta
 phrase.newCustomer|ny kunde
 phrase.newProduct|nytt produkt
 phrase.newProductRole|nytt produkt/rolle
@@ -462,43 +470,43 @@ phrase.newHeading|ny overskrift
 phrase.rootUnit|rotenhet
 phrase.userAccess|brukartilgang
 phrase.vlUser|vL-bruker
-phrase.unitType|typen i eining
+phrase.unitType|einings type
 phrase.webhookId|webhook-ID
 phrase.webhookJob|webhook jobb
 phrase.webhookCall|webhook-samtale
 phrase.unsupportedWebhookFunction|ikkje støtta webhook-funksjon
-phrase.verifyToken|stadfeste token
+phrase.verifyToken|stadfesta token
 phrase.secretKey|hemmeleg nøkkel
 phrase.fromAllApplications|frå alle applikasjonar
 phrase.receivedElearnResults|mottekne kursresultat
 phrase.courseMapping|kurstilknyting
 phrase.courseMappings|kurstilknytingar
-phrase.setUseVLOnNewUsers|sett 'Bruk Visma Learning' på nye brukarar
-phrase.setUseVlOnExistingUsers|sett 'Bruk Visma Learning' på eksisterande brukarar
+phrase.setUseVLOnNewUsers|sett ’Bruk Visma Learning’ på nye brukarar
+phrase.setUseVlOnExistingUsers|sett ’Bruk Visma Learning’ på eksisterande brukarar
 phrase.courseIdMappingExists|ei kurstilknyting til denne kurs-ID-en eksisterer allereie.
 phrase.courseUrlMappingExists|ei kurstilknyting med denne URL-en eksisterer allereie
 phrase.startJob|start jobben
-phrase.startTheJob|starte jobben
+phrase.startTheJob|starta jobben
 phrase.startingJob|startar jobb
 phrase.startingUnitImport|startar import av eining
-phrase.couldNotStartJobBecauseX|kunne ikkje starte jobben. Jobbstartar sa: [X]
-phrase.doYouWantToStartJobNow|vil starte denne jobben no?
+phrase.couldNotStartJobBecauseX|kunne ikkje starta jobben. Jobbstartar sa: [X]
+phrase.doYouWantToStartJobNow|vil starta denne jobben no?
 phrase.startTheXJob|start [X]jobben
 phrase.xJobStarted|starta [X]jobben
-phrase.chosenCustomerIsDeleted|den valde kunden ser ut til å ha blitt sletta av ein annan brukar
+phrase.chosenCustomerIsDeleted|den valde kunden ser ut til å ha vorte sletta av ein annan brukar
 phrase.savingDataFromBrreg|lagrar data frå Brreg
 phrase.xExists|[X] eksisterer
-phrase.xUpdatedSuccessfully|[X] blei oppdatert
+phrase.xUpdatedSuccessfully|[X] vart oppdatert
 phrase.registrationExists|registrering eksisterer
 phrase.rightExists|rett eksisterer
 phrase.roleExists|rolle eksisterer
 phrase.capabilityExists|evne finst
 phrase.productExists|produktet finst
-phrase.productRoleIsAlreadyAdded|produktet/rolla er allereie lagt til
-phrase.groupIsAlreadyAdded|denne gruppa er allereie lagt til
-phrase.capabilityIsAlreadyAdded|denne evenen er allereie lagt til
+phrase.productRoleIsAlreadyAdded|produktet/rolla er allereie lagd til
+phrase.groupIsAlreadyAdded|denne gruppa er allereie lagd til
+phrase.capabilityIsAlreadyAdded|denne evenen er allereie lagd til
 phrase.thisProductIsAlreadyAdded|dette produktet er allereie lagt til.
-phrase.importJobWasStarted|importjobben blei starta
+phrase.importJobWasStarted|importjobben vart starta
 phrase.pleaseChoose|ver vennleg og vel
 phrase.pleaseChooseAFile|ver vennleg og vel ei fil
 phrase.chooseExportType|vel eksporttype
@@ -507,12 +515,12 @@ phrase.searchForX|søk etter [X]
 phrase.searchOnX|søk på [X]
 phrase.exportX|eksportar [X]
 phrase.createX|opprett [X]
-phrase.createXY|opprett [X] '[Y]'
+phrase.createXY|opprett [X] ’[Y]’
 phrase.addX|legg til [X]
-phrase.editX|forandr [X]
-phrase.editXY|forandr [X] '[Y]'
-phrase.xYDoesNotExist|[X] '[Y]' eksisterer ikkje
-phrase.xYDoesNotExistInZ|[X] '[Y]' finst ikkje i [Z]
+phrase.editX|endre [X]
+phrase.editXY|endre [X] ’[Y]’
+phrase.xYDoesNotExist|[X] ’[Y]’ eksisterer ikkje
+phrase.xYDoesNotExistInZ|[X] ’[Y]’ finst ikkje i [Z]
 phrase.chooseX|vel [X]
 phrase.createNewX|opprett ny [X]
 phrase.chosenX|valt [X]
@@ -523,9 +531,9 @@ phrase.noXFound|ingen [X] funnet
 phrase.validFrom|gyldig frå
 phrase.validTo|gyldig til
 phrase.xIgnored|[X] ignorert
-phrase.noXWithIdYFound|ingen [X] med id [Y] funnet
+phrase.noXWithIdYFound|ingen [X] med id [Y] funne
 phrase.noXWithYFound|ingen [X] med [Y] funnet
-phrase.noXChosen|ingen [X] valt
+phrase.noXChosen|ingen [X] valde
 phrase.forX|for [X]
 phrase.orgLevel|org-nivå
 phrase.noXForYFound|ingen [X] for [Y] funnet
@@ -536,14 +544,14 @@ phrase.lookingForParentUnitForX|ser etter overordna eining for [X]
 phrase.unitXHasNewParentUnitY|eininga [X] har ny overordna eining [Y]
 phrase.parentForX|overordna for [X]
 phrase.parentForXIsY|overordna for [X] er [Y]
-phrase.couldNotDeleteX|kunne ikkje slette [X]
+phrase.couldNotDeleteX|kunne ikkje sletta [X]
 phrase.pleaseChooseX|ver vennleg og vel [X]
 phrase.xMandatory|[X] må fyllast ut
-phrase.xMustBeGreaterY|[X] må vere større enn [Y]
-phrase.xMustBeGreaterOrEqualY|[X] må vere større enn eller lik [Y]
-phrase.xMustBeLessY|[X] må vere mindre enn [Y]
-phrase.xMustBeLessOrEqualY|[X] må vere mindre enn eller lik [Y]
-phrase.aXWasAttachedtoBY|[A] '[X]' blei kopla til [B] '[Y]'
+phrase.xMustBeGreaterY|[X] må vera større enn [Y]
+phrase.xMustBeGreaterOrEqualY|[X] må vera større enn eller lik [Y]
+phrase.xMustBeLessY|[X] må vera mindre enn [Y]
+phrase.xMustBeLessOrEqualY|[X] må vera mindre enn eller lik [Y]
+phrase.aXWasAttachedtoBY|[A] ’[X]’ vart kopla til [B] ’[Y]’
 phrase.newX|ny [X]
 phrase.xMissing|[X] manglar
 phrase.noXIsSelected|ingen [X] er valde
@@ -566,15 +574,15 @@ phrase.xAlreadyExistsInY|[X] finst allereie i [Y]
 phrase.xIsAlreadyY|[X] er allereie [Y]
 phrase.xIsNotAvailable|[X] er ikkje tilgjengeleg
 phrase.xIsAlreadyInUse|[X] er allereie i bruk
-phrase.removingExistingUserXPermanently|sletter eksisterande bruk '[X]' permanent
+phrase.removingExistingUserXPermanently|sletter eksisterande bruker ’[X]’ permanent
 phrase.thisUsername|dette brukarnamnet
 phrase.thisName|dette namnet
 phrase.thisSector|denne sektoren
 phrase.withXY|med [X] [Y]
-phrase.xY|[X] '[Y]'
+phrase.xY|[X] ’[Y]’
 phrase.xForY|[X] for [Y]
 phrase.noXProvided|ingen [X] oppgitt
-phrase.noXForYIsProvided|ingen [X] for [Y] er gitt opp
+phrase.noXForYIsProvided|ingen [X] for [Y] er oppgitt
 phrase.thisXCannotYBecauseZ|denne [X] kan ikkje [Y] fordi [Z]
 phrase.xCannotYBecauseZ|[X] kan ikkje [Y] fordi [Z]
 phrase.xForUserY|[X] for bruker [Y]
@@ -582,14 +590,14 @@ phrase.itAlreadyXByY|det allereie [X] av [Y]
 phrase.ownerOfXHasY|eigar av [X] har [Y]
 phrase.xIsLocatedY|[X] er plassert [Y]
 phrase.inADifferentX|i ein annan [X]
-phrase.invalidXY|ugyldig [X] '[Y]'
+phrase.invalidXY|ugyldig [X] ’[Y]’
 phrase.lineX|linje [X]
-phrase.movedToUnitXFromY|flytte til eining '[X]', var '[Y]'
+phrase.movedToUnitXFromY|flytta til eining ’[X]’, var ’[Y]’
 phrase.updateSwedishMunicipalities|oppdater svenske kommunar
-phrase.updateMunicipalities|oppdatere kommunar
+phrase.updateMunicipalities|oppdatera kommunar
 phrase.startBrregUnitUpdate|start brreg-oppdatering
 phrase.removeUnusedTrialAccounts|fjerne ubrukte prøvekontoar
-phrase.removeExpiredTrialAccounts|fjerne utløpte prøvekontoar
+phrase.removeExpiredTrialAccounts|fjerne utgåtte prøvekontoar
 phrase.updateFeideDomains|oppdater Feide domene
 phrase.turnsTheJobOnOrOff|slår jobben på eller av
 phrase.numberOfUsersPerTransaction|talet på brukarar per transaksjon
@@ -598,60 +606,60 @@ phrase.typeEmailAddress|skriv inn e-post adresse
 phrase.runTest|køyr test
 phrase.newUsername|nytt brukarnamn
 phrase.onlyOwnRegistrations|berre eigne registreringar
-phrase.userReloadedDueToImport|på grunn av import har den valde brukaren blitt lasta inn på nytt.Viss du har gjort endringar, må du gjere dei på nytt!
+phrase.userReloadedDueToImport|på grunn av import har den valde brukaren vorte lasta inn på nytt. <br> Om du har gjort endringar, må du gjera dei på nytt!
 phrase.personalData|personale
-phrase.pleaseWaitCreatingCsvFile|ver vennleg og vent, lagar CSV-fil.
-phrase.pleaseWaitDeletingUsers|ver vennleg og vent, sletter brukarar.
+phrase.pleaseWaitCreatingCsvFile|ver vennleg og vent, lagar CSV-fil...
+phrase.pleaseWaitDeletingUsers|vennlegast vent, slettar brukarar...
 phrase.currentSelection|gjeldande utval
-phrase.pleaseWaitDeleting|ver vennleg og vent, sletter.
+phrase.pleaseWaitDeleting|vennlegast vent, slettar...
 phrase.onlyDeletedUsers|berre sletta brukarar
-phrase.onlyShowsDeletedUsers|viser berre brukarar merkt som sletta
+phrase.onlyShowsDeletedUsers|viser berre brukarar merkte som sletta
 phrase.onlyShowsSelfregisteredUsers|viser berre brukarar som har oppretta sin eigen konto
 phrase.thisCustomerIsMarkedAsDeleted|denne kunden er merkt som sletta
-phrase.onlyIpUsers|berre IP-brukarar
-phrase.ipUsersAndLogins|iP-brukere og pålogginger
-phrase.onlyLogins|berre pålogginger
-phrase.onlyShowsIpUsers|viser berre brukarar der ei IP-adresse er registrert
-phrase.currentWithIpSharing|noverande med IP-deling
-phrase.onlyShowsCurrentWithIpSharing|viser berre brukarar registrert med IP som overlappar andre brukarar
-phrase.allWithIpSharing|alle med IP-deling
+phrase.onlyIpUsers|berre Ip-brukarar
+phrase.ipUsersAndLogins|iP-brukere og påloggingar
+phrase.onlyLogins|berre påloggingar
+phrase.onlyShowsIpUsers|viser berre brukarar der ei Ip-adresse er registrert
+phrase.currentWithIpSharing|noverande med Ip-deling
+phrase.onlyShowsCurrentWithIpSharing|viser berre brukarar registrerte med IP som overlappar andre brukarar
+phrase.allWithIpSharing|alle med Ip-deling
 phrase.onlyShowsAllWithIpSharing|viser berre brukarar som er registrerte med, eller har hatt, IP som overlappar andre brukarar.
 phrase.onlyUsersWithSamePrimarySector|berre brukarar med same primærsektor
-phrase.onlySelfregistered|berre selvregistrert
-phrase.onlyShowSelfregistered|viser berre selvregistrerte brukarar
+phrase.onlySelfregistered|berre sjølvregistrert
+phrase.onlyShowSelfregistered|viser berre sjølvregistrerte brukarar
 phrase.onlyShowProducts|vis berre produkt
-phrase.onlyShowRoles|vis berre rollar
-phrase.createdBySys|oppretta av (blir sytt)
+phrase.onlyShowRoles|vis berre roller
+phrase.createdBySys|oppretta av (blir sydd)
 phrase.accountStatus|konto status
-phrase.accountConfirmed|konto stadfeste
-phrase.accountConfirmedStatus|konto stadfeste status
+phrase.accountConfirmed|konto stadfesta
+phrase.accountConfirmedStatus|konto stadfesta status
 phrase.accountActive|konto aktiv
 phrase.lastUse|sist bruk
 phrase.afterDate|etter dato
 phrase.beforeDate|før dato
-phrase.lastChanged|sist forandra
+phrase.lastChanged|sist endra
 phrase.ipAddress|iP adresse
 phrase.resetSearch|tilbakestill søk
 phrase.deleteCurrentSelection|slette gjeldande val
 phrase.areYouAlive|er du i live?
 phrase.workRelation|arbeidsforhold
-phrase.statusMyPage|status Min Side
+phrase.statusMyPage|status #Min Side
 phrase.availableBasedOnProducts|tilgjengeleg basert på produkttilgang
 phrase.shouldReceiveNewsFor|bør få nyheiter for
 phrase.gettingData|hentar data
 phrase.gettingContent|hentar innhald
-phrase.selfregisteredTrialUser|selvregistrert prøvebruk
-phrase.selfregisteredUser|selvregistrert bruker
+phrase.selfregisteredTrialUser|sjølvregistrert prøvebrukar
+phrase.selfregisteredUser|sjølvregistrert brukar
 phrase.infoEmail|info e-post
-phrase.restoreCustomer|rett opp igjen kunde
+phrase.restoreCustomer|gjenopprett kunde
 phrase.deleteCustomer|slett kunde
 phrase.deleteCustomerPermanently|slett kunden permanent
-phrase.editCustomer|forandr kunde
-phrase.foundXCustomersToDeletePermanently|fann [X] kundar å slette permanent
-phrase.chooseTheExportTypeYouWant|vel typen eksport du vil gjere
+phrase.editCustomer|endre kunde
+phrase.foundXCustomersToDeletePermanently|fann [X] kundar å sletta permanent
+phrase.chooseTheExportTypeYouWant|vel typen eksport du vil gjera
 phrase.chooseAndImportFile|vel og importer fil
-phrase.importCustomers|importere kundar
-phrase.changeXmlContent|redigere XML-innhald
+phrase.importCustomers|importera kundar
+phrase.changeXmlContent|redigera XML-innhald
 phrase.logLevel|loggnivå
 phrase.logClass|logg klasse
 phrase.courseTable|kurstabell
@@ -664,8 +672,8 @@ phrase.fromIp|frå IP
 phrase.forwardedFor|vidaresendt for
 phrase.sectorId|sektor-ID
 phrase.originalContent|originalt innhald
-phrase.copyToModified|kopiar til forandra
-phrase.modifiedContent|forandra innhald
+phrase.copyToModified|kopiar til endra
+phrase.modifiedContent|endra innhald
 phrase.csvExport|cSV-eksport
 phrase.courseTaker|kurstakar
 phrase.startGAUpdateJobFromFile|start oppdateringsjobb (frå fil)
@@ -678,10 +686,12 @@ phrase.xHasThisProduct|[X] har dette produktet
 phrase.selectAtLeastOneSector|vel minst éin sektor
 phrase.yearToDate|så langt dette året
 phrase.chooseYear|vel år
+phrase.chooseSector|vel sektor
 phrase.chooseSector-s|vel sektor(er)
-phrase.unaffiliatedRootUnits|ikke-tilknyttede rotenheter
-phrase.includeSubunits|inkludere undereiningar
-phrase.includeIpCoop|inkludere IP-samarbeid
+phrase.unaffiliatedRootUnits|ikkje-tilknytte rotenheter
+phrase.includeSubunits|inkludera undereiningar
+phrase.includeIpCoop|inkludera Ip-samarbeid
+phrase.includeInactiveUsers|inkluder inaktive brukarar
 phrase.postalAddress|postadresse
 phrase.numberOfEmployees|mengd tilsette
 phrase.foundedDate|stiftet dato
@@ -691,25 +701,25 @@ phrase.creatingAnnualOverview|lagar årleg oversikt
 phrase.noPropertiesSelected|ingen eigenskapar er valde
 phrase.vismaConnectId|visma Connect ID
 phrase.createdDate|oppretta dato
-phrase.emailVerified|e-post stadfeste
-phrase.emailVerifiedDate|e-post stadfeste dato
+phrase.emailVerified|e-post stadfesta
+phrase.emailVerifiedDate|e-post stadfesta dato
 phrase.preferredLanguage|føretrekt Språk
 phrase.plainText|rein tekst
-phrase.editEmailTemplate|redigere e-postmal
-phrase.sendToUser|send til bruk
-phrase.noEmailTemplatesRegisteredInVismaConnect|ingen e-postmålar registrert i Visma Connect
-phrase.noEmailTemplateNamedXFoundInVismaConnect|det finst ingen e-postmal ved namn '[X]' i Visma Connect
+phrase.editEmailTemplate|redigera e-postmal
+phrase.sendToUser|send til brukar
+phrase.noEmailTemplatesRegisteredInVismaConnect|ingen e-postmålar registrerte i Visma Connect
+phrase.noEmailTemplateNamedXFoundInVismaConnect|det finst ingen e-postmal ved namn ’[X]’ i Visma Connect
 phrase.vismaConnectReturned|visma Connect returnerte
-phrase.emailToUserXWithTemplateYSuccessfullySent|e-post til bruk '[X]' med mal '[Y]' sendt utan feil
-phrase.usernameXDoesNotExistInVismaConnect|brukarnamn '[X]' finst ikkje i Visma Connect
-phrase.foundMultipleUsersWithEmailX|fann fleire brukarar med e-post '[X]'
+phrase.emailToUserXWithTemplateYSuccessfullySent|e-post til bruker ’[X]’ med mal ’[Y]’ send utan feil
+phrase.usernameXDoesNotExistInVismaConnect|brukarnamn ’[X]’ finst ikkje i Visma Connect
+phrase.foundMultipleUsersWithEmailX|fann fleire brukarar med e-post ’[X]’
 phrase.findUser|finn bruker
 phrase.lookupUsernameInVismaConnect|oppslag brukarnamn i Visma Connect
-phrase.lookupUserByExternalLogin|oppslagsbruk basert på eksterne påloggingsdata frå EBA
+phrase.lookupUserByExternalLogin|oppslagsbrukar basert på eksterne påloggingsdata frå EBA
 phrase.updatedDate|oppdatert dato
 phrase.lastEventDate|sist hending dato
 phrase.lastErrorDate|sist feil dato
-phrase.attemptsLastError|forsøk sist feil
+phrase.attemptsLastError|prøv sist feil
 phrase.lastErrorCause|siste feilårsak
 phrase.numberOfEventsInQueue|talet på hendingar i køen
 phrase.vismaLearnDataOnlyAvailableToVLUsers|visma Learn-data er berre tilgjengeleg for VL-brukarar
@@ -718,10 +728,10 @@ phrase.vismaLearnCustomerInfo|visma Learn kundeinfo
 phrase.vismaLearnCourse|visma Learn kurs
 phrase.courseAffiliation|kurstilknyting
 phrase.courseAffiliations|kurstilknytingar
-phrase.courseAffiliationIngress|
+phrase.courseAffiliationIngress|kurstilknyting blir brukt av Veilederen for å senda brukarar til rett kurs i Visma Learning ved bruk av direkte lenkjer til kurs i Veilederen. Linken er basert på kurs-ID, og ​​krev at Courseid-eigenskapen for alle kurslandingssidene i Veilederen er riktig sett
 phrase.viewName|visningsnamn
-phrase.nothingToShow|ikkje noko å vise
-phrase.noDataFound|ingen data funne
+phrase.nothingToShow|ingenting å visa
+phrase.noDataFound|ingen data funnet
 phrase.blacklistReportAreas|svarteliste rapportområde
 phrase.notSelected|ikkje valt
 phrase.courseId|kurs-ID
@@ -735,22 +745,22 @@ phrase.noChanges|ingen endringar
 phrase.isNotAffiliatedWithAnyUnit|er ikkje knytt til noka eining
 phrase.foundNewParentUserX|fann ny overordna brukar [X]
 phrase.deactivatedOrMarkedDeleted|deaktivert eller merket som sletta
-phrase.usingAuthorizedUsernameForX|bruk godkjent-brukernavn oppføring for [X]
+phrase.usingAuthorizedUsernameForX|bruker godkjend-brukarnamn oppføring for [X]
 phrase.theUser|brukaren
 phrase.authorizedUsername|godkjent brukarnamn
-phrase.deltedAuthorizedUsernameX|sletta godkjent-brukernavn oppføring '[X]'
-phrase.successfullyChangedUsernameFromXToY|vellykka endring brukarnamn '[X]' -> '[Y]'
+phrase.deltedAuthorizedUsernameX|sletta godkjend-brukarnamn oppføring ’[X]’
+phrase.successfullyChangedUsernameFromXToY|vellykka endring brukarnamn ’[X]’ -> ’[Y]’
 phrase.becauseEmailDomainIsSharedByXVLUsers|fordi e-postdomene blir delt av [X] VL-brukarar
-phrase.deletingAuthorizedUsernameXBecauseItsAuthorizedByOrgEmailDomain|sletter godkjent brukarnamn [X] fordi det no blir godkjent av e-postdomenet til organisasjonen
+phrase.deletingAuthorizedUsernameXBecauseItsAuthorizedByOrgEmailDomain|slettar godkjent brukarnamn [X] fordi det no blir godkjent av e-postdomenet til organisasjonen
 phrase.notSet|ikkje sat
 phrase.registrationDate|registreringsdato
-phrase.changedByUser|forandra av bruk
-phrase.modifiedDate|forandra dato
-phrase.canChangePassword|kan forandre passord
+phrase.changedByUser|endra av brukar
+phrase.modifiedDate|endra dato
+phrase.canChangePassword|kan endra passord
 phrase.userAccount|brukarkonto
 phrase.userRegistrations|brukarregistreringar
 phrase.validFromToDate|gyldig frå/til dato
-phrase.isSetToX|er sett til '[X]'
+phrase.isSetToX|er sett til ’[X]’
 phrase.invalidX|ugyldig [X]
 phrase.detectedChanges|endringar oppdaga
 phrase.numberOfChanges|talet på endringar
@@ -762,26 +772,26 @@ phrase.elrReturnedX|eLearnReception returnerte [X]
 phrase.elrApiCallFailed|eLearnReception API-kall mislykkast
 phrase.courseResult|kursresultat
 phrase.quizResult|quizresultat
-phrase.pleaseEnterAValue|ver vennleg og angi ein verdi
-phrase.xMustBeAnInteger|[X] må vere eit heiltal
-phrase.userNotAuthorized|bruk ikkje autorisert
-phrase.cannotDelete|kan ikkje slette
+phrase.pleaseEnterAValue|vennlegast oppgi ein verdi
+phrase.xMustBeAnInteger|[X] må vera eit heiltal
+phrase.userNotAuthorized|brukar ikkje autorisert
+phrase.cannotDelete|kan ikkje sletta
 phrase.insufficientData|utilstrekkelege data
-phrase.doConfirmUnit|stadfeste eining
+phrase.doConfirmUnit|stadfesta eining
 phrase.xSaved|[X] lagra
-phrase.jobQueued|jobb lagt i kø
+phrase.jobQueued|jobb lagd i kø
 phrase.theJobIsAlreadyRunning|jobben køyrer allereie
 phrase.theJobIsNotActivated|jobben er ikkje aktivert
 phrase.theJobStarted|jobben starta
 phrase.startXExport|start [X]eksport
-phrase.couldNotParseDate|kunne ikkje tolke dato
-phrase.couldNotParseValueForX|kunne ikkje tolke verdien for [X]
-phrase.xCannotBeNull|[X] kan ikkje vere NULL
-phrase.xHasNoPropertyY|[X] har ingen eigenskap '[Y]'
+phrase.couldNotParseDate|kunne ikkje tolka dato
+phrase.couldNotParseValueForX|kunne ikkje tolka verdien for [X]
+phrase.xCannotBeNull|[X] kan ikkje vera NÜLL
+phrase.xHasNoPropertyY|[X] har ingen eigenskap ’[Y]’
 phrase.downloadX|last ned [X]
 phrase.unknownValue|ukjend verdi
-phrase.affiliatedWithChosenUnit|knytte til vald eining
-phrase.affiliatedWithChosenOrASubunit|knytte til vald eining/undereining
+phrase.affiliatedWithChosenUnit|tilknytt vald eining
+phrase.affiliatedWithChosenOrASubunit|tilknytt vald eining/undereining
 phrase.othersInChosenUnitsOrganization|andre i den valt organisasjonen i eininga
 phrase.notAffiliatedWithChosenUnit|ikkje knytte til vald eining
 phrase.notAffiliatedWithAnyUnit|ikkje knytte til noka eining
@@ -792,10 +802,10 @@ phrase.allowAndKeep|tillat og behald
 phrase.allowAndRemoveX|tillat og fjern [X]
 phrase.allowAndKeepX|tillat og behald [X]
 phrase.allowAndRemoveProduct|tillat og fjern produktet
-phrase.allowAndKeepProduct|tillat og behalde produktet
+phrase.allowAndKeepProduct|tillat og behalda produktet
 phrase.notAllowed|ikkje tillate
-phrase.reloadLocaleFile|last språkfilen på nytt
-phrase.dragProduct/RoleToAdd|DRA ROLLA/PRODUKT TIL LISTE OVER FOR Å LEGG TIL
+phrase.reloadLocaleFile|last språkfila på nytt
+phrase.dragProduct/RoleToAdd|DRA ROLLE/PRODUKT TIL LISTE OVER FOR Å LEGG TIL
 phrase.completedEcourses|E-kurs bestått
 phrase.showInfo|vis info
 phrase.numberOf|talet på
@@ -813,24 +823,24 @@ phrase.backToX|tilbake til [X]
 phrase.print|skriv ut
 phrase.resetZoom|tilbakestill zoom
 phrase.resetZoomToX|tilbakestill zoom til [X]
-phrase.lockedByUserX|låst av bruk [X]
+phrase.lockedByUserX|låst av bruker [X]
 phrase.ignoringNewVismaConnectUser|ny brukar i Visma Connect - ignorerer
 phrase.phoneNumber|telefonnummer
 phrase.noChangesInEBAData|ingen endringar i EBA-data
 phrase.ourAppNotIncluded|appen vår ikkje inkludert
 phrase.deletingNotPerformed|sletting ikkje utført
 phrase.noPayload|inga nyttelast
-phrase.sendXMail|send '[X]' e-post
-phrase.xSuccessfullySendt|[X] blei sendt
+phrase.sendXMail|send ’[X]’ e-post
+phrase.xSuccessfullySendt|[X] vart sendt
 phrase.sendingXFailed|sending av [X] mislykkast
 phrase.systemMessage|systemmelding
-phrase.trackCustomerX|spor kunde '[X]'
+phrase.trackCustomerX|spor kunde ’[X]’
 phrase.crmLink|CRM-kopling
 phrase.crmLinks|CRM-koplingar
 phrase.aCrmLink|ei CRM-kopling
 phrase.customerCardId|kundekort-ID
 phrase.anAlternative|eit alternativ
-phrase.googleDriveFolder|google Drive mappe
+phrase.googleDriveFolder|googla Drive mappe
 phrase.jobConfig|jobb konfig
 phrase.missingX|manglar [X]
 phrase.xIsMissing|[X] manglar
@@ -838,30 +848,39 @@ phrase.dontX|ikkje [X]
 phrase.trainingPackage|opplæringspakke
 phrase.createXAs|opprett [X] som
 phrase.downloadAsX|last ned som [X]
-phrase.saveAs|lagra som
-phrase.saveXAs|lagra [X] som
+phrase.saveAs|lagre som
+phrase.saveXAs|lagre [X] som
 phrase.textSize|tekststorleik
 phrase.reflectionMaterial|refleksjonsmateriale
 phrase.insertX|set inn [X]
 phrase.linkText|lenkjetekst
 phrase.fromX|frå [X]
+phrase.subjectArticle|fagleg artikkel
+phrase.linkToPage|lenkje til side
+phrase.encyclopedia/chapter|oppslagsverk/kapittel
+phrase.legalSource|rettskjelde
+phrase.privateSector|privat sektor
+phrase.subjectMissing|emne manglar
+phrase.personalUserCreated|brukaren din vart oppretta. Du vil snart få ein e-post med instruksjonar om korleis du aktiverer brukaren din
+phrase.trialUserCreated|prøvebrukaren er oppretta. Du vil snart få ein e-post med instruksjonar om korleis du aktiverer brukaren din
+phrase.noVismaAppsFound|ingen appar funne
 highcharts.accessibility.axis.xAxisDescriptionPlural|diagrammet har {numAxes} X-aksar som viser {
-highcharts.accessibility.axis.xAxisDescriptionSingular|diagrammet har 1 X-akse som viser {namn[0}.
+highcharts.accessibility.axis.xAxisDescriptionSingular|diagrammet har 1 X-akse som viser {namn[0]}.
 highcharts.accessibility.axis.yAxisDescriptionPlural|diagrammet har {numAxes} Y-aksar som viser {
-highcharts.accessibility.axis.yAxisDescriptionSingular|diagrammet har 1 Y-akse som viser {namn[0}.
+highcharts.accessibility.axis.yAxisDescriptionSingular|diagrammet har 1 Y-akse som viser {namn[0]}.
 highcharts.accessibility.exporting.chartMenuLabel|diagrameksport
 highcharts.accessibility.exporting.exportRegionLabel|diagrameksport meny
 highcharts.accessibility.exporting.menuButtonLabel|vis eksportmeny
 highcharts.contextButtonTitle|diagram meny
 highcharts.downloadCSV|last ned CSV
 highcharts.downloadXLS|last ned XLS
-highcharts.downloadJPEG|last ned som JPEG-bilete
+highcharts.downloadJPEG|last ned som Jpeg-bilete
 highcharts.downloadPDF|last ned som PDF-dokument
 highcharts.downloadPNG|last ned som PNG-bilete
 highcharts.downloadSVG|last ned som SVG-bilete
 productSector.healthCare.name|helse og omsorg
-productSector.healthCare.code|HOE
-productSector.school.name|skole
+productSector.healthCare.code|HO
+productSector.school.name|skule
 productSector.school.code|SK
 productSector.kindergarten.name|barnehage
 productSector.kindergarten.code|BH
@@ -886,13 +905,13 @@ userCategory.vlUser|vL-bruker
 userCategory.other|andre
 email.bestRegards|med vennleg helsing EBA
 email.m0001.subject|eBA - fatal feil ved endring av brukarnamn på Visma-konto
-email.m0001.body|bruk [X] forandra brukarnamnet til Visma-kontoen sin til [Y]. Men brukarnamnet [Y] er allereie i bruk! MÅ HANDTERAST MANUELT!!
+email.m0001.body|bruker [X] endra brukarnamnet til Visma-kontoen sin til [Y]. Men brukarnamnet [Y] er allereie i bruk! MÅ HANDTERAST MANUELT!!
 email.m0002.subject|eBA - rolle/produkt fjerna på grunn av endring av Visma-konto brukarnamn
-email.m0002.body1|bruk forandra brukarnamn for Visma-kontoen sin frå [X] til [Y].
-email.m0002.body2|ingen ny organisasjon blei funnen for det nye brukarnamnet, og følgjande blei fjerna frå brukaren:
-email.m0002.body3|dette medførte byte av organisasjon, og følgjande blei fjerna frå brukaren:
+email.m0002.body1|bruker endra brukarnamn for Visma-kontoen sin frå [X] til [Y].
+email.m0002.body2|ingen ny organisasjon vart funnen for det nye brukarnamnet, og følgjande vart fjerna frå brukaren:
+email.m0002.body3|dette medførte byte av organisasjon, og følgjande vart fjerna frå brukaren:
 email.m0003.subject|eBA - rolle/produkt fjerna på grunn av endring av verksemd
-email.m0003.body|bruk [X] miste følgjande rolle/produkt ved endring av verksemd frå [Y] til [Z]
+email.m0003.body|bruker [X] mista følgjande rolle/produkt ved endring av verksemd frå [Y] til [Z]
 quarter.q1.name|første kvartal
 quarter.q1.abbr|q1
 quarter.q2.name|andre kvartal
@@ -906,229 +925,232 @@ tertial.t2.name|andre trimester
 tertial.t3.name|tredje trimester
 csv.delimiter|cSV-skilletegn
 csv.separator|cSV-separator
-csv.delimiterMustBeOneChar|cSV-skilletegn kan berre innehalde eit teikn.
-csv.separatorMustBeOneChar|cSV-skilletegn kan berre innehalde eit teikn.
+csv.delimiterMustBeOneChar|cSV-skilletegn kan berre innehalda eitt teikn.
+csv.separatorMustBeOneChar|cSV-skilletegn kan berre innehalda eitt teikn.
 csv.file|cSV-fil
-csv.error.0000|inkonsistente data, brukarnamn '[X]' opptrer fleire gongar i fila med ulike data
-csv.error.0001|fann ikkje verksemd med orgno '[X]'
-csv.error.0002|avdelings-ID er oppgitt, men ikkje organisasjonsnummer for verksemd
-product.addCapabilitiesIngress|leggje til evner for gjeldande produkt/rolle
-product.addDelegatableIngress|leggje til produkt/roller som innehavaren av gjeldande produkt/rolle kan tildele andre
-product.addGroupsIngress|leggje til EPISERVER-grupper. Grupper kontrollerer tilgangen til innhald i EPiServer
+csv.error.0000|inkonsistente data, brukarnamn ’[X]’ opptrer fleire gonger i fila med ulike data
+csv.error.0001|fann ikkje verksemd med orgno ’[X]’
+csv.error.0002|avdeling-ID er oppgitt, men ikkje organisasjonsnummer for verksemd
+product.addCapabilitiesIngress|leggja til evner for gjeldande produkt/rolle
+product.addDelegatableIngress|leggja til produkt/roller som innehavaren av gjeldande produkt/rolle kan tildela andre
+product.addGroupsIngress|leggja til Episerver-grupper. Grupper kontrollerer tilgangen til innhald i EPiServer
 product.dragCapability|DRA KAPABILITET TIL LISTE FOR Å LEGGJA TIL
 product.dragGroup|DRA GRUPPE TIL LISTE FOR Å LEGG TIL
-product.additionalProducts|tilleggsprodukt/rollar
-product.addProductsIngress|leggje til produkt/rollar som skal inkluderast i gjeldande produkt/rolle
-product.cannotContainSelf|produkt/rolle kan ikkje innehalde seg sjølv
+product.additionalProducts|tilleggsprodukt/roller
+product.addProductsIngress|leggja til produkt/roller som skal inkluderast i gjeldande produkt/rolla
+product.cannotContainSelf|produkt/rolle kan ikkje innehalda seg sjølv
 product.codeAlreadyExists|det finst allereie eit produkt med denne koden
 product.shortNameAlreadyExists|eit produkt med dette korte namnet finst allereie
-warn.permanentlyDeleteCustomer|før du slettar denne kunden, VÊR MERKSAM PÅ FØLGJANDE!
-warn.permanentlyDeleteCustomer1|er du heilt, absolutt, positivt, komplett sikker på at kunden må slett?
-warn.customerHasHistory|denne kunden har e-læringshistorikk, og sletting vil resultere i tap av rapporteringsdata!!
+warn.permanentlyDeleteCustomer|før du slettar denne kunden, VER MERKSAM PÅ FØLGJANDE!
+warn.permanentlyDeleteCustomer1|er du heilt, absolutt, positivt, komplett sikker på at kunden må slettast?
+warn.customerHasHistory|denne kunden har e-læringshistorikk, og sletting vil resultera i tap av rapporteringsdata!!
 warn.xCustomersAffiliatedWithThisCustomer|det er [X] kundar knytte til denne kunden!
-warn.usersAffiliatedWithThisOrAChildUnit|brukarar er knytte til denne og/eller ei av undereiningane
+warn.usersAffiliatedWithThisOrAChildUnit|brukarar er knytt til denne og/eller ei av undereiningane
 warn.authorizedUsernamesAffiliatedWithThisOrAChildUnit|godkjende brukarnamn er knytt til denne og/eller ei av undereiningane
-warn.theseMustBeDeletedOrMovedBeforeDeletingTheUnit|desse må flyttast eller blir sletta før du kan slette eininga
+warn.theseMustBeDeletedOrMovedBeforeDeletingTheUnit|desse må flyttast eller slettast før du kan sletta eininga
 warn.onlyOneVLUserPerOrg|berre éin (1) VL-brukar per organisasjon er tillaten
-warn.onlyOneVLUserPerOrg1|følgjande VL-bruk kan derfor ikkje flyttast før den eksisterande VL-brukaren for denne organisasjonen er fjerna.
+warn.onlyOneVLUserPerOrg1|følgjande VL-brukar kan derfor ikkje flyttast før den eksisterande VL-brukaren for denne organisasjonen er fjerna.
 error.unknown|ukjend feil
 error.happened|ein feil oppstod
-error.coundNotStartJob|kunne ikkje starte jobben. Jobbstartar sa: [X]
+error.coundNotStartJob|kunne ikkje starta jobben. Jobbstartar sa: [X]
 error.usernameExists|brukarnamnet er allereie i bruk
-error.orgXAlreadyHasVLUserY|vL-bruker [Y] er allereie knytt til organisasjonen [X]
-error.emailDomainMissing|e-postdomene manglar. Kan det vere eit feilplassert komma?
-error.emailDomainContainsAt|e-postdomene skal berre innehalde den delen av ei e-postadresse som kjem etter alfakrøllen (@)
-error.emailDomainMustHaveDot|e-postdomene må innehalde minst eit punktum
-error.emailDomainStartsOrEndsWithDot|e-postdomene kan ikkje begynne eller slutte med punktum
+error.orgXAlreadyHasVLUserY|vL-bruker [Y] er allereie tilknytt organisasjonen [X]
+error.emailDomainMissing|e-postdomene manglar. Kan det vera eit feilplassert komma?
+error.emailDomainContainsAt|e-postdomene skal berre innehalda den delen av ei e-postadresse som kjem etter alfakrøllen (@)
+error.emailDomainMustHaveDot|e-postdomene må innehalda minst eitt punktum
+error.emailDomainStartsOrEndsWithDot|e-postdomene kan ikkje byrja eller slutta med punktum
 error.duplicateEmailDomainsInString|inneheld dupliserte domene
 error.invalidEmailAddress|ugyldig e-postadresse
-error.passwordMissing|passord må angivast
+error.passwordMissing|passord må oppgivast
 error.thisUserHasNoPassword|denne brukaren har ikkje fått passord. Skriv inn passord
-error.invalidIpAddress|iP-adresser må innehalde 4 tal mellom 0 og 255 som er delt med eit punktum (.). Til: 192.168.0.1
+error.invalidIpAddress|iP-adresser må innehalda 4 tal mellom 0 og 255 som er delte med eit punktum (.). Til dømes: 192.168.0.1
 error.officialUnitCanOnlyBeAddedToOfficialUnits|ei offisiell eining kan berre leggjast til andre offisielle einingar.
 error.systemErrorX|det oppstod ein systemfeil og handlinga kunne ikkje utførast. Systemfeil: [X]
 error.reportFailed|det oppstod ein feil og rapporten kunne ikkje opprettast. Viss problemet held fram, vennlegast kontakt systemadministratoren
-error.couldNotSaveChanges|kunne ikkje lagre endringar. Rett feil og prøv igjen
-error.couldNotDeleteItem|kunne ikkje slette oppføringa
+error.couldNotSaveChanges|kunne ikkje lagra endringar. Rett feil og prøv igjen
+error.couldNotDeleteItem|kunne ikkje sletta oppføringa
 error.oneOrMoreErrorsHappened|ein eller fleire feil oppstod
-error.cannotSaveDueToProductRowErrors|kan ikkje lagre på grunn av feil i ein eller fleire produktrader
-error.genericFormError|kunne ikkje utføre handlinga. Sjå gjennom skjemaet og prøv igjen
-error.commonUsersCannotAuthorizeUsernames|fellesbrukarar kan ikkje registrere godkjende brukarnamn
-error.cannotEditDueToErrorInAnotherRow|kan ikkje redigere rad på grunn av feil i ei anna rad
-error.cannotAddRowDueToErrorInAother|kan ikkje leggje til rad på grunn av feil i ei anna rad
+error.cannotSaveDueToProductRowErrors|kan ikkje lagra på grunn av feil i ei eller fleire produktrader
+error.genericFormError|kunne ikkje utføra handlinga. Sjå gjennom skjemaet og prøv igjen
+error.commonUsersCannotAuthorizeUsernames|fellesbrukarar kan ikkje registrera godkjende brukarnamn
+error.cannotEditDueToErrorInAnotherRow|kan ikkje redigera rad på grunn av feil i ei anna rad
+error.cannotAddRowDueToErrorInAother|kan ikkje leggja til rad på grunn av feil i ei anna rad
 error.importNotDoneDueToFollowingErrors|import ikkje utført på grunn av følgjande feil
-error.serverErrorWithoutMessage|det oppstod ein serverfeil, men inga melding blei gitt
-error.noPrimeFoundForThisResult|ingen prime-request blei funne for dette resultatet
-error.authUsernameOwnerMustBeAttachedToVLUser|bruk som registrerer godkjende brukarnamn må vere knytt til ein VL-brukar
-error.cannotChangeBecauseResultsExists|kan ikkje forandrast fordi det finst mottekne resultat for dette kurset
-error.cannotDeleteBecauseResultsExists|kan ikkje slette fordi det finst mottekne resultat for dette kurset
+error.serverErrorWithoutMessage|det oppstod ein serverfeil, men inga melding vart gitt
+error.noPrimeFoundForThisResult|ingen prime-request vart funne for dette resultatet
+error.authUsernameOwnerMustBeAttachedToVLUser|brukar som registrerer godkjende brukarnamn må vera knytt til ein VL-brukar
+error.cannotChangeBecauseResultsExists|kan ikkje endrast fordi det finst mottekne resultat for dette kurset
+error.cannotDeleteBecauseResultsExists|kan ikkje sletta fordi det finst mottekne resultat for dette kurset
 error.emailDomainCanOnlyBeRegisteredOnVLUsers|e-postdomene kan berre registrerast på brukarar i VL-brukarkategorien
-error.onlyNormalUsersCanHaveThisProduct|berre brukarar i brukarkategorien normalbruk kan inneha denne rolla/produktet
+error.onlyNormalUsersCanHaveThisProduct|berre brukarar i brukarkategorien normalbrukar kan ha denne rolla/produktet
 error.multipleParentUsersNotSupported|fleire overordna brukarar blir ikkje støtta
 error.usernameIsAuthorizedAndInUse|brukarnamn ikkje tilgjengeleg, godkjent brukarnamn er i bruk
 error.incompleteElrApiConfiguration|mangelfull eLearnReception API-konfigurasjon
-error.userDefinedUnitsNeedsParent|brukerdefinerte einingar kan berre opprettast under ei eksisterande offisiell eining
-error.userDefinedUnitParentMustBeOfficial|brukerdefinerte einingar kan berre opprettast under offisielle einingar
+error.userDefinedUnitsNeedsParent|brukardefinerte einingar kan berre opprettast under ei eksisterande offisiell eining
+error.userDefinedUnitParentMustBeOfficial|brukardefinerte einingar kan berre opprettast under offisielle einingar
 error.unitsOfTypeXCannotBeAddedToBrregTree|einingar av typen [X] kan ikkje leggjast til eit Brreg-hierarki
 error.failedWrongUserNameAndOrPassword|mislykkast (feil brukarnamn og/eller passord)
 error.requestIgnoredWrongApiVersion|førespurnad ignorert - feil ApiVersion
-error.swedishMunicipalitiesNotUpdated|svenske kommunar/fylke blei ikkje oppdaterte
-error.norwegianMunicipalitiesNotUpdated|norske kommunar og fylke blei ikkje oppdaterte
-error.cannotStartJobBecauseAnotherIsRunning|kan ikkje starte import - ein annan importjobb køyrer allereie
+error.swedishMunicipalitiesNotUpdated|svenske kommunar/fylke vart ikkje oppdaterte
+error.norwegianMunicipalitiesNotUpdated|norske kommunar og fylke vart ikkje oppdaterte
+error.cannotStartJobBecauseAnotherIsRunning|kan ikkje starta import - ein annan importjobb køyrer allereie
 error.errorDuringExport|det oppstod ein feil under eksport
 error.receivedWebhookWithoutId|fekk webhook-samtale utan ID!?
 error.invalidWebhookId|ugyldig webhook-ID
 error.secretKeyNotFound|fann ikkje hemmeleg nøkkel
 error.messageCouldNotBeValidated|meldinga kunne ikkje validerast
-error.ipFormatError|iP må innehalde 4 heiltal skilt med '.'. Til: 192.168.0.1
-error.ipMaskMustBeNumeric|maske kan berre innehalde tal
+error.ipFormatError|iP må innehalda 4 heiltal skilt med ’.’. Til dømes: 192.168.0.1
+error.ipMaskMustBeNumeric|maske kan berre innehalda tal
 error.ipMaskInvalid|ugyldig maske
-error.couldNotConvertIpMask|kunne ikkje konvertere nettverksmaske
+error.couldNotConvertIpMask|kunne ikkje konvertera nettverksmaske
 error.invalidSubnet/netmask|ugyldig subnett/nettmaske
-error.invalidIpRange|iP-området må innehalde to adresser delte med '-'-teikn. Til 192.168.0.10-192.168.0.20
-error.fromIpMustBeGreaterOrEqualToToIp|frå IP må vere større enn eller lik IP
-error.ipAddressCannotBeZero|iP-adressen kan ikkje vere 0
-error.hostIpCannotBeASubnetAddress|iP-adressen til ein enkelt vert kan ikkje vere ein subnettadresse
+error.invalidIpRange|iP-området må innehalda to adresser delte med ’-’-teikn. Til dømes 192.168.0.10-192.168.0.20
+error.fromIpMustBeGreaterOrEqualToToIp|frå IP må vera større enn eller lik IP
+error.ipAddressCannotBeZero|iP-adressen kan ikkje vera 0
+error.hostIpCannotBeASubnetAddress|iP-adressen til ein enkelt vert kan ikkje vera ein subnettadresse
 error.ifProblemPersistsContactSysAdmin|viss problemet held fram, vennlegast kontakt systemadministrator
 error.invalidSocialSecurityNumber|ugyldig personnummer
-error.userXDoesNotExistInEBA|bruk '[X]' eksisterer ikkje i EBA
+error.userXDoesNotExistInEBA|brukar ’[X]’ eksisterer ikkje i EBA
 error.onlyVlUsersCanHaveCrmLinks|CRM-lenkjer kan berre registrerast for VL-brukarar
+error.invalidSearchExpression|du har oppgitt eit ugyldig søkjeuttrykk
+error.noSearchExpression|du må skriva inn noko å søkja etter
+error.genericSearchError|det oppstod ein feil under søk
 userMessages.msg0000|ein ukjend feil oppstod. Viss problemet held fram, kontakt oss for ei rask løysing.
-userMessages.msg0001|feil. Ver vennleg og prøv å registrere deg på nytt. Viss problemet held fram, kontakt oss for ei rask løysing.
+userMessages.msg0001|feil. Ver vennleg og prøv å registrera deg på nytt. Viss problemet held fram, kontakt oss for ei rask løysing.
 userMessages.msg0002|feltet må fyllast ut
 userMessages.msg0003|ugyldig e-postadresse
 userMessages.msg0004|felta stemmer ikkje overeins
 userMessages.msg0005|brukarnamn er ikkje tilgjengeleg
-userMessages.msg0006|prøvebruk er ikkje tilgjengeleg på grunn av karantene.
+userMessages.msg0006|prøvebrukar er ikkje tilgjengeleg på grunn av karantene.
 userMessages.msg0007|ver vennleg og vel eit alternativ
 userMessages.msg0008|personleg brukaroppretting er ikkje tilgjengeleg for denne e-postadressa.
-userMessages.msg0009|brukaren din blei oppretta. Du vil umiddelbart få ein e-post med instruksjonar for aktivering av brukaren din.
+userMessages.msg0009|brukaren din vart oppretta. Du vil straks få ein e-post med instruksjonar for aktivering av brukaren din.
 userMessages.msg0010|inga aktivering ventar på denne brukaren, eller brukaren er allereie aktivert.
-userMessages.msg0011|fristen for å aktivere brukaren din er gått ut. Ver vennleg og prøv å registrere deg på nytt.
-confirm.misc.permanentlyDeleteCustomer|er du sikker på at du vil slette denne kunden permanent?
-confirm.misc.permanentlyDeleteXCustomers|er du sikker på at du vil slette desse [X] kundane permanent?
-confirm.misc.permanentlyDeleteCustomer2|er du heilt sikker på at du vil slette denne kunden?Kunden vil bli sletta permanent!Ikkje mogleg å angre!
-confirm.misc.permanentlyDeleteXCustomers2|er du heilt sikker på at du vil slette desse [X] kundane?Kundar blir sletta permanent!Ikkje mogleg å angre!
+userMessages.msg0011|fristen for å aktivera brukaren din er utgått. Ver vennleg og prøv å registrera deg på nytt.
+confirm.misc.permanentlyDeleteCustomer|er du sikker på at du vil sletta denne kunden permanent?
+confirm.misc.permanentlyDeleteXCustomers|er du sikker på at du vil sletta desse [X] kundane permanent?
+confirm.misc.permanentlyDeleteCustomer2|er du heilt sikker på at du vil sletta denne kunden?<br/>Kunden vil bli sletta permanent! <br/>Ikkje mogleg å angra!
+confirm.misc.permanentlyDeleteXCustomers2|er du heilt sikker på at du vil sletta desse [X] kundane?<br/>Kunder blir sletta permanent!<br/>Ikkje mogleg å angra!
 confirm.deleteRight.title|slette rett
-confirm.deleteRight.msg|er du sikker på at du vil slette denne retten?
-confirm.deleteRight.doing|sletter rett.
+confirm.deleteRight.msg|er du sikker på at du vil sletta denne retten?
+confirm.deleteRight.doing|sletter rett...
 confirm.removeProduct.title|fjerne produkt/rolle
-confirm.removeProduct.msg|er du sikker på at du vil fjerne produktet/rolla?
-confirm.removeProduct.doing|fjernar produkt/rolle.
+confirm.removeProduct.msg|er du sikker på at du vil fjerna produktet/rolla?
+confirm.removeProduct.doing|fjernar produkt/rolle...
 confirm.deleteProduct.title|slette produkt/rolle
-confirm.deleteProduct.msg|er du sikker på at du vil slette produktet/rolla?
-confirm.deleteProduct.doing|sletter produkt/rolle.
+confirm.deleteProduct.msg|er du sikker på at du vil sletta produktet/rolla?
+confirm.deleteProduct.doing|sletter produkt/rolle...
 confirm.deleteCapability.title|slette evne
-confirm.deleteCapability.msg|er du sikker på at du vil slette denne evna?
-confirm.deleteCapability.doing|sletter evne.
+confirm.deleteCapability.msg|er du sikker på at du vil sletta denne evna?
+confirm.deleteCapability.doing|sletter evne...
 confirm.removeProductCapability.title|fjern evna
-confirm.removeProductCapability.msg|er du sikker på at du vil fjerne denne evna frå produktet?
-confirm.removeProductCapability.doing|fjernar evna.
+confirm.removeProductCapability.msg|er du sikker på at du vil fjerna denne evna frå produktet?
+confirm.removeProductCapability.doing|fjernar evna...
 confirm.removeProductRight.title|fjern rett
-confirm.removeProductRight.msg|er du sikker på at du vil fjerne denne retten frå produktet?
-confirm.removeProductRight.doing|fjernar rett.
+confirm.removeProductRight.msg|er du sikker på at du vil fjerna denne retten frå produktet?
+confirm.removeProductRight.doing|fjernar rett...
 confirm.deleteConfig.title|slette konfigurasjon
-confirm.deleteConfig.msg|er du sikker på at du vil slette konfigurasjonen?
-confirm.deleteConfig.doing|sletter konfigurasjon.
+confirm.deleteConfig.msg|er du sikker på at du vil sletta konfigurasjonen?
+confirm.deleteConfig.doing|sletter konfigurasjon...
 confirm.deleteUnit.title|slette eining
-confirm.deleteUnit.msg|er du sikker på at du vil slette denne eininga og undereiningane dens?
-confirm.deleteUnit.doing|sletter eining.
+confirm.deleteUnit.msg|er du sikker på at du vil sletta denne eininga og dens undereiningar?
+confirm.deleteUnit.doing|sletter eining...
 confirm.deleteItem.title|slett oppføring
-confirm.deleteItem.msg|er du sikker på at du vil slette denne oppføringa?
-confirm.deleteItem.doing|sletter oppføring.
-confirm.saveChanges.title|lagra endringar
+confirm.deleteItem.msg|er du sikker på at du vil sletta denne oppføringa?
+confirm.deleteItem.doing|sletter oppføring...
+confirm.saveChanges.title|lagre endringar
 confirm.saveChanges.msg|er du sikker på at du vil lagra endringane?
-confirm.saveChanges.doing|lagrar endringar.
-confirm.saveUnsaved.title|lagra endringar
-confirm.saveUnsaved.msg|det finst ulagrede endringar! Vil du lagra dei?
-confirm.saveUnsaved.doing|lagrar endringar.
-confirm.saveYearwheel.title|lagra årshjul
+confirm.saveChanges.doing|lagrar endringar...
+confirm.saveUnsaved.title|lagre endringar
+confirm.saveUnsaved.msg|det finst #ulagreir endringar! Vil du lagra dei?
+confirm.saveUnsaved.doing|lagrar endringar...
+confirm.saveYearwheel.title|lagre årshjul
 confirm.saveYearwheel.msg|vil du lagra dette årshjulet?
-confirm.saveYearwheel.doing|lagrar årshjul.
+confirm.saveYearwheel.doing|lagrar årshjul...
 confirm.createYearwheel.title|laga årshjul
-confirm.createYearwheel.msg|vil du lage eit nytt årshjul?
-confirm.createYearwheel.doing|skaper årshjul.
+confirm.createYearwheel.msg|vil du laga eit nytt årshjul?
+confirm.createYearwheel.doing|skaper årshjul...
 confirm.deleteYearwheel.title|slett årshjul
-confirm.deleteYearwheel.msg|er du sikker på at du vil slette dette årshjulet?
-confirm.deleteYearwheel.doing|sletter årshjul.
+confirm.deleteYearwheel.msg|er du sikker på at du vil sletta dette årshjulet?
+confirm.deleteYearwheel.doing|sletter årshjul...
 confirm.downloadYearwheelPdf.title|last ned som PDF
-confirm.downloadYearwheelPdf.msg|laste ned dette årshjulet som ein PDF-fil?
-confirm.downloadYearwheelPdf.doing|ver vennleg og vent, opprettar PDF-fil.
-confirm.importUnits.title|importere einingar
-confirm.importUnits.msg|er du sikker på at du vil importere einingar?
-confirm.importUnits.doing|importere einingar.
-confirm.importUsers.title|importere brukarar
-confirm.importUsers.msg|er du sikker på at du vil importere brukarar?
-confirm.importUsers.doing|importerer brukarar.
+confirm.downloadYearwheelPdf.msg|lasta ned dette årshjulet som ei PDF-fil?
+confirm.downloadYearwheelPdf.doing|ver vennleg og vent, opprettar PDF-fil...
+confirm.importUnits.title|importera einingar
+confirm.importUnits.msg|er du sikker på at du vil importera einingar?
+confirm.importUnits.doing|importera einingar...
+confirm.importUsers.title|importera brukarar
+confirm.importUsers.msg|er du sikker på at du vil importera brukarar?
+confirm.importUsers.doing|importerer brukarar...
 confirm.exportUnitsCsv.title|eksport einingar
-confirm.exportUnitsCsv.msg|eksportere vald eining og undereiningane dens til CSV?
-confirm.exportUnitsCsv.doing|eksporterer.
+confirm.exportUnitsCsv.msg|eksportera vald eining og dens undereiningar til CSV?
+confirm.exportUnitsCsv.doing|eksporterer...
 confirm.exportUnitsToVismaLearn.title|eksporteiningar
-confirm.exportUnitsToVismaLearn.msg|er du sikker på at du vil eksportere einingar til Visma Learning?
-confirm.exportUnitsToVismaLearn.doing|eksporterer.
-confirm.exportUsersToVismaLearn.title|eksportere brukarar
-confirm.exportUsersToVismaLearn.msg|er du sikker på at du vil eksportere brukarar til Visma Learning?
-confirm.exportUsersToVismaLearn.doing|eksporterer brukarar.
-confirm.startPpImportJob.title|begynne å importere Plusport-avdelingar/brukarar
-confirm.startPpImportJob.msg|er du sikker på at du vil starte denne jobben?
-confirm.startPpImportJob.doing|startar jobben.
+confirm.exportUnitsToVismaLearn.msg|er du sikker på at du vil eksportera einingar til Visma Learning?
+confirm.exportUnitsToVismaLearn.doing|eksporterer...
+confirm.exportUsersToVismaLearn.title|eksportera brukarar
+confirm.exportUsersToVismaLearn.msg|er du sikker på at du vil eksportera brukarar til Visma Learning?
+confirm.exportUsersToVismaLearn.doing|eksporterer brukarar...
+confirm.startPpImportJob.title|byrja å importera Plusport-avdelingar/brukarar
+confirm.startPpImportJob.msg|er du sikker på at du vil starta denne jobben?
+confirm.startPpImportJob.doing|startar jobben...
 confirm.deleteUsername.title|slett brukarnamn
-confirm.deleteUsername.msg|er du sikker på at du vil slette dette brukarnamnet?
-confirm.deleteUsername.doing|sletter brukarnamn.
+confirm.deleteUsername.msg|er du sikker på at du vil sletta dette brukarnamnet?
+confirm.deleteUsername.doing|sletter brukarnamn...
 confirm.currentSelectionPageviews.title|sidevisningar
-confirm.currentSelectionPageviews.msg|det gjeldande utvalet inkluderer [X] brukarar.Google Analytics kan bruke litt tid på å grave opp data for dette talet brukarar.Køyre på ?
-confirm.currentSelectionPageviews.doing|hentar sidevisningar.
+confirm.currentSelectionPageviews.msg|det gjeldande utvalet inkluderer [X] brukarar. <br/> Google Analytics kan bruka litt tid på å grava opp data for dette talet brukarar.<br/>Køyra på?
+confirm.currentSelectionPageviews.doing|hentar sidevisningar...
 confirm.emailCustomer.title|send e-post
-confirm.emailCustomer.msg|er du sikker på at du vil sende [X] til denne kunden?
-confirm.emailCustomer.doing|sender e-post.
+confirm.emailCustomer.msg|er du sikker på at du vil senda [X] til denne kunden?
+confirm.emailCustomer.doing|sender e-post...
 confirm.deleteCustomer.title|slette bruker
-confirm.deleteCustomer.msg|er du sikker på at du vil slette denne kunden?
-confirm.deleteCustomer.doing|sletter kunde .
+confirm.deleteCustomer.msg|er du sikker på at du vil sletta denne kunden?
+confirm.deleteCustomer.doing|sletter kunde ...
 confirm.permanentlyDeleteCustomer.title|slette kunden permanent
-confirm.permanentlyDeleteCustomer.msg|er du sikker på at du vil slette denne kunden permanent?
-confirm.permanentlyDeleteCustomer.doing|sletter kunde permanent.
+confirm.permanentlyDeleteCustomer.msg|er du sikker på at du vil sletta denne kunden permanent?
+confirm.permanentlyDeleteCustomer.doing|sletter kunde permanent...
 confirm.permanentlyDeleteCustomer1.title|stadfest permanent sletting
 confirm.permanentlyDeleteCustomer1.msg|heilt sikker?
-confirm.permanentlyDeleteCustomer1.doing|sletter kunde permanent.
-confirm.restoreCustomer.title|rette opp igjen kunden
-confirm.restoreCustomer.msg|er du sikker på at du vil rette opp igjen denne kunden?
-confirm.restoreCustomer.doing|rettar opp igjen kunde.
-confirm.importCustomers.title|importere kundar
-confirm.importCustomers.msg|er du sikker på at du vil importere kundar frå vald fil?
-confirm.importCustomers.doing|importere kundar.
+confirm.permanentlyDeleteCustomer1.doing|sletter kunde permanent...
+confirm.restoreCustomer.title|gjenoppretta kunden
+confirm.restoreCustomer.msg|er du sikker på at du vil gjenoppretta denne kunden?
+confirm.restoreCustomer.doing|gjenopprettar kunde...
+confirm.importCustomers.title|importera kundar
+confirm.importCustomers.msg|er du sikker på at du vil importera kundar frå vald fil?
+confirm.importCustomers.doing|importera kundar...
 confirm.deleteCourse.title|slett kurs
-confirm.deleteCourse.msg|er du sikker på at du vil slette dette kurset?
-confirm.deleteCourse.doing|sletter kurs.
-confirm.sendQuizReceived.title|send 'svar motteke'
-confirm.sendQuizReceived.msg|er du sikker på at du vil sende 'svar-mottatt' e-post til kviss-deltakaren?
-confirm.sendQuizReceived.doing|sender 'svar-mottatt' e-post .
+confirm.deleteCourse.msg|er du sikker på at du vil sletta dette kurset?
+confirm.deleteCourse.doing|sletter kurs...
+confirm.sendQuizReceived.title|send ’svar motteke’
+confirm.sendQuizReceived.msg|er du sikker på at du vil senda ’svar-motteken’ e-post til quiz-deltakaren?
+confirm.sendQuizReceived.doing|sender ’svar-motteke’ e-post ...
 confirm.sendDiploma.title|send kursbevis
-confirm.sendDiploma.msg|er du sikker på at du vil sende kursbevis til [X]?
-confirm.sendDiploma.doing|sender kursbevis.
+confirm.sendDiploma.msg|er du sikker på at du vil senda kursbevis til [X]?
+confirm.sendDiploma.doing|sender kursbevis...
 confirm.deleteGroup.title|slett gruppe
-confirm.deleteGroup.msg|er du sikker på at du vil slette denne gruppa?
-confirm.deleteGroup.doing|sletter gruppe.
+confirm.deleteGroup.msg|er du sikker på at du vil sletta denne gruppa?
+confirm.deleteGroup.doing|sletter gruppe...
 confirm.deleteOrg.title|slett organisasjon
-confirm.deleteOrg.msg|er du sikker på at du vil slette denne organisasjonen?
+confirm.deleteOrg.msg|er du sikker på at du vil sletta denne organisasjonen?
 confirm.deleteOrg.doing|sletter organisasjonen …
 confirm.deleteUser.title|slett brukar
-confirm.deleteUser.msg|er du sikker på at du vil slette denne brukaren?
-confirm.deleteUser.doing|sletter bruk.
-confirm.addUserToVismaConnect.title|legg til bruk
-confirm.addUserToVismaConnect.msg|er du sikker på at du vil leggje denne brukaren til Visma Connect?
-confirm.addUserToVismaConnect.doing|legg til bruk .
+confirm.deleteUser.msg|er du sikker på at du vil sletta denne brukaren?
+confirm.deleteUser.doing|sletter brukar...
+confirm.addUserToVismaConnect.title|legg til brukar
+confirm.addUserToVismaConnect.msg|er du sikker på at du vil leggja denne brukaren til Visma Connect?
+confirm.addUserToVismaConnect.doing|legg til brukar ...
 confirm.sendEmailToUserX.title|send e-post til brukaren
-confirm.sendEmailToUserX.msg|sende e-post til bruker [X]?
-confirm.sendEmailToUserX.doing|sender e-post.
+confirm.sendEmailToUserX.msg|senda e-post til bruker [X]?
+confirm.sendEmailToUserX.doing|sender e-post...
 confirm.deleteEmailTemplate.title|slett e-postmal
-confirm.deleteEmailTemplate.msg|er du sikker på at du vil slette denne e-postmalen?
-confirm.deleteEmailTemplate.doing|sletter e-postmal.
+confirm.deleteEmailTemplate.msg|er du sikker på at du vil sletta denne e-postmalen?
+confirm.deleteEmailTemplate.doing|sletter e-postmal...
 confirm.startSoExportJob.title|start SuperOffice eksport
-confirm.startSoExportJob.msg|er du sikker på at du vil starte denne jobben no?
-confirm.startSoExportJob.doing|startar jobben.
+confirm.startSoExportJob.msg|er du sikker på at du vil starta denne jobben no?
+confirm.startSoExportJob.doing|startar jobben...
 lbl.forceRootUnit.value|tving rotenhet
 lbl.forceRootUnit.placeholder|0
-lbl.forceRootUnit.tooltip|ved avhuking her, blir vist data for heile organisasjonen.
+lbl.forceRootUnit.tooltip|ved avhuking her, vises data for heile organisasjonen.
 label.learnerName|kurstagers namn
 label.learnerEmail|kurstagers e-post
 label.courseId|kurs-ID
@@ -1138,10 +1160,10 @@ label.courseDuration|varigheita til kurset
 label.courseTakenDate|kursdato
 label.diplomaSent|diplom seint
 label.diplomaNo|diplom nr.
-label.allowWebService|tillate Webservice
+label.allowWebService|tillata Webservice
 label.diplomaMetadata|metadata for diplom
-label.showAttach|vis knyte til
-label.showAttached|vis tilknytta
+label.showAttach|vis knyta til
+label.showAttached|vis tilknytte
 label.showDeleted|vis sletta
 label.onlyActive|berre aktive
 label.onlySingleChoise|berre enkeltval
@@ -1163,15 +1185,15 @@ label.usersApiUrl|users API URL
 label.rootDepartment|rotavdeling
 label.catalogUrl|katalog url
 label.healthCareUrl|helse og omsorg URL
-label.schoolUrl|skole URL
+label.schoolUrl|skule URL
 label.kindergartenUrl|barnehage URL
 label.childWelfareUrl|barnevern URL
 label.courseUrl|kurs URL
 label.rootExternalId|rotavdeling ID
 label.forceAllUsers|fungerer på ALLE brukarar
 label.forceRootUnit|tving rotenhet
-label.attachedCustomers|tilknytta brukarar
-label.notAttachedCustomers|ikkje tilknytta kundar
+label.attachedCustomers|tilknytte brukarar
+label.notAttachedCustomers|ikkje tilknytte kundar
 label.notAttachedAnyOrganization|ikkje knytte til nokon organisasjon
 label.authorizationType|autorisasjonstype
 label.deleteDate|slettedato
@@ -1179,8 +1201,8 @@ label.orgAttachment|org-tilknytning
 label.forceUnitSelection|tving einingsval
 label.username|brukarnamn (e-post)
 label.usernameIsEmail|brukarnamn er e-post
-label.useVismaLearn|bruke Visma Learning
-label.canChangePassword|kan forandre passord
+label.useVismaLearn|bruka Visma Learning
+label.canChangePassword|kan endra passord
 label.newsOptional|valfrie nyheitsmeldingar
 label.accountEnabled|konto aktivert
 label.trialSubscription|prøveabonnement
@@ -1190,33 +1212,33 @@ label.reportAreaMaxPath|maks bane
 label.onlyWithXmlParseError|berre med XML-parsefeil
 label.onlyDiplomaNotSent|berre diplom ikkje sendt
 label.onlyTraceableUsers|berre sporbare brukarar
-label.onlyAnsverReceivedNotSent|berre 'svar-mottatt' ikkje sendt
-label.onlyAttachedUsers|berre tilknytta brukarar
+label.onlyAnsverReceivedNotSent|berre ’svar-motteke’ ikkje sendt
+label.onlyAttachedUsers|berre tilknytte brukarar
 label.csvDelimiter|cSV-skilletegn
 label.csvSeparator|cSV-separator
 label.csvFile|cSV-fil
 label.changeOrg|byte org
 label.changeOrganization|byte organisasjon
 label.changeUnit|byte eining
-label.allowSectorNotRelevant|tillat sektor 'ikkje relevant'
+label.allowSectorNotRelevant|tillat sektor ’ikkje relevant’
 label.givesSuperuserRight|gir superbrukarrett
 label.onlyExportOwnProducts|eksportar berre eigne produkt
-label.onlyPersonalia|berre personopplysingar
+label.onlyPersonalia|berre personopplysningar
 label.createNewCustomers|opprett nye kundar
-label.sendEmailOnSuccess|send e-post viss OK
+label.sendEmailOnSuccess|send e-post om OK
 label.sendEmailOnFail|send e-post ved feil
 label.sendEmailToNewCustomers|send e-post til nye kundar
-label.primeDate|prime dato
-label.timeBetweenPrimeAndResult|tid mellom prime og resultat
+label.primeDate|prima dato
+label.timeBetweenPrimeAndResult|tid mellom prima og resultat
 label.flashVersion|flash-versjon
 label.sectorRootPageId|sektor rotside-ID
 label.useragent|useragent
 label.brregRegisteredDate|brreg registreringsdato
 label.underForcedLiquidation|under tvangsavvikling
 label.underLiquidation|under avvikling
-label.isInFoundationRegister|registrert i stiftelsesregisteret
+label.isInFoundationRegister|registrert i stiftingsregisteret
 label.isInVatRegister|registrert i MVA registeret
-label.isInVoluntarinessRegister|registrert i frivillighetsregisteret
+label.isInVoluntarinessRegister|registrert i #frivilligregisteret
 label.isInBusinessRegister|registrert i føretaksregisteret
 label.businessCode|næringskode
 label.institutionalSectorCode|institusjonell sektorkode
@@ -1231,17 +1253,17 @@ label.emailFromAddress|e-post frå adresse
 label.emailFromName|e-post frå namn
 label.emailReplyToAddress|e-post svartil adresse
 label.emailReplyToName|e-post svartil namn
-label.initialProductsNewUser|initielle produkt for nye brukarar
-label.initialProductsSelfregTrialUser|initielle produkt for selvregistrerte prøvebrukarar
-label.initialProductsSelfregUser|initielle produkt for selvregistrerte brukarar
+label.initialProductsNewUser|initiale produkt for nye brukarar
+label.initialProductsSelfregTrialUser|initiale produkt for sjølvregistrerte prøvebrukarar
+label.initialProductsSelfregUser|initiale produkt for sjølvregistrerte brukarar
 label.trialUserPeriodInDays|prøvebrukarperiode i dagar
 label.trialUserQuarantineInDays|prøvebrukar karantenetid i dagar
-label.trialUserDeletedAfterDays|gått ut prøvebruk blir sletta etter dagar
+label.trialUserDeletedAfterDays|utgåttt prøvebrukar blir sletta etter dagar
 label.failMailsTo|feil/varsling blir send til
-label.googleAnalyticsViewId|google Analytics viewID
-label.googleAnalyticsReportPeriodInDays|google Analytics rapportperiode i dagar
-label.inactiveMonthsBeforeAreYouAlive|bruk inaktiv månadar før AreYouAlive
-label.monthsBetweenAreYouAlive|månadar mellom følgjande AreYouAlive
+label.googleAnalyticsViewId|googla Analytics viewID
+label.googleAnalyticsReportPeriodInDays|googla Analytics rapportperiode i dagar
+label.inactiveMonthsBeforeAreYouAlive|bruker inaktiv månader før AreYouAlive
+label.monthsBetweenAreYouAlive|månader mellom følgjande AreYouAlive
 label.crmRelevant|relevant for CRM
 abbr.customerNumber|kundenr
 abbr.shortCustomerNumber|knr
@@ -1261,16 +1283,16 @@ option.ignore|ignorer
 option.allNotified|alle som er varsla
 option.notUsedAfterNotification|ikkje brukt etter varsel
 option.hasUsedAfterNotification|har brukt etter varsel
-option.attached|knytte til
-option.onlyAttached|berre tilknytta
-option.onlyNotAttached|berre ikkje tilknytta
+option.attached|tilknytt
+option.onlyAttached|berre tilknytte
+option.onlyNotAttached|berre ikkje tilknytte
 option.notAttached|ikkje knytte til
 option.onlyWith|berre med
 option.onlyWithout|berre utan
 option.active|aktive
 option.notActive|ikkje aktive
-option.confirmed|stadfeste
-option.notConfirmed|ikkje stadfeste
+option.confirmed|stadfesta
+option.notConfirmed|ikkje stadfesta
 option.hasActiveProducts|har aktive produkt
 option.hasDeactivatedProducts|har deaktiverte produkt
 option.noOwnProducts|ingen eigne produkt
@@ -1281,9 +1303,10 @@ jobTitle.updateBrregUnits|oppdaterer Brreg-einingar
 jobTitle.addingFeideDomains|oppdaterer Feide domene
 jobTitle.areYouAlive|er du i live?
 jobTitle.connectProvisioning|conneect provisjonering
-jobTitle.exportUsersToVismaLearn|eksportere brukarar til Visma Learn
-jobTitle.exportUnitsToVismaLearn|eksportere einingar til Visma Learn
+jobTitle.exportUsersToVismaLearn|eksportera brukarar til Visma Learn
+jobTitle.exportUnitsToVismaLearn|eksportera einingar til Visma Learn
 jobTitle.soExport|lagar CSV for SuperOffice
+yearwheel.newYearwheel|nytt årshjul
 yearwheel.createNew|opprett nytt årshjul
 yearwheel.yourWheel|årshjulet ditt
 yearwheel.yourWheels|årshjula dine
@@ -1292,47 +1315,24 @@ yearwheel.newList|ny liste
 yearwheel.heading|overskrift
 yearwheel.addHeading|legg til overskrift
 yearwheel.addParagraph|legg til avsnitt
-yearwheel.addDropzone|legg til slippområde
+yearwheel.addDropzone|legg til sleppområde
 yearwheel.addBulletList|legg til punktliste
 yearwheel.newBullet|nytt punkt
 yearwheel.sectorIcon|sektorikon
 yearwheel.bulletX|punkt [X]
 yearwheel.viewHtml|vis HTML
+yearwheel.preview|førehandsvisning
 yearwheel.viewEditmode|vis redigeringsmodus
 yearwheel.listElements|liste element
 yearwheel.updatingLists|oppdaterer lister
+yearwheel.resizableImage|bilete som kan endrast storleik
+yearwheel.noYearwheelContentFound|ingen årshjul-HTML lagra
+yearwheel.backgrounds.default|hjul med månader
+yearwheel.backgrounds.blueEmpty|Tom blå
+yearwheel.images.emptyWheel|tomt hjul
+yearwheel.images.wheelWithMonths|hjul med månader
+yearwheel.images.staircaseEmployees|trappar
+yearwheel.images.productLogo|Veilederen logo
+yearwheel.images.productIcon|Veilederen icon
 yearwheel.err.noContent.title|ingen innhald
 yearwheel.err.noContent.msg|dette årshjulet er tomt, og kan derfor ikkje largres
-word.podcast|poddkast
-phrase.subjectArticle|fagleg artikkel
-phrase.linkToPage|lenkje til side
-phrase.encyclopedia/chapter|oppslagsverk/kapittel
-phrase.legalSource|rettskjelde
-phrase.privateSector|privat sektor
-error.invalidSearchExpression|du har gitt eit ugyldig søkeuttrykk
-error.noSearchExpression|du må skrive inn noko å søkje etter
-word.default|forvalt
-word.empty|tom
-yearwheel.resizableImage|bilete som kan forandrast storleik
-yearwheel.backgrounds.default|hjul med månadar
-yearwheel.backgrounds.blueEmpty|Taum blåe
-yearwheel.images.emptyWheel|tomt hjul
-yearwheel.images.wheelWithMonths|hjul med månadar
-yearwheel.images.staircaseEmployees|trapper
-yearwheel.preview|førehandsvisning
-word.image|bilete
-word.background|bakgrunn
-word.success|suksess
-phrase.userCreated|bruk oppretta
-phrase.subjectMissing|emne manglar
-phrase.personalUserCreated|brukaren din blei oppretta. Du vil snart få ein e-post med instruksjonar om korleis du aktiverer brukaren din
-phrase.trialUserCreated|prøvebrukaren er oppretta. Du vil snart få ein e-post med instruksjonar om korleis du aktiverer brukaren din
-yearwheel.newYearwheel|nytt årshjul
-yearwheel.noYearwheelContentFound|ingen årshjul-HTML lagra
-word.foreground|forgrunnen
-phrase.noVismaAppsFound|ingen appar funne
-phrase.chooseSector|vel sektor
-yearwheel.images.productLogo|veilederen logo
-yearwheel.images.productIcon|veilederen ikon
-phrase.includeInactiveUsers|inkluder inaktive brukarar
-

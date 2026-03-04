@@ -649,11 +649,6 @@ userCategory.commonUser|fellesbruker
 userCategory.vlUser|vL-bruker
 userCategory.other|andre
 email.bestRegards|med vennlig hilsen EBA
-csv.delimiter|cSV-skilletegn
-csv.separator|cSV-separator
-csv.delimiterMustBeOneChar|cSV-skilletegn kan bare inneholde ett tegn.
-csv.separatorMustBeOneChar|cSV-skilletegn kan bare inneholde ett tegn.
-csv.file|cSV-fil
 csv.error.0000|inkonsistente data, brukernavn '[X]' opptrer flere ganger i filen med forskjellige data
 csv.error.0001|fant ikke virksomhet med orgno '[X]'
 csv.error.0002|avdelings-ID er oppgitt, men ikke organisasjonsnummer for virksomhet
@@ -721,7 +716,6 @@ error.norwegianMunicipalitiesNotUpdated|norske kommuner og fylker ble ikke oppda
 error.cannotStartJobBecauseAnotherIsRunning|kan ikke starte import - en annen importjobb kjører allerede
 error.errorDuringExport|det oppstod en feil under eksport
 error.receivedWebhookWithoutId|mottok webhook-anrop uten ID!?
-error.invalidWebhookId|ugyldig webhook-ID
 error.secretKeyNotFound|fant ikke hemmelig nøkkel
 error.messageCouldNotBeValidated|meldingen kunne ikke valideres
 error.ipFormatError|iP må inneholde 4 heltall adskilt med '.'. For eksempel: 192.168.0.1
@@ -1401,7 +1395,6 @@ confirm.deletePosition.title|slette stilling
 confirm.deletePosition.msg|er du sikker på at du vil slette denne stillingen?
 confirm.deletePosition.doing|sletter stilling...
 label.authorizationForXIsRevoked|autorisasjon for [X] er tilbakekalt
-label.todayIsOutsidePeriod|i dag er det utenfor perioden
 error.cannotDeletePositionBecauseOfJobs|denne stillingen kan ikke slettes fordi den, eller en av dens underordnede, er i bruk.
 phrase.cannotBeUsedBecauseX|kan ikke brukes fordi [X]
 phrase.fetchFromMoodle|hent fra Moodle
@@ -1491,3 +1484,26 @@ phrase.managerPositionIdNumber|Ansvarlig-stilling idnumber
 label.givesManagerPositionInGlup|gir manager-stilling i glup
 label.givesAdminRoleInGlup|gir administrator rolle i Glup
 phrase.moodleImportConfigAlreadyExists|en konfigurasjon rettet mot valgt tenant i valgt instans er allerede registrert
+word.warnings|advarsler
+word.errors|feil
+phrase.XAndY|[X] og [Y]
+phrase.sendLogfilesOn|send logfil ved
+phrase.useJobSetting|bruk jobbinnstilling
+word.always|alltid
+phrase.todayIsOutsidePeriod|i dag er utenfor perioden
+tab.mergeAndOrDeleteCustomers|slå sammen og/eller slette kunder
+word.execute|utfør
+phrase.changeUsernameIfNoToUser|endre kildekundens brukernavn hvis målkunden ikke eksisterer
+phrase.setPrimarySectorJob|sett primærsektor
+tab.setPrimarySectorsFromCsv|sett primærsektor fra CSV
+phrase.overwriteKnownSector|overskriv kjent primærsektor
+tab.diverseCsvOperations|diverse CSV-operasjoner
+csv.quotationMark|cSV-anførselstegn
+csv.quotationMarkMustBeOneChar|cSV-anførselstegn kan bare inneholde ett tegn.
+csv.separator|cSV-separator
+csv.separatorMustBeOneChar|cSV-separator kan bare inneholde ett tegn.
+csv.file|cSV fil
+error.invalidWebhookIdX|ugyldig webhook id: '[X]'
+error.cannotChangeUserCategory|kan ikke endre brukerkategori på eksisterende kunder.
+phrase.includeDeactivatedAccounts|inkluder deaktiverte kontoer
+phrase.overrideInheritedSector|overstyr arvet sektor

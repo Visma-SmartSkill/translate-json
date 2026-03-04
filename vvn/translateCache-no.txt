@@ -1355,4 +1355,4 @@ phrase.chooseSector|velg sektor
 yearwheel.images.productLogo|veilederen logo
 yearwheel.images.productIcon|veilederen icon
 phrase.includeInactiveUsers|inkluder inaktive brukere
-
+error.genericSearchError|det oppstod en feil under søk
